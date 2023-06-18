@@ -1,0 +1,37 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/hats",
+            "Action": "EditData",
+            "Target": "Data/hats",
+            "Fields": {
+                "6": { // Blue Bonnet
+                    "1": "Hearken back to simpler times with this prairie bonnet."
+                },
+                "9": { // Goblin Mask
+                    "1": "Freak out the neighbourhood with this creepy mask. Rubber ear joints for effect."
+                },
+                "25" : { // Santa Hat
+                    "5": "Father Christmas Hat"
+                },
+                "30": { // Watermelon Band
+                    "1": "The colour scheme was inspired by the beloved summer melon."
+                },
+                "31": { // Mouse Ears
+                    "1": "Made from synthetic fibres."
+                },
+                "46": { // Wearable Dwarf Helm
+                    "1": "A slightly larger, human sized version of the helmets worn by dwarfs."
+                },
+                "66": { // Garbage Hat
+                    "5": "Rubbish Hat",
+                    "1": "It's a rubbish bin lid 'upcycled' into a hat..."
+                },
+                "80": { // Bluebird Mask
+                    "1": "Wear this to look just like your favourite island trader."
+                }
+
+            }
+        }
+    ]
+}

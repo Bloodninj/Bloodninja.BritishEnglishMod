@@ -1,0 +1,65 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/NPCGiftTastes",
+            "Fields": {
+                "Linus": {
+                    "6": "Why would you give this to me? Do you think I like rubbish just because I live in a tent? That's terrible."
+                },
+                "Pierre": {
+                    "0": "This is my all-time favourite! Thank you!",
+                    "4": "This isn't exactly my favourite..."
+                },
+                "Caroline": {
+                    "6": "This is absolute rubbish. I'm offended."
+                },
+                "Alex": {
+                    "6": "Are you serious? This is rubbish."
+                },
+                "George": {
+                    "0": "This is my favourite thing! Thank you."
+                },
+                "Evelyn": {
+                    "0": "*gasp*... This is absolutely marvellous!$u#$e#You've made an old lady very happy.",
+                    "6": "... It smells awful."
+                },
+                "Lewis": {
+                    "0": "Wow, this is my favourite! Thank you!"
+                },
+                "Haley": {
+                    "0": "Oh my god, this is my favourite thing!!",
+                    "2": "*gasp*... For me? Thank you!"
+                },
+                "Jas": {
+                    "6": "Urgh. This is horrible.$s"
+                },
+                "Kent": {
+                    "0": "Oh...! Mum used to give me this when I was a young boy. It brings back wonderful memories. Thank you."
+                },
+                "Sam": {
+                    "0": "Oh yeah! This is my absolute favourite!"
+                },
+                "Shane": {
+                    "0": "Oh wow, @! How'd you know this is my favourite?",
+                    "6": "Why are you giving me your rubbish?"
+                },
+                "Elliott": {
+                    "2": "This is for me? Marvellous!"
+                },
+                "Gus": {
+                    "6": "This is absolute rubbish. I'm offended."
+                },
+                "Dwarf": {
+                    "6": "I don't care what species you are. This is worthless rubbish."
+                },
+                "Harvey": {
+                    "0": "It's for me? This is my favourite stuff! It's like you read my mind."
+                },
+                "Krobus": {
+                    "0": "This is an amazing gift. For my people it is a great honour to receive something like this."
+                }
+            }
+        }
+    ]
+}

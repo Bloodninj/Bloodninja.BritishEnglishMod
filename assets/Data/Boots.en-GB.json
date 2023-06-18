@@ -1,0 +1,16 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Boots",
+            "Fields": {
+                "504": { // Sneakers
+                    "6": "Trainers"
+                },
+                "853": { // Cinderclown Shoes
+                    "1": "These magic shoes belonged to a famous Dwarfish jester."
+                }
+            }
+        }
+    ]
+}

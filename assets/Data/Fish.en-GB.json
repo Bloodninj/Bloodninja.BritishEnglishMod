@@ -1,0 +1,23 @@
+{
+    "Changes": [
+        // {
+        //     "LogName": "Edit Data/Fish",
+        //     "Action": "EditData",
+        //     "Target": "Data/Fish",
+        //     "TargetField": ["720"],
+        //     "Entries": {
+        //         "7": "Prawn"
+        //     }
+        // }
+        {
+            "LogName": "Edit Data/Fish",
+            "Action": "EditData",
+            "Target": "Data/Fish",
+            "Fields": {
+                "720": { // Shrimp
+                    "7": "Prawn"
+                }
+            }
+        }
+    ]
+}

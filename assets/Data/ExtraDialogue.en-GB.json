@@ -1,0 +1,95 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/ExtraDialogue",
+            "Action": "EditData",
+            "Target": "Data/ExtraDialogue",
+            "Fields": {
+                "AnimalShop_Marnie_Trash": {
+                    "0": "Why are you looking through my rubbish bin?$s"
+                },
+                "Gunther_NoArtifactsFound": {
+                    "0": "Hello there! Welcome to the Stardew Valley Archaeological Office.#$b#Uh... This is embarrassing, but the previous curator made off with the entire collection. We don't have any artefacts for display.#$b#But I'm hoping to remedy that soon! Hey, if you find any artefacts or minerals out there... would you let me know?"
+                },
+                "MisterQi_PlayerClubMember": {
+                    "0": "It's good to finally meet ya, kid. Welcome to my exclusive clubhouse.#$e#You've got the 'spark'... that's why I singled you out.#$e#What spark? Ah... The conduit of mystery, of art...#$b#People like us have a responsibility to keep the world alive, to give folks a taste of the extraordinary.#$e#You see, kid... The world's like a bowl of rice. It's got substance, but it ain't worth nothin' without a good, zesty sauce. That's where we come in.#$b#Didn't you ever wonder who put those treasure chests in the old mine shaft? I like to give people surprises.#$e#You'll understand someday. Just keep doing your best and never give up."
+                },
+                "Morris_PlayerSignedUp": {
+                    "0": "Excellent! Welcome to Joja Corporation! Come back tomorrow and we can see about getting started on some community development projects... Oh, and don't forget your wallet! Hehe.#$b#Now, let me call Mayor Lewis and see about gutting that nasty old community centre..."
+                },
+                "Morris_WeekendGreeting_MembershipAvailable": {
+                    "0": "Welcome to JojaMart! How is your weekend going?#$b#Membership is now available! With a Joja Membership, you'll be able to make improvements in the community with the help of our dedicated personnel... for a fee, of course.#$b#Oh, and another thing... Mayor Lewis promised us that if anyone else joined up, he'd let us turn that old community centre into a Joja Warehouse. Isn't that wonderful?#$q -1 -1#Membership costs {0}g. Well, would you like to join us?#$r -1 -1 Yes#Yes.#$r -1 -1 No#No."
+                },
+                "Morris_FirstGreeting_MembershipAvailable": {
+                    "0": "Welcome to JojaMart! How are you doing today?#$b#Membership is now available! With a Joja Membership, you'll be able to make improvements in the community with the help of our dedicated personnel... for a fee, of course.#$b#Oh, and another thing... Mayor Lewis promised us that if anyone else joined up, he'd let us turn that old community centre into a Joja Warehouse. Isn't that wonderful?#$q -1 -1#Membership costs {0}g. Well, would you like to join us?#$r -1 -1 Yes#Yes.#$r -1 -1 No#No."
+                },
+                "PurchasedItem_1_QualityLow": {
+                    "0": "Hey, {0}.#$b# So I stopped by Pierre's the other day and bought {1} {2}. It was the first time I've seen one of those there in a while... #$b#I cooked it up for dinner last night... It filled the house with a {3} odour. I don't even want to know where Pierre found that thing.$s#$e# Anyways..."
+                },
+                "PurchasedItem_Teen": {
+                    "0": "Hey, so I picked up {2} at the Shop last night. My mum wanted something good for dinner."
+                },
+                "PurchasedItem_Abigail_QualityLow": {
+                    "0": "Hey. We had one of those {2}s you sold at the shop for dinner last night... I guess it was starting to go bad and my dad couldn't bear to throw it out.$h#$b#Unfortunately it tasted like {3}.$s"
+                },
+                "PurchasedItem_Abigail_QualityHigh": {
+                    "0": "Hey. We had one of those {2}s you sold at the shop for dinner last night... I guess it was starting to go bad and my dad couldn't bear to throw it out.$h#$b#It was still pretty good, though."
+                },
+                "PurchasedItem_Elliott": {
+                    "0": "I saw that Pierre had fresh {2} in the shop the other day! Marvellous. It smelled just perfect... and firm, too!"
+                },
+                "PurchasedItem_Alex": {
+                    "0": "Hey, so I picked up {1} {2} at the shop last night. Grandma made her special casserole..."
+                },
+                "PurchasedItem_1_QualityLow_Willy": {
+                    "0": "Hey, {0}.#$b# So I stopped by Willy's the other day and bought {1} {2}. He said you caught it yourself! #$b#I cooked it up for dinner last night... and, uh... It filled the house with a {3} odour. I don't even want to know where you found that thing...$s#$e#Anyways..."
+                },
+                "PurchasedItem_2_QualityLow_Willy": {
+                    "0": "Hi... did you sell {1} {2} to the general shop the other day? I think I bought it...#$e#It smelled kind of fishy, but it was alright."
+                },
+                "PurchasedItem_Pierre_QualityLow_Willy": {
+                    "0": "Ahoy... you know that {2} you sold me the other day? Well, I sizzled it up in me cabin last night...#$b#'Twas the mealiest fish I've ever set me gums on...$s"
+                },
+                "PurchasedItem_Pierre_QualityHigh_Willy": {
+                    "0": "Ahoy! Remember that {2} you brought in the other day? Well, I sizzled it up in me cabin last night...#$b#'Twas the finest fish I've had since I was a wee lad!$h"
+                },
+                "Town_DumpsterDiveComment_Teen": {
+                    "0": "Um... Why are you digging in the rubbish?$s"
+                },
+                "Town_DumpsterDiveComment_Adult": {
+                    "0": "Hey, stop that! ...Yuck!$s"
+                },
+                "SkullCavern_100_event": {
+                    "0": "clubloop/-100 -100/farmer 6 6 2 MrQi 10 7 0/specificTemporarySprite qiCave/removeQuest 30/viewport 10 7 true/pause 3500/speak MrQi \"Well, well, well... you made it.\"/pause 500/playSound boop/faceDirection MrQi 3 true/pause 50/faceDirection MrQi 2/pause 100/playSound boop/animate MrQi false false 100 0 1 2 3 3 3 2 1 0/pause 1500/speak MrQi \"Come closer, now... don't be shy.\"/emote farmer 40/playSound boop/pause 500/move farmer 0 4 1/move farmer 4 0 0/pause 500/stopJittering/speak MrQi \"I heard you were attempting a deep dive into these caverns today...#$b#I had to see for myself!\"/animate MrQi false false 100 0 1 2 3 3 3 2 1 2 3 3 3 2 1 0/pause 1000/playSound boop/pause 1000/speak MrQi \"Impressive... very impressive. Making it all the way down here is quite a feat!#$b#...although you did skip a bunch of levels by crafting staircases. Clever, sure... but not very honourable.$1#$b#Even so, it must have been a lot of work to mine all that stone. And that sort of dedication is praiseworthy. You're a rare one, kid.\"/pause 500/speak MrQi \"Now... go over to the table and drink this special milk I've prepared for you.\"/pause 500/move farmer 3 0 0/move farmer 0 -1 0/emote farmer 8/speak MrQi \"It's called 'Iridium Snake Milk'... one healthy swig of that and you'll become even more powerful.\"/pause 1000/faceDirection farmer 2 true/specificTemporarySprite removeSprite 803/farmerEat 803/awardFestivalPrize qimilk/pause 2000/message \"The taste is awful, and the texture is even worse.\"/pause 100/pause 500/jump farmer/playSound reward/message \"... But your health is permanently increased by 25!\"/pause 1000/fade/viewport -1000 -1000/pause 500/playSound boop/speak MrQi \"Good luck out there, kid.\"/pause 500/playSound boop/end"
+                },
+                "SkullCavern_100_event_honorable": {
+                    "0": "clubloop/-100 -100/farmer 6 6 2 MrQi 10 7 0/specificTemporarySprite qiCave/removeQuest 30/viewport 10 7 true/pause 3500/speak MrQi \"Well, well, well... you made it.\"/pause 500/playSound boop/faceDirection MrQi 3 true/pause 50/faceDirection MrQi 2/pause 100/playSound boop/animate MrQi false false 100 0 1 2 3 3 3 2 1 0/pause 1500/speak MrQi \"Come closer, now... don't be shy.\"/emote farmer 40/playSound boop/pause 500/move farmer 0 4 1/move farmer 4 0 0/pause 500/stopJittering/speak MrQi \"I heard you were attempting a deep dive into these caverns today...#$b#I had to see for myself!\"/animate MrQi false false 100 0 1 2 3 3 3 2 1 2 3 3 3 2 1 0/pause 1000/playSound boop/pause 1000/speak MrQi \"Impressive... very impressive. You passed my test with flying colours, kid.#$b#I'm very pleased that you challenged yourself and came down the honourable way, instead of skipping all the levels by crafting staircases.#$b#That shows you're the real deal, kid. You've got principles.#$b#You understand the importance of challenging yourself, and holding yourself to the highest standard, even if no one is watching.#$b#That's why you're special, kid... see? You lead by example. I like that.\"/pause 500/speak MrQi \"Now... go over to the table and drink this special milk I've prepared for you.\"/pause 500/move farmer 3 0 0/move farmer 0 -1 0/emote farmer 8/speak MrQi \"It's called 'Iridium Snake Milk'... one healthy swig of that and you'll become even more powerful.\"/pause 1000/faceDirection farmer 2 true/specificTemporarySprite removeSprite 803/farmerEat 803/awardFestivalPrize qimilk/pause 2000/message \"The taste is awful, and the texture is even worse.\"/pause 100/pause 500/jump farmer/playSound reward/message \"... But your health is permanently increased by 25!\"/pause 1000/fade/viewport -1000 -1000/pause 500/playSound boop/speak MrQi \"Good luck out there, kid.\"/pause 500/playSound boop/end"
+                },
+                "Morris_BuyMovieTheater": {
+                    "0": "Ah, our favourite customer... I have exciting news for you! Joja headquarters has approved the construction of a new Joja 'entertainment opportunity' to replace the nearby Joja Warehouse. We just need an investor willing to support our vision! So, naturally, I turn to you... our most devoted and generous Joja member.#$b#$q -1 -1#We could make this happen for a small investment of... *cough*... 500,000g...$h#$r -1 -1 Yes#Yes#$r -1 -1 No#No"
+                },
+                "Morris_NoMoreCD": {
+                    "0": "Ah! My favourite customer... Unfortunately I have no more community development projects available at the moment."
+                },
+                "Birdie1": {
+                    "0": "It's rumoured that long ago, a great civilisation of dwarfs lived on this very island.#$e#Have you been inside the volcano? It's filled with the ruins of their strange machines..."
+                },
+                "Birdie3": {
+                    "0": "Have you been to the secret shrine in the jungle? The flowers there smell lovely... It's one of my favourite spots on the island.$h"
+                },
+                "ProfessorSnail_Hint_820": {
+                    "0": "Have you found any golden coconuts on the island? It's rumoured that many interesting things can be found inside of them..."
+                },
+                "SummitEvent_Outro_Lewis": {
+                    "0": "You might not realise it, but I care a lot about this town, @.#$b#%year years ago, I was deeply worried about the future of the valley.$s#$b#But now, I feel completely at ease.#$b#Who knew a humble farmer moving to town would change everything?$h#$b#...Thank you."
+                    },
+                "SummitEvent_Intro_Morris": {
+                    "0": "Ah, @... My favourite Joja member."
+                },
+                "SummitEvent_Dialogue3_Sam": {
+                    "0": "I feel like I've changed a lot from when we first met... you know?#$b#...you might call it 'maturity'... hehe.$10#$b#But I'm at a place, now, where I'm actually really excited about our future together...$l#$b#Even if that means just doing normal stuff, like... uh... buying groceries and changing nappies... hah...$10"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,4 @@
+{
+    "config.ModEnabled.name": "Enable translation",
+    "config.ModEnabled.description": "Whether or not to enable the British translation. Only takes effect when (US) English is selected as the game's display language."
+}

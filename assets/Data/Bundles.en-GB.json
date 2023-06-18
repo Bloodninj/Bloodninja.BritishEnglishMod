@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/Bundles",
+            "Action": "EditData",
+            "Target": "Data/Bundles",
+            "Fields": {
+                "Pantry/2": {
+                    "6": "Autumn Crops"
+                },
+                "Crafts Room/15": {
+                    "6": "Autumn Foraging"
+                },
+                "Fish Tank/10": {
+                    "6": "Speciality Fish"
+                }
+            }
+        }
+    ]
+}

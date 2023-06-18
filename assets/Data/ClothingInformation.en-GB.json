@@ -1,0 +1,143 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/ClothingInformation",
+            "Fields": {
+                "0": { // Farmer Pants
+                    1: "Farmer Trousers"
+                },
+                "2": { // Long Dress
+                    2: "A long, flowing dress."
+                },
+                "5": { // Dinosaur Pants
+                    1: "Dinosaur Trousers",
+                    2: "These trousers were thought to have gone extinct a long time ago!"
+                },
+                "8": { // Genie Pants
+                    1: "Genie Trousers",
+                    2: "Pants that balloon out near the bottom. Your wish has been granted!"
+                },
+                "1003": { // Dark Shirt
+                    2: "A dark coloured shirt."
+                },
+                "1030": { // Shop Owner's Jacket
+                    1: "Shop Owner's Jacket"
+                },
+                "1127": { // Emily's Magic Shirt
+                    2: "Made with love by Emily. Coloured with all-natural dye!"
+                },
+                "1131": { // Cowboy Jacket
+                    2: "A legendary outfit from the American wild west."
+                },
+                "1137": { // Letterman Jacket
+                    1: "Baseball Jacket",
+                    2: "A baseball jacket that's oozing with team spirit."
+                },
+                "1143": { // Tye Die Shirt
+                    1: "Tie-Dye Shirt",
+                    2: "A shirt that was tied up and then dipped into multiple coloured dyes."
+                },
+                "1148": { // Steel Breastplate
+                    2: "Decorative armour made from steel."
+                },
+                "1149": { // Copper Breastplate
+                    2: "Decorative armour made from copper."
+                },
+                "1150": { // Gold Breastplate
+                    2: "Decorative armour made from gold."
+                },
+                "1151": { // Iridium Breastplate
+                    2: "Decorative armour made from iridium."
+                },
+                "1160": { // Gray Hoodie
+                    1: "Grey Hoodie",
+                    2: "A sporty grey pullover with a hood."
+                },
+                "1167": { // Gray Vest
+                    1: "Grey Vest",
+                    2: "A grey vest over a white shirt."
+                },
+                "1174": { // High-waisted Shirt
+                    2: "The high-waisted trousers look, with a dye-able bottom."
+                },
+                "1175": { // High-waisted Shirt (2)
+                    2: "The high-waisted jeans look, with a dye-able bottom."
+                },
+                "1178": { // Turtleneck Sweater
+                    1: "Turtleneck Jumper"
+                },
+                "1183": { // Gray Suit
+                    1: "Grey Suit",
+                    2: "It's a custom-tailored grey suit."
+                },
+                "1194": { // Dark Striped Shirt
+                    2: "A dark shirt with colourful stripes."
+                },
+                "1195": { // Bandana Shirt
+                    1: "Bandanna Shirt",
+                    2: "A shirt with a bandanna that keeps your neck very clean."
+                },
+                "1203": { // Bandana Shirt (2)
+                    1: "Bandanna Shirt",
+                    2: "A shirt with a bandanna to shield your neck from harm."
+                },
+                "1206": { // Bandana Shirt (3)
+                    1: "Bandanna Shirt",
+                    2: "A shirt with a bandanna to keep your neck soft."
+                },
+                "1209": { // Sports Shirt
+                    1: "Baseball Shirt",
+                    2: "Knock it out of the park with this classic American look."
+                },
+                "1218": { // Cardigan
+                    2: "A soft button-up cardigan."
+                },
+                "1228": { // Soft Arrow Shirt
+                    2: "A soft-coloured shirt with an upward arrow pattern."
+                },
+                "1230": { // Jewelry Shirt
+                    1: "Jewellery Shirt"
+                },
+                "1234": { // Circuitboard Shirt
+                    1: "Circuit Board Shirt",
+                    2: "The shirt looks like an electronics circuit board."
+                },
+                "1258": { // Spring Shirt
+                    2: "It's light, it's fresh, and it features the colours of spring."
+                },
+                "1261": { // Sailor Shirt
+                    2: "Unlike most sailor shirts, this one has a dye-able body and a white collar."
+                },
+                "1262": { // Dark Bandana Shirt
+                    1: "Dark Bandanna Shirt",
+                    2: "A dark shirt with a colourful bandanna."
+                },
+                "1271": { // Short Jacket
+                    2: "A short dye-able jacket over a shirt."
+                },
+                "1272": { // Polka Dot Shirt
+                    2: "A dark shirt with dye-able polka dots."
+                },
+                "1273": { // White Dot Shirt
+                    2: "A dye-able shirt with white polka dots."
+                },
+                "1276": { // Crab Cake Shirt
+                    2: "Pre-slathered with aioli for your enjoyment. Bon appétit!"
+                },
+                "1278": { // Blue Buttoned Vest
+                    2: "It's a blue shirt with dye-able sleeves."
+                },
+                "1280": { // Red Buttoned Vest
+                    2: "It's a red shirt with dye-able sleeves."
+                },
+                "1281": { // Green Buttoned Vest
+                    2: "It's a green shirt with dye-able sleeves."
+                },
+                "1288": { // Trinket Shirt
+                    2: "A shirt with large coloured glass orbs attached to it."
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit BigCraftablesInformation spellings",
+            "Action": "EditData",
+            "Target": "Data/BigCraftablesInformation",
+            "Fields": {
+                // Replace "o" with "ou" where applicable
+                "33": { // Suit of Armor
+                    8: "Suit of Armour"
+                },
+                "209": { // Mini-Jukebox
+                    4: "Allows you to play your favourite tunes."
+                },
+
+                // Replace "er" with "re" where applicable
+                "85": { // Sloth Skeleton
+                    4: "This extinct sloth roamed the lush, prehistoric forests of Stardew Valley. Its powerful jaw tore through the toughest plant fibres."
+                },
+
+                // Replace "z" with "s" where applicable
+                "90": { // Bone Mill
+                    4: "Turns bone items into fertilisers."
+                }
+            }
+        }
+    ]
+}

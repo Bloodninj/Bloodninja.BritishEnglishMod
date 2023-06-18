@@ -1,0 +1,32 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/CraftingRecipes",
+            "Action": "EditData",
+            "Target": "Data/CraftingRecipes",
+            "Fields": {
+                "Basic Fertilizer": { // Basic Fertilizer
+                    "5": "Basic Fertiliser"
+                },
+                "Tree Fertilizer": { // Tree Fertilizer
+                    "5": "Tree Fertiliser"
+                },
+                "Quality Fertilizer": { // Quality Fertilizer
+                    "5": "Quality Fertiliser"
+                },
+                "Deluxe Fertilizer": { // Deluxe Fertilizer
+                    "5": "Deluxe Fertiliser"
+                },
+                "Wild Seeds (Fa)": { // Wild Seeds (Fa)
+                    "5": "Wild Seeds (Au)"
+                },
+                "Fiber Seeds": { // Fiber Seeds
+                    "5": "Fibre Seeds"
+                },
+                "Jack-O-Lantern": { // Jack-O-Lantern
+                    "5": "Jack-'o-Lantern"
+                }
+            }
+        }
+    ]
+}

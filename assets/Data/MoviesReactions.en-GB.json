@@ -1,0 +1,592 @@
+{
+    "Changes": [
+        // Penny
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Penny", "Reactions", "#0", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Watching a film with mum sure brings me back!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Penny", "Reactions", "#8", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "Sorry if I ruined the movie for you, it just wasn't really my favourite..."
+            }
+        },
+        // Krobus
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Krobus", "Reactions", "#0",  "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Psst... Hey, it's me, Krobus. Could you recognise me?$8#$b#If anyone approaches us, you do the talking, okay?$8"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Krobus", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "*ahem*... Hello! I am very excited to be at the visual entertainment centre and to consume the popped corn... just like you!$8#$b#*whisper*... how am I doing?$8"
+            }
+        },
+        // George
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "George", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Hmmph... Cinemas aren't like they used to be... But the picture might be good enough."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "George", "Reactions", "#4", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "Heh. Compared to most films these days, it wasn't bad.$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "George", "Reactions", "#5", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "Shameful! The rubbish they pass for 'films' these days... "
+            }
+        },
+        // Evelyn
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Evelyn", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Before this cinema came to town, I hadn't seen a movie in twenty years!$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Evelyn", "Reactions", "#3", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "I'm glad they're still making decent films... I had a lot of fun!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Evelyn", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I've never been a fan of scary films, but I'll try to keep an open mind."
+            }
+        },
+        // Caroline
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Caroline", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I've always loved films about the wild west, so I'm really excited to see this!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Caroline", "Reactions", "#3", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "This film looks so cute, I was really hoping someone would invite me!"
+            }
+        },
+        // Harvey
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Harvey", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I read a glowing review of this film in the Zuzu City Times..."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Harvey", "Reactions", "#5", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I don't watch a lot of films, but this one's been well-received, right?"
+            }
+        },
+        // Gus
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Gus", "Reactions", "#0", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I saw an advert for this on the TV. It looks really funny!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Gus", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "It doesn't feel like winter until you've seen '{0}'!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Gus", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "They say this film is 'unconventional'... does that mean it's bad?$s"
+            }
+        },
+        // Lewis
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Lewis", "Reactions", "#0", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "I watched cowboy films when I was a kid... I'm glad to see the art is still alive!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Lewis", "Reactions", "#5", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "As mayor, I need to know what kinds of films are being shown in our community. We have the tender minds of the next generation to worry about!"
+            }
+        },
+        // Jodi
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Jodi", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I saw this film once, a long time ago. It's very romantic!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Jodi", "Reactions", "#1", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "That was lovely... The theme of the film really resonated with me. Thanks for bringing me!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Jodi", "Reactions", "#2", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "I'm not much of a film buff... but I had a good time! Thanks, @."
+            }
+        },
+        // Sam
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sam", "Reactions", "#0", "SpecialResponses", "DuringMovie"],
+            "Entries": {
+                "Text": "This film's hilarious! How do they come up with this stuff?$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sam", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "So you like scary films, huh? I'm a little surprised!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sam", "Reactions", "#2", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "That was pretty good! I'm usually not scared by films, but that one got to me a little... I don't think I'll take Vincent to see this."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sam", "Reactions", "#3", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Hey, thanks for inviting me, @... It's really great that we have a cinema in town now."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sam", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "It's an old film with lots of talking, right? Hmm... $s"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sam", "Reactions", "#4", "SpecialResponses", "DuringMovie"],
+            "Entries": {
+                "Text": "Huh? Oh! Yeah... The film's... interesting...$10"
+            }
+        },
+        // Vincent
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Vincent", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm so excited! My mum said I can have sweets, too!$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Vincent", "Reactions", "#5", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "B... But... This film is for grown-ups, isn't it?$s"
+            }
+        },
+        // Kent
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Kent", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Thanks for inviting me to the cinema, @. It's not easy to adjust back into the civilian lifestyle, but you've helped me feel really welcome."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Kent", "Reactions", "#1", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "That was fun. When you're engrossed in a film, all your cares and worries disappear."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Kent", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm not sure about this film..."
+            }
+        },
+        // Clint
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Clint", "Reactions", "#0", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "This film's supposed to be a romance, right? *sigh*$s"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Clint", "Reactions", "#0", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "That film was depressing...$s"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Clint", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I guess it's \"boys' night\", huh? Does that mean I have to buy my own snacks?^Oh... A... Are we on a date, then?$4"
+            }
+        },
+        // Emily
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Emily", "Reactions", "#3", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "When I saw the film poster for this one, I felt a very positive sensation in the top of my head.$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Emily", "Reactions", "#3", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "That film felt very spiritual, in a way... don't you agree? I loved it!$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Emily", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm happy to see a film with you! I tend to get totally lost in the screen."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Emily", "Reactions", "#4", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "I feel positive after that one... that means it was a good film!$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Emily", "Reactions", "#5", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I usually go to more positive films, so this will be interesting."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Emily", "Reactions", "#5", "SpecialResponses", "DuringMovie"],
+            "Entries": {
+                "Text": "Yoba, please protect me from the dark energy of this film.$7"
+            }
+        },
+        // Haley
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Haley", "Reactions", "#0", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Mmm... It's nice and warm in here. Winter is my favourite time to go to the cinema.$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Haley", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Mmm... It's nice and warm in here. Winter is my favourite time to go to the cinema.$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Haley", "Reactions", "#5", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Oh, is this one of those 'fantasy' films?$7"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Haley", "Reactions", "#5", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "*yawn*... What? Oh... what was that film about, again?$7"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Haley", "Reactions", "#6", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Everyone's talking about this film, so I've been wanting to see it."
+            }
+        },
+        // Maru
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Maru", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "It's a sci-fi film, right? One of the things I like about sci-fi is seeing all the weird technologies they come up with."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Maru", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I really like going to the cinema, even if the movie's bad!$h"
+            }
+        },
+        // Sebastian
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sebastian", "Reactions", "#3", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Hey. I heard this film is pretty grim... I'm looking forward to it.$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sebastian", "Reactions", "#3", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "Best film I've seen in a while... I wonder how they did some of those special effects?$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sebastian", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "*shrugs*... The film poster looked pretty cool, so I'm in."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Sebastian", "Reactions", "#5", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "It's probably a fine film for the target audience, but it's just not for me."
+            }
+        },
+        // Robin
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Robin", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I've been feeling kind of dull lately, so an action-packed film is exactly what I need."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Robin", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm not sure what this film's about, but I don't really care! It's just good to get out of the house."
+            }
+        },
+        // Demetrius
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Demetrius", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "This film supposedly takes place in a 'futuristic' society... it will be interesting to see what that looks like!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Demetrius", "Reactions", "#1", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "Great film... but I wonder if there really is life beyond this planet?"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Demetrius", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Even if a film is bad, it's interesting to analyse."
+            }
+        },
+        // Dwarf
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Dwarf", "Reactions", "#1", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "I didn't understand a thing, but the flashing lights were mesmerising!"
+            }
+        },
+        // Marnie
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Marnie", "Reactions", "#1", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I know I'm going to love this film! It was really nice of you to invite me, @.$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Marnie", "Reactions", "#2", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm pretty easy-going when it comes to films... I like just about everything!"
+            }
+        },
+        // Shane
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Shane", "Reactions", "#5", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "When you're watching a good film, you can forget about everything else... That's a gift."
+            }
+        },
+        // Jas
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Jas", "Reactions", "#3", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm really happy to see a film!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Jas", "Reactions", "#4", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "This is a grown-up film, right? I'll be okay!"
+            }
+        },
+        // Leah
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Leah", "Reactions", "#5", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm really intrigued by this film... I'm a sucker for the mysterious."
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Leah", "Reactions", "#6", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "I'm not sure what to expect with this film, but I'm going to keep an open mind!"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Leah", "Reactions", "#7", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "From the film poster, this one looks pretty cheesy."
+            }
+        },
+        // Willy
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Willy", "Reactions", "#0", "SpecialResponses", "BeforeMovie"],
+            "Entries": {
+                "Text": "Heh heh... I'd never turn down a free film!"
+            }
+        },
+        // Leo
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Leo", "Reactions", "#2", "SpecialResponses", "AfterMovie"],
+            "Entries": {
+                "Text": "Did you see that? They showed the Fern Islands... that's where I'm from!$h"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/MoviesReactions",
+            "TargetField": [ "Leo", "Reactions", "#3", "SpecialResponses", "DuringMovie"],
+            "Entries": {
+                "Script": "/pause 500/emote Leo 32/message \"Leo seems very interested in the film.\""
+            }
+        },
+
+
+    ]
+}

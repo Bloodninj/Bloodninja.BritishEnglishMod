@@ -1,0 +1,58 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Concessions",
+            "Fields": {
+                "0": { // Cotton Candy
+                    "2": "Candy Floss"
+                },
+                "1": { // Jasmine Tea
+                    "3": "Green tea flavoured with aromatic jasmine flowers."
+                },
+                "2": { // Joja Cola
+                    "3": "An extra-large cup of Joja's flagship cola."
+                },
+                "3": { // Sour Slimes
+                    "3": "Tiny gummy slimes of assorted colours. They're sprinkled with an extremely sour powder."
+                },
+                "5": { // Nachos
+                    "3": "Gooey, spicy cheese on top of freshly fried tortilla crisps."
+                },
+                "7": { // Ice Cream Sandwich
+                    "3": "Vanilla ice cream sandwiched between two chocolate biscuits."
+                },
+                "9": { // Fries
+                    "2": "Chips"
+                },
+                "11": { // Black Licorice
+                    "2": "Black Liquorice",
+                    "3": "A chewy sweet with an intense, pungent flavour."
+                },
+                "12": { // Star Cookie
+                    "2": "Star Biscuit",
+                    "3": "A star-shaped shortbread biscuit with rainbow sprinkles."
+                },
+                "13": { // Jawbreaker
+                    "3": "It's a big, hard sweet that lasts the whole film!"
+                },
+                "15": { // Hummus Snack Pack
+                    "2": "Houmous Snack Pack"
+                },
+                "16": { // Kale Smoothie
+                    "3": "It's loaded with vitamins and fibre."
+                },
+                "20": { // Cappuccino Mousse Cake
+                    "3": "A small chocolate cake glazed with a cappuccino mousse."
+                },
+                "22": { // Stardrop Sorbet
+                    "3": "A single drop of stardrop essence transforms this sorbet into an extraordinary treat."
+                },
+                "23": { // Rock Candy
+                    "2": "Rock",
+                    "3": "Flavoured sugar crystals attached to a convenient stick."
+                }
+            }
+        }
+    ]
+}

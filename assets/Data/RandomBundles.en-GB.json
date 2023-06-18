@@ -1,0 +1,28 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": ["Crafts Room", "BundleSets", "Bundles", "#2"],
+            "Entries": {
+                "Name": "Autumn Foraging"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": ["Pantry", "BundleSets", "Bundles", "#2"],
+            "Entries": {
+                "Name": "Autumn Crops"
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/RandomBundles",
+            "TargetField": ["Fish Tank", "Bundles", "#1"],
+            "Entries": {
+                "Name": "Speciality Fish"
+            }
+        }
+    ]
+}

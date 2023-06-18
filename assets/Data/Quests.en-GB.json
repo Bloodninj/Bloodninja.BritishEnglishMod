@@ -1,0 +1,66 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Fields": {
+                "1": {
+                    "2": "You received a letter from the local wizard. He claims to have information regarding the old community centre."
+                },
+                "3": {
+                    "3": "Place 10 beetroot inside Mayor Lewis' fridge."
+                },
+                "13": {
+                    "3": "Visit the beach south of town before 17:00."
+                },
+                "17": {
+                    "2": "It seems that the lift in the mines is still functional. It will allow you to quickly return to any lift doors you've discovered. A deeper expedition might be in order."
+                },
+                "21": {
+                    "2": "Marnie came by the farm and asked if you'd bring her a cave carrot. She's trying to train her goats to speak, and cave carrots are their favourite snack."
+                },
+                "22": {
+                    "2": "Jodi swung by the farm to ask you to dinner at 19:00. Her only request was that you bring a largemouth bass for her fish casserole."
+                },
+                "23": {
+                    "2": "You found an ancient-looking object. Could it be some kind of artefact from long ago? Perhaps Gunther, curator of the local museum, has the answer."
+                },
+                "24": {
+                    "2": "Gunther asked if you'd consider donating any new artefacts or minerals you find to the museum. He says he'll compensate you by way of occasional rare goods.",
+                    "3": "Donate an artefact or a mineral to the museum."
+                },
+                "25": {
+                    "2": "There's something odd going on in the Community Centre...",
+                    "3": "Investigate the Community Centre."
+                },
+                "100": {
+                    "2": "Robin lost her favourite axe. The last time she remembers using it, she was cutting wood south of Marnie's ranch.",
+                    "3": "Find Robin's lost axe."
+                },
+                "102": {
+                    "2": "Mayor Lewis has lost his purple \"shorts\". He's asking you to find and return them... discreetly."
+                },
+                "105": {
+                    "2": "George needs a chilli pepper to soothe his aching knee.",
+                    "3": "Bring George a Chilli Pepper."
+                },
+                "110": {
+                    "9": "Oh, my favourite stone! You're so sweet!$h#$b#Huh? It's from who?$u#$b#Oh, you got it at Clint's? Well I don't care where you got it from, it's beautiful! Thank you! *smooch*$h"
+                },
+                "112": {
+                    "1": "A Favour For Clint"
+                },
+                "126": {
+                    "2": "Your wife asked you to bring her 200 pieces of fibre for a secret project.",
+                    "3": "Bring Emily 200 fibre."
+                },
+                "127": {
+                    "2": "Your wife is organising a charity cake-walk in the town square. She asked you to bring a chocolate cake."
+                },
+                "128": {
+                    "9": "That necklace! Where did you find it?$7#$b#Well, thanks for bringing it to me, @. My mum will never know...$h"
+                }
+            }
+        }
+    ]
+}

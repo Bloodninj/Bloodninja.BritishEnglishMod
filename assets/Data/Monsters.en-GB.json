@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/Monsters",
+            "Action": "EditData",
+            "Target": "Data/Monsters",
+            "Fields": {
+                "Dwarvish_Sentry": {
+                    "14": "Dwarfish Sentry"
+                }
+            }
+        }
+    ]
+}

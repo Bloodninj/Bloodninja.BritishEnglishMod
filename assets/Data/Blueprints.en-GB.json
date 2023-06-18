@@ -1,0 +1,26 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Blueprints spellings",
+            "Action": "EditData",
+            "Target": "Data/Blueprints",
+            "Fields": {
+                "Stone Cabin": {
+                    9: "A home for a friend! Subsidised by the town agricultural fund."
+                },
+                "Plank Cabin": {
+                    9: "A home for a friend! Subsidised by the town agricultural fund."
+                },
+                "Log Cabin": {
+                    9: "A home for a friend! Subsidised by the town agricultural fund."
+                },
+                "Chicken": {
+                    5: "Lays delicious eggs. Comes in two colours."
+                },
+                "Rabbit": {
+                    5: "These are woolly rabbits!"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,201 @@
+{
+    "Format": "1.28.0",
+    "ConfigSchema": {
+        "ModEnabled": {
+           "AllowValues": "true, false",
+           "Default": "true",
+           "Section": "General"
+        }
+     },
+    "Changes": [
+        // define language
+        {
+            "Action": "EditData",
+            "Target": "Data/AdditionalLanguages",
+            "Entries": {
+                "Bloodninja.BritishEnglishMod": { // for technical reasons, you need to specify the ID here *and* in the "ID" field
+                    "ID": "Bloodninja.BritishEnglishMod",
+                    "LanguageCode": "en-GB",
+                    "ButtonTexture": "Mods/Bloodninja.BritishEnglishMod/Button",
+                    "UseLatinFont": true,
+                    "TimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
+                    "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
+                }
+            }
+        },
+         // load button texture
+         {
+            "Action": "Load",
+            "Target": "Mods/Bloodninja.BritishEnglishMod/Button",
+            "FromFile": "assets/Button.en-GB.png"
+        },
+        {
+            "Action": "EditImage",
+            "Target": "LooseSprites/LanguageButtons",
+            "FromFile": "assets/LooseSprites/LanguageButtons.png"
+        },
+        {
+            "LogName": "Replace LooseSprites/Cursors with localised version",
+            "Action": "EditImage",
+            "Target": "LooseSprites/Cursors.png",
+            "FromFile": "assets/LooseSprites/Cursors.en-GB.png",
+            "When": {
+                "HasFile: {{FromFile}}": true,
+                "ModEnabled": "true"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/BigCraftablesInformation.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Blueprints.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Boots.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Bundles.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/ClothingInformation.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Concessions.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/CraftingRecipes.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/ExtraDialogue.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Fish.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Monsters.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Movies.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/MoviesReactions.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/NPCGiftTastes.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/ObjectInformation.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Quests.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/RandomBundles.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Furniture.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Hats.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Mail.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        }
+    ]
+}
