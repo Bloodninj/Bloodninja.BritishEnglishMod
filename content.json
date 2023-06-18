@@ -151,7 +151,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Data/ObjectInformation.en-GB.json",
+            "FromFile": "assets/Data/ObjectInformation.en-GB.jsonc",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"

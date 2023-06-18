@@ -25,7 +25,7 @@
                     5: "Valuable, but slow-growing. Despite its pale colour, the florets are packed with nutrients."
                 },
                 "266": { // Red Cabbage
-                    5: "Often used in salads and coleslaw. The color can range from purple to blue to green-yellow depending on soil conditions."
+                    5: "Often used in salads and coleslaw. The colour can range from purple to blue to green-yellow depending on soil conditions."
                 },
                 "400": { // Strawberry
                     5: "A sweet, juicy favourite with an appealing red colour."
@@ -60,7 +60,6 @@
                     5: "Sought after for its unique nutty flavour."
                 },
                 "281": { // Chanterelle
-                    4: "Chantarelle",
                     5: "A tasty mushroom with a fruity smell and slightly peppery flavour."
                 },
                 "296": { // Salmonberry
