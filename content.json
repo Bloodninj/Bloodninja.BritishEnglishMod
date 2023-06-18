@@ -151,7 +151,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Data/ObjectInformation.en-GB.jsonc",
+            "FromFile": "assets/Data/ObjectInformation.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
@@ -168,6 +168,14 @@
         {
             "Action": "Include",
             "FromFile": "assets/Data/RandomBundles.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/SecretNotes.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
@@ -192,6 +200,46 @@
         {
             "Action": "Include",
             "FromFile": "assets/Data/Mail.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/AnimalShop.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/ArchaeologyHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Beach.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Farm.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/FarmHouse.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
