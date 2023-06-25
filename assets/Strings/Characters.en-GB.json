@@ -5,6 +5,7 @@
             "Target": "Strings/Characters",
             "Entries": {
                 "Relative_Mom": "mum",
+                "Relative_Grandpa": "{{Lowercase:{{GrandparentName}}}}",
                 "MovieInvite_Festival": "The cinema isn't open on festival days!",
                 "MovieInvite_Closed": "The cinema is closed for the night...",
                 "MovieInvite_AlreadyInvitedSomeone": "You've already made plans to see a film with {0} today!",
