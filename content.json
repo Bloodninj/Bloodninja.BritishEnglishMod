@@ -5,6 +5,11 @@
            "AllowValues": "true, false",
            "Default": "true",
            "Section": "General"
+        },
+        "GrandparentName": {
+            "AllowValues": "Grandpa, Grandad, Grandfather",
+            "Default": "Grandpa",
+            "Section": "Names & Places"
         }
      },
     "Changes": [
@@ -306,6 +311,14 @@
         {
             "Action": "Include",
             "FromFile": "assets/Strings/Characters.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Locations.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"

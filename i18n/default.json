@@ -1,4 +1,6 @@
 {
     "config.ModEnabled.name": "Enable translation",
-    "config.ModEnabled.description": "Whether or not to enable the British translation. Only takes effect when (US) English is selected as the game's display language."
+    "config.ModEnabled.description": "Whether or not to enable the British translation. Make sure to select British English as the game's language.",
+    "config.GrandparentName.name": "Grandparent name",
+    "config.GrandparentName.description": "Which name to use to refer to your grandparent."
 }
