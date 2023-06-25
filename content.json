@@ -261,6 +261,55 @@
                 "ModEnabled": "true",
                 "Language": "en-GB"
             }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/HaleyHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/HarveyRoom.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Hospital.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/IslandNorth.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/JoshHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        // Strings
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Characters.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
         }
 
     ]
