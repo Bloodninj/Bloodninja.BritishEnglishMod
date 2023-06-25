@@ -2,5 +2,7 @@
     "config.ModEnabled.name": "Enable translation",
     "config.ModEnabled.description": "Whether or not to enable the British translation. Make sure to select British English as the game's language.",
     "config.GrandparentName.name": "Grandparent name",
-    "config.GrandparentName.description": "Which name to use to refer to your grandparent."
+    "config.GrandparentName.description": "Which name to use to refer to your grandparent.",
+    "config.PierreShopName.name": "Pierre's shop name",
+    "config.PierreShopName.description": "The name to be used for Pierre's shop (called Pierre's General Store in the US English original)."
 }

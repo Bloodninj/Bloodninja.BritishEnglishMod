@@ -10,6 +10,11 @@
             "AllowValues": "Grandpa, Grandad, Grandfather",
             "Default": "Grandad",
             "Section": "Names & Places"
+        },
+        "PierreShopName": {
+            "AllowValues": "Pierre's Village Shop, Pierre's General Shop, Pierre's Shop, Pierre's General Store",
+            "Default": "Pierre's Village Shop",
+            "Section": "Names & Places"
         }
      },
     "Changes": [
