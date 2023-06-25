@@ -1,0 +1,15 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Data/Strings/Locations",
+            "Fields": {
+                "BeachNightMarket_Closed": "Opens at 17:00.",
+                "BeachNightMarket_GiftGiverClosed": "Merchant: The night market starts at 17:00... visit me then for a free cup of coffee! ",
+                "BeachNightMarket_PainterQuestion": "Famous Painter Lupini: I'm selling this painting for 1,200g. What do you say?",
+                "Beach_Mariner_PlayerBuyItem_AnswerYes": "Buy (5,000g)",
+                "Farm_GrandpaNote": "{0}-\n\nWait for my return on the dawn of your third year.\n\n- {{GrandparentName}}"
+            }
+        }
+    ]
+}
