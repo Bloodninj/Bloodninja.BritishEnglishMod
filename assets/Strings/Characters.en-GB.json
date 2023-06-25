@@ -2,8 +2,8 @@
     "Changes": [
         {
             "Action": "EditData",
-            "Target": "Data/Strings/Characters",
-            "Fields": {
+            "Target": "Strings/Characters",
+            "Entries": {
                 "Relative_Mom": "mum",
                 "MovieInvite_Festival": "The cinema isn't open on festival days!",
                 "MovieInvite_Closed": "The cinema is closed for the night...",

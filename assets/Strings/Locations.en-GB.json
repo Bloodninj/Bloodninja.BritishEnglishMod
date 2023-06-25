@@ -1,9 +1,10 @@
 {
     "Changes": [
         {
+            "LogName": "Edit Strings/Locations",
             "Action": "EditData",
-            "Target": "Data/Strings/Locations",
-            "Fields": {
+            "Target": "Strings/Locations",
+            "Entries": {
                 "BeachNightMarket_Closed": "Opens at 17:00.",
                 "BeachNightMarket_GiftGiverClosed": "Merchant: The night market starts at 17:00... visit me then for a free cup of coffee! ",
                 "BeachNightMarket_PainterQuestion": "Famous Painter Lupini: I'm selling this painting for 1,200g. What do you say?",

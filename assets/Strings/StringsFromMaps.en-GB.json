@@ -1,0 +1,15 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "Farm.1": "{{GrandparentName}}'s Shrine",
+                "Farm_Combat.1": "{{GrandparentName}}'s Shrine",
+                "Farm_Fishing.1": "{{GrandparentName}}'s Shrine",
+                "Farm_Foraging.1": "{{GrandparentName}}'s Shrine",
+                "Farm_Mining.1": "{{GrandparentName}}'s Shrine"
+            }
+        }
+    ]
+}
