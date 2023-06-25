@@ -8,7 +8,7 @@
         },
         "GrandparentName": {
             "AllowValues": "Grandpa, Grandad, Grandfather",
-            "Default": "Grandpa",
+            "Default": "Grandad",
             "Section": "Names & Places"
         }
      },
@@ -319,6 +319,14 @@
         {
             "Action": "Include",
             "FromFile": "assets/Strings/Locations.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/StringsFromMaps.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
