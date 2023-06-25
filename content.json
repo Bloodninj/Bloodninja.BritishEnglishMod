@@ -12,7 +12,7 @@
             "Section": "Names & Places"
         },
         "PierreShopName": {
-            "AllowValues": "Pierre's Village Shop, Pierre's General Shop, Pierre's Shop, Pierre's General Store, Pierre's Store",
+            "AllowValues": "Pierre's Village Shop, Pierre's Corner Shop, Pierre's General Shop, Pierre's Shop, Pierre's General Store, Pierre's Store",
             "Default": "Pierre's Village Shop",
             "Section": "Names & Places"
         }
