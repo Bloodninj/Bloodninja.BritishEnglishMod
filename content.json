@@ -336,6 +336,14 @@
                 "ModEnabled": "true",
                 "Language": "en-GB"
             }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Buildings.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
         }
 
     ]

@@ -1,0 +1,11 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "Mill_Description": "Allows you to mill wheat, beetroot and rice."
+            }
+        }
+    ]
+}
