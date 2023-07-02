@@ -12,8 +12,8 @@
             "Section": "Names & Places"
         },
         "PierreShopName": {
-            "AllowValues": "Pierre's Village Shop, Pierre's Corner Shop, Pierre's General Shop, Pierre's Shop, Pierre's General Store, Pierre's Store",
-            "Default": "Pierre's Village Shop",
+            "AllowValues": "Pierre's Seed Shop, Pierre's Village Shop, Pierre's Corner Shop, Pierre's General Shop, Pierre's Shop, Pierre's General Store, Pierre's Store",
+            "Default": "Pierre's Seed Shop",
             "Section": "Names & Places"
         }
      },
@@ -307,6 +307,30 @@
         {
             "Action": "Include",
             "FromFile": "assets/Data/Events/JoshHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/LeahHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Mine.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Mountain.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
