@@ -16,6 +16,7 @@ Main changes:
 
 Various other small bits have been changed that aren't strictly matters of spelling:
 
+* The game clock is now 24-hour (e.g. `18:00`) as opposed to 12-hour (`6:00pm`)
 * References to the "movies" (the place) now mostly refer to the cinema instead (with the exception of Evelyn, who is old enough to remember when it was still called the pictures)
     * Most references to "movies" as the motion pictures themselves are called "films" now
 * Pierre's General Store can be renamed via the Generic Mod Config Menu if you have it installed (or by manually editing the `config.json` file in the mod directory). If you do, it defaults to "Pierre's Seed Shop"
@@ -23,3 +24,9 @@ Various other small bits have been changed that aren't strictly matters of spell
     * Several options are available as presets in the mod config menu
 * If you have the Generic Mod Config Menu, you can also change the title used to refer to your Grandpa
     * Presets are available to choose from, like "granddad" or "grandfather"
+* "Moms" have been corrected to "mums"
+
+## Not changed
+
+* Alex is still obsessed with American football, which makes it hard to change some things in his dialogue
+
