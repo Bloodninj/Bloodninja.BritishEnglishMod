@@ -1,9 +1,15 @@
 # British English Mod
-#### British English localisation for Stardew Valley
+#### British English localisation for Stardew Valley 1.6
 
 This is a mod which changes various bits of text in the base game using Content Patcher, to better match the spelling of English as used in the United Kingdom.
 
-Main changes:
+## Requirements
+
+* [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400)
+* [Content Patcher](https://www.nexusmods.com/stardewvalley/mods/1915)
+* (optional, but recommended) [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098)
+
+## Main changes
 
 * All spelling conforms to British English as used in the Oxford Dictionary of English
     * For example, "color" becomes "colour", "jewelry" becomes "jewellery", and so on
