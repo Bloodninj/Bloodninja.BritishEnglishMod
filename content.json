@@ -1,5 +1,5 @@
 {
-    "Format": "1.28.0",
+    "Format": "1.29.0",
     "ConfigSchema": {
         "ModEnabled": {
            "AllowValues": "true, false",
@@ -8,12 +8,12 @@
         },
         "GrandparentName": {
             "AllowValues": "Grandpa, Grandad, Grandfather",
-            "Default": "Grandad",
+            "Default": "Grandpa",
             "Section": "Names & Places"
         },
         "PierreShopName": {
             "AllowValues": "Pierre's Seed Shop, Pierre's Village Shop, Pierre's Corner Shop, Pierre's General Shop, Pierre's Shop, Pierre's General Store, Pierre's Store",
-            "Default": "Pierre's Seed Shop",
+            "Default": "Pierre's General Store",
             "Section": "Names & Places"
         }
      },
@@ -57,7 +57,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Data/BigCraftablesInformation.en-GB.json",
+            "FromFile": "assets/Strings/BigCraftables.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
@@ -339,7 +339,31 @@
         // Strings
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/Buildings.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/Characters.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Furniture.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Lexicon.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
@@ -355,6 +379,70 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/MovieConcessions.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Movies.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Notes.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Objects.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Pants.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Shirts.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/SpecialOrderStrings.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/StringsFromCSFiles.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/StringsFromMaps.en-GB.json",
             "When": {
                 "ModEnabled": "true",
@@ -363,7 +451,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Strings/Buildings.en-GB.json",
+            "FromFile": "assets/Strings/UI.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"

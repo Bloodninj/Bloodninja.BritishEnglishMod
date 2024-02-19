@@ -2,8 +2,9 @@
     "Changes": [
         {
             "Action": "EditData",
-            "Target": "Strings/StringsFromMaps",
+            "Target": "Strings/Buildings",
             "Entries": {
+                "Cabin_Description": "A home for a friend! Subsidised by the town agricultural fund.",
                 "Mill_Description": "Allows you to mill wheat, beetroot and rice."
             }
         }

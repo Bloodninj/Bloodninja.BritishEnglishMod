@@ -1,0 +1,110 @@
+{
+    "Changes": [
+        {
+            "Action": "EditData",
+            "Target": "Strings/MoviesReactions",
+            "Entries": {
+                "Penny_*_BeforeMovie": "Watching a film with mum sure brings me back!",
+                "Penny_dislike_AfterMovie": "Sorry if I ruined the film for you, it just wasn't really my favourite...",
+            
+                "Krobus_fall_movie_0_BeforeMovie": "Psst... Hey, it's me, Krobus. Could you recognise me?$8#$b#If anyone approaches us, you do the talking, okay?$8",
+                "Krobus_*_BeforeMovie": "*ahem*... Hello! I am very excited to be at the visual entertainment centre and to consume the popped corn... just like you!$8#$b#*whisper*... how am I doing?$8",
+            
+                "George_like_BeforeMovie": "Hmmph... The pictures aren't like they used to be... But the quality might be good enough.",
+                "George_like_AfterMovie": "Heh. Compared to most films these days, it wasn't bad.$h",
+                "George_dislike_AfterMovie": "Shameful! The rubbish they pass for 'films' these days... ",
+            
+                "Evelyn_love_BeforeMovie": "Before this cinema came to town, I hadn't seen a movie in twenty years!$h",
+                "Evelyn_like_AfterMovie": "I'm glad they're still making decent films... I had a lot of fun!",
+                "Evelyn_like_BeforeMovie": "It's very kind of you to invite an old lady to the pictures.$h",
+                "Evelyn_dislike_BeforeMovie": "I've never been a fan of scary films, but I'll try to keep an open mind.",
+                "Abigail_summer_movie_0_BeforeMovie": "I can't believe they made a Prairie King film... I hope it's good!",
+                "Abigail_love_BeforeMovie": "I love horror films... I hope it's scary!$h",
+                "Abigail_like_BeforeMovie": "Hey! Thanks for inviting me, I love going to the cinema.$h",
+                "Caroline_summer_movie_0_BeforeMovie": "I've always loved films about the wild west, so I'm really excited to see this!",
+                "Caroline_love_BeforeMovie": "This film looks so cute, I was really hoping someone would invite me!",
+            
+                "Harvey_love_BeforeMovie": "I read a glowing review of this film in the Zuzu City Times...",
+                "Harvey_like_BeforeMovie": "I don't watch a lot of films, but this one's been well-received, right?",
+            
+                "Gus_summer_movie_1_BeforeMovie": "I saw an advert for this on the TV. It looks really funny!",
+                "Gus_winter_movie_0_BeforeMovie": "It doesn't feel like winter until you've seen '{0'!",
+                "Gus_winter_movie_0_AfterMovie": "That was heart-warming... and somehow they make that fabled fruit seem so delicious. I'd love to taste it one day.",
+                "Gus_fall_movie_0_BeforeMovie": "They say this film is 'unconventional'... does that mean it's bad?$s",
+            
+                "Lewis_summer_movie_0_BeforeMovie": "I watched cowboy films when I was a kid... I'm glad to see the art is still alive!",
+                "Lewis_like_BeforeMovie": "As mayor, I need to know what kinds of films are being shown in our community. We have the tender minds of the next generation to worry about!",
+                "Lewis_spring_movie_1_BeforeMovie": "The governor himself recommended this film to me!",
+            
+                "Jodi_love_BeforeMovie": "I saw this film once, a long time ago. It's very romantic!",
+                "Jodi_love_AfterMovie": "That was lovely... The theme of the film really resonated with me. Thanks for bringing me!",
+                "Jodi_like_AfterMovie": "I'm not much of a film buff... but I had a good time! Thanks, @.",
+            
+                "Sam_summer_movie_1_DuringMovie": "This film's hilarious! How do they come up with this stuff?$h",
+                "Sam_horror_BeforeMovie": "So you like scary films, huh? I'm a little surprised!",
+                "Sam_horror_AfterMovie": "That was pretty good! I'm usually not scared by films, but that one got to me a little... I don't think I'll take Vincent to see this.",
+                "Sam_like_BeforeMovie": "Hey, thanks for inviting me, @... It's really great that we have a cinema in town now.",
+                "Sam_dislike_BeforeMovie": "It's an old film with lots of talking, right? Hmm... $s",
+                "Sam_dislike_DuringMovie": "Huh? Oh! Yeah... The film's... interesting...$10",
+            
+                "Vincent_love_BeforeMovie": "I'm so excited! My mum said I can have sweets, too!$h",
+                "Vincent_dislike_BeforeMovie": "B... But... This film is for grown-ups, isn't it?$s",
+            
+                "Kent_like_BeforeMovie": "Thanks for inviting me to the cinema, @. It's not easy to adjust back into the civilian lifestyle, but you've helped me feel really welcome.",
+                "Kent_like_AfterMovie": "That was fun. When you're engrossed in a film, all your cares and worries disappear.",
+                "Kent_dislike_BeforeMovie": "I'm not sure about this film...",
+            
+                "Clint_winter_movie_1_BeforeMovie": "This film's supposed to be a romance, right? *sigh*$s",
+                "Clint_winter_movie_1_AfterMovie": "That film was depressing...$s",
+                "Clint_like_BeforeMovie": "I guess it's \"boys' night\", huh? Does that mean I have to buy my own snacks?^Oh... A... Are we on a date, then?$4",
+            
+                "Emily_love_BeforeMovie": "When I saw the film poster for this one, I felt a very positive sensation in the top of my head.$h",
+                "Emily_love_AfterMovie": "That film felt very spiritual, in a way... don't you agree? I loved it!$h",
+                "Emily_like_BeforeMovie": "I'm happy to see a film with you! I tend to get totally lost in the screen.",
+                "Emily_like_AfterMovie": "I feel positive after that one... that means it was a good film!$h",
+                "Emily_dislike_BeforeMovie": "I usually go to more positive films, so this will be interesting.",
+                "Emily_dislike_DuringMovie": "Yoba, please protect me from the dark energy of this film.$7",
+            
+                "Haley_winter_movie_1_BeforeMovie": "Mmm... It's nice and warm in here. Winter is my favourite time to go to the cinema.$h",
+                "Haley_winter_movie_0_BeforeMovie": "Mmm... It's nice and warm in here. Winter is my favourite time to go to the cinema.$h",
+                "Haley_dislike_BeforeMovie": "Oh, is this one of those 'fantasy' films?$7",
+                "Haley_dislike_AfterMovie": "*yawn*... What? Oh... what was that film about, again?$7",
+                "Haley_like_BeforeMovie": "Everyone's talking about this film, so I've been wanting to see it.",
+            
+                "Maru_summer_movie_1_BeforeMovie": "It's a sci-fi film, right? One of the things I like about sci-fi is seeing all the weird technologies they come up with.",
+                "Maru_like_BeforeMovie": "I really like going to the cinema, even if the movie's bad!$h",
+            
+                "Sebastian_love_BeforeMovie": "Hey. I heard this film is pretty grim... I'm looking forward to it.$h",
+                "Sebastian_love_AfterMovie": "Best film I've seen in a while... I wonder how they did some of those special effects?$h",
+                "Sebastian_like_BeforeMovie": "*shrugs*... The film poster looked pretty cool, so I'm in.",
+                "Sebastian_dislike_AfterMovie": "It's probably a fine film for the target audience, but it's just not for me.",
+            
+                "Robin_love_BeforeMovie": "I've been feeling kind of dull lately, so an action-packed film is exactly what I need.",
+                "Robin_like_BeforeMovie": "I'm not sure what this film's about, but I don't really care! It's just good to get out of the house.",
+            
+                "Demetrius_summer_movie_1_BeforeMovie": "This film supposedly takes place in a 'futuristic' society... it will be interesting to see what that looks like!",
+                "Demetrius_summer_movie_1_AfterMovie": "Great film... but I wonder if there really is life beyond this planet?",
+                "Demetrius_like_BeforeMovie": "Even if a film is bad, it's interesting to analyse.",
+            
+                "Dwarf_love_AfterMovie": "I didn't understand a thing, but the flashing lights were mesmerising!",
+            
+                "Marnie_love_BeforeMovie": "I know I'm going to love this film! It was really nice of you to invite me, @.$h",
+                "Marnie_like_BeforeMovie": "I'm pretty easy-going when it comes to films... I like just about everything!",
+            
+                "Shane_love_AfterMovie": "When you're watching a good film, you can forget about everything else... That's a gift.",
+            
+                "Jas_love_BeforeMovie": "I'm really happy to see a film!",
+                "Jas_like_BeforeMovie": "This is a grown-up movie, right? I'll be okay!",: "This is a grown-up film, right? I'll be okay!",
+            
+                "Leah_love_BeforeMovie": "I'm really intrigued by this film... I'm a sucker for the mysterious.",
+                "Leah_like_BeforeMovie": "I'm not sure what to expect with this film, but I'm going to keep an open mind!",
+                "Leah_like_AfterMovie": "From the film poster, this one looks pretty cheesy.",
+            
+                "Willy_like_BeforeMovie": "Heh heh... I'd never turn down a free film!",
+            
+                "Leo_love_AfterMovie": "Did you see that? They showed the Fern Islands... that's where I'm from!$h",
+                "Leo_like_DuringMovie": "Leo seems very interested in the film."
+            }
+        }
+    ]
+}

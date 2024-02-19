@@ -1,0 +1,42 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/UI spellings",
+            "Action": "EditData",
+            "Target": "Strings/UI",
+            "Entries": {
+                "Toggle_ColorPicker": "Toggle Colour Picker",
+                "Character_FavoriteThing": "Favourite\nThing",
+                "Character_EyeColor": "Eye Colour:",
+                "Character_PantsColor": "Trouser Colour:",
+                "Character_Pants": "Trousers",
+                "Collections_Artifacts": "Artefacts",
+                "GameMenu_JunimoNote_Hover": "Community Centre",
+                "ItemHover_DefenseBonus": "+{0} Defence",
+                "ItemHover_Buff10": "{0} Defence",
+                "ItemGrab_Organize": "Organise",
+                "JunimoNote_MustBeAtCC": "Must be deposited at Community Centre",
+                "Chat_TrashCan": "{1} caught {0} digging through the rubbish...",
+                "Chat_DivorceCancel": "{0} has cancelled the divorce.",
+                "Chat_HelpColor": " - {0} [color]: sets your default text colour.",
+                "Chat_HelpColorList": " - {0}: lists the available text colours.",
+                "ProposalWithdrawn": "{0} cancelled the request.",
+                "PendingProposal_Canceling": "Cancelling request...",
+                "Profile_Gift_Category_LikedGifts": "{0}'s Favourites",
+                "DyePot_Help": "Place an item of each colour into the dye pots in order to dye any dyeable clothes you're wearing.",
+                "DyePot_CanDye": "Press the Dye button to colour your clothes!",
+                "Options_Vsync": "V-Sync",
+                "Options_GamepadMode": "Controller Mode",
+                "AGO_CCB": "Community Centre Bundles:",
+                "AGO_CCB_Tooltip": "Modifies the bundles that appear in the Community Centre.",
+                "AGO_Year1Completable_Tooltip": "Ensures that the Travelling Merchant sells a Red Cabbage seed some time during the first year.",
+                "AGO_LegacyRandomization": "Use Legacy Randomisation",
+                "Character_FarmBeach": "Beach Farm_Good foraging and fishing, and tonnes of open space. Sometimes, supply crates wash up on shore. However, sprinklers don't work in the sandy soil.",
+                "Chat_Eternal1": "You feel it in your heart: somewhere, somehow... {{GrandparentName}} is beaming with pride.",
+                "NameChange_EasterEgg3": "*{{GrandparentName}} is shaking his head... 'I built this farm the old fashioned way, not with unlimited {0}...'",
+                "EndCredit_Neighbors": "Neighbours"
+            }
+            
+        }
+    ]
+}

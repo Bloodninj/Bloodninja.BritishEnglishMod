@@ -1,0 +1,12 @@
+{
+        "Changes": [
+        {
+            "LogName": "Edit Strings/animationDescriptions",
+            "Action": "EditData",
+            "Target": "Strings/animationDescriptions",
+            "Entries": {
+                "sam_guitar": "%Sam is busy practising the guitar."
+              }
+        }
+    ]
+}

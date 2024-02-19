@@ -1,0 +1,15 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit BigCraftables spellings",
+            "Action": "EditData",
+            "Target": "Strings/BigCraftables",
+            "Entries": {
+                "BoneMill_Description": "Turns bone items into fertilisers.",
+                "MiniJukebox_Description": "Allows you to play your favourite tunes.",
+                "SlothSkeletonL_Description": "This extinct sloth roamed the lush, prehistoric forests of Stardew Valley. Its powerful jaw tore through the toughest plant fibres.",
+                "SuitOfArmor_Name": "Suit of Armour"
+            }
+        }
+    ]
+}

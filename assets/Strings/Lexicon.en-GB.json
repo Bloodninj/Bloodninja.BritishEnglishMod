@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Lexicon",
+            "Action": "EditData",
+            "Target": "Strings/Lexicon",
+            "Entries": {
+                "RandomNegativeItemNoun": "rubbish#terrible#junk#slop#crap",
+                "RandomPositiveAdjective_Child": "cool#fun#neat#nice#nifty#great",
+                "RandomDeliciousAdjective": "delicious#tasty#wonderful#satisfying#filling#scrumptious#appetising#delightful"
+            }
+        }
+    ]
+}

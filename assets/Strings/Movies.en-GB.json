@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Movies spellings",
+            "Action": "EditData",
+            "Target": "Strings/Movies",
+            "Entries": {
+
+                "BraveLittleSapling_Scene5": "Fearing for his life, and demoralised by the relentless downpour, the brave little sapling begins to lose hope...",
+                "BraveLittleSapling_Scene8": "Farewell, little friend!",
+                "Wumbus_Description": "An absurd sci-fi comedy centred around the life and times of a lumpy guy from another star.",
+                "Wumbus_Scene7": "Many scenes attempt to find humour in the absurdity of the modern lifestyle.",
+                "ZuzuCityExpress_Description": "A beloved movie classic, carefully restored for modern cinemas."
+            }
+            
+        }
+    ]
+}

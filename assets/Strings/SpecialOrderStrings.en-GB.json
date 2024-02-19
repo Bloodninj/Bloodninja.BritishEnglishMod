@@ -1,0 +1,23 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/SpecialOrderStrings spellings",
+            "Action": "EditData",
+            "Target": "Strings/SpecialOrderStrings",
+            "Entries": {
+                "Pam_Text": "Heard there's a spirit made out of potatoes that really packs a wallop, if you know what I mean. Mind dropping a few taters into a keg and bringing me a batch or two?",
+                "Gus_Name": "Gus' Famous Omelette",
+                "Gus_RE_Greeting_0": "I've got the urge to make my famous giant omelette",
+                "Gus_RE_Greeting_1": "I've got the urge to make another giant omelette",
+                "Linus_Name": "Community Cleanup",
+                "Linus_Text": "I have an idea. There's a lot of rubbish in the water. Why don't we fish some out to make the valley more beautiful?                     -Linus",
+                "Linus_Objective_0_Text": "Gather 20 pieces of rubbish.",
+                "Linus_Objective_1_Text": "Dump the rubbish in the recycling bin behind the train platform.",
+                "Evelyn_Text": "George thinks no one in town cares about him. I'd like to prove him wrong! A dozen leeks should do the trick... they're his favourite.                     -Evelyn",
+                "Robin2_Text": "I'm putting on a little promotion, just for fun. If anyone can collect 1,000 pieces of {Resource:Text} in a week, they'll earn a reward. And you can keep the {Resource:Text}!            -Robin",
+                "Robin2_Objective_0_Text": "Gather 1,000 pieces of {Resource:Text}.",
+                "Gunther_Text": "Calling all amateur palaeontologists! I need 100 pieces of bone for my studies. Please drop them off at the museum counter!         -Gunther"
+            }
+        }
+    ]
+}

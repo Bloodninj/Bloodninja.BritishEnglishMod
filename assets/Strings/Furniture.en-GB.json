@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Furniture",
+            "Action": "EditData",
+            "Target": "Strings/Furniture",
+            "Entries": {
+                "DecorativeTrashCan": "Decorative Rubbish Bin",
+                "ColorfulSet": "Colourful Set"
+            }
+        }
+    ]
+}

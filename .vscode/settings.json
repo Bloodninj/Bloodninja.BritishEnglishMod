@@ -11,5 +11,12 @@
         "Stardrop",
         "Yoba",
         "Zuzu"
+    ],
+    "cSpell.languageSettings": [
+        {
+            "languageId": "json,jsonc",
+            "allowCompoundWords": false,
+            "ignoreRegExpList": ["/\"[^\"]*\":/"]
+          },
     ]
 }

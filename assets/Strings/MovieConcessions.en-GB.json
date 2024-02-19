@@ -1,0 +1,17 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/MovieConcessions",
+            "Action": "EditData",
+            "Target": "Strings/MovieConcessions",
+            "Entries": {
+                  "BlackLicorice_Description": "A chewy candy with an intense, pungent flavour.",
+                  "HummusSnackPack_Name": "Houmous Snack Pack",
+                  "JasmineTea_Description": "Green tea flavoured with aromatic jasmine flowers.",
+                  "KaleSmoothie_Description": "It's loaded with vitamins and fibre.",
+                  "RockCandy_Description": "Flavoured sugar crystals attached to a convenient stick.",
+                  "SourSlimes_Description": "Tiny gummy slimes of assorted colours. They're sprinkled with an extremely sour powder."
+            }
+        }
+    ]
+}

@@ -1,0 +1,45 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Shirts spellings",
+            "Action": "EditData",
+            "Target": "Strings/Shirts",
+            "Entries": {
+                "DarkShirt_Description": "A dark-coloured shirt.",
+                "StoreOwnersJacket_Name": "Shop Owner's Jacket",
+                "EmilysMagicShirt_Description": "Made with love by Emily. Coloured with all-natural dye!",
+                "LettermanJacket_Description": "An American-style jacket that's oozing with team spirit.",
+                "TieDyeShirt_Description": "A shirt that was tied up and then dipped into multiple coloured dyes.",
+                "SteelBreastplate_Description": "Decorative armour made from steel.",
+                "CopperBreastplate_Description": "Decorative armour made from copper.",
+                "GoldBreastplate_Description": "Decorative armour made from solid gold.",
+                "IridiumBreastplate_Description": "Decorative armour made from pure iridium.",
+                "GrayHoodie_Name": "Grey Hoodie",
+                "GrayHoodie_Description": "A sporty grey pullover with a hood.",
+                "GrayVest_Name": "Grey Vest",
+                "GrayVest_Description": "A grey vest over a white shirt.",
+                "TurtleneckSweater_Name": "Turtleneck Jumper",
+                "TunnelersJersey_Name": "Tunnelers Sports Jersey",
+                "GraySuit_Name": "Grey Suit",
+                "GraySuit_Description": "It's a custom-tailored grey suit.",
+                "DarkStripedShirt_Description": "A dark shirt with colourful stripes.",
+                "VacationShirt_Name": "Holiday Shirt",
+                "Cardigan_Description": "A soft button-up cardigan jumper.",
+                "SoftArrowShirt_Description": "A soft-coloured shirt with an upward arrow pattern.",
+                "JewelryShirt_Name": "Jewellery Shirt",
+                "TrashCanShirt_Name": "Rubbish Bin Shirt",
+                "TrashCanShirt_Description": "You're wearing a rubbish bin.",
+                "CircuitboardShirt_Name": "Circuit Board Shirt",
+                "CircuitboardShirt_Description": "The shirt looks like an electronics circuit board.",
+                "WarmFlannelShirt_Description": "A flannel shirt with a warm brown and rose colour.",
+                "SpringShirt_Description": "It's light, it's fresh, and it features the colours of spring.",
+                "DarkBandanaShirt_Description": "A dark shirt with a colourful bandana.",
+                "CrabCakeShirt_Description": "Pre-slathered with aioli for your enjoyment. Bon appétit!",
+                "ShrimpEnthusiastShirt_Name": "Prawn Enthusiast Shirt",
+                "ShrimpEnthusiastShirt_Description": "For those whose appetites demand a steady supply of prawns.",
+                "TrinketShirt_Description": "A shirt with large coloured glass orbs attached to it.",
+                "GingerOveralls_Description": "The colour scheme is inspired by ginger ale."
+            }
+        }
+    ]
+}

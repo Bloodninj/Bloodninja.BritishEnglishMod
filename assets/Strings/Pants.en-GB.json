@@ -1,0 +1,29 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Pants spellings",
+            "Action": "EditData",
+            "Target": "Strings/Pants",
+            "Entries": {
+                "Pants_Name": "Trousers",
+                "Pants_Description": "A wearable pair of trousers.",
+                "FarmerPants_Name": "Farmer Trousers",
+                "Dress_Description": "A long, flowing dress.",
+                "DinosaurPants_Name": "Dinosaur Trousers",
+                "DinosaurPants_Description": "These trousers were thought to have gone extinct a long time ago!",
+                "GeniePants_Name": "Genie Trousers",
+                "GeniePants_Description": "Trousers that balloon out near the bottom. Your wish has been answered!",
+                "TightPants_Name": "Tight Trousers",
+                "TightPants_Description": "A very tight pair of trousers.",
+                "BaggyPants_Name": "Baggy Trousers",
+                "BaggyPants_Description": "A loose pair of trousers.",
+                "RelaxedFitPants_Name": "Relaxed Fit Trousers",
+                "RelaxedFitPants_Description": "These trousers have a little more room for the legs.",
+                "PrismaticPants_Name": "Prismatic Trousers",
+                "PrismaticPants_Description": "Trousers that shimmer with prismatic energy.",
+                "PrismaticGeniePants_Name": "Prismatic Genie Trousers",
+                "PrismaticGeniePants_Description": "Trousers that shimmer with prismatic energy."
+            }
+        }
+    ]
+}
