@@ -4,5 +4,5 @@
     "config.GrandparentName.name": "Grandparent name",
     "config.GrandparentName.description": "Which name to use to refer to your grandparent.",
     "config.PierreShopName.name": "Name of Pierre's shop",
-    "config.PierreShopName.description": "The name to be used for Pierre's shop (called Pierre's General Store in the US English original)."
+    "config.PierreShopName.description": "The name to be used for Pierre's shop (called Pierre's General Store in the US English original). Any changes require a map change to take effect."
 }

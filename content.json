@@ -55,14 +55,7 @@
                 "ModEnabled": "true"
             }
         },
-        {
-            "Action": "Include",
-            "FromFile": "assets/Strings/BigCraftables.en-GB.json",
-            "When": {
-                "ModEnabled": "true",
-                "Language": "en-GB"
-            }
-        },
+        
         {
             "Action": "Include",
             "FromFile": "assets/Data/Blueprints.en-GB.json",
@@ -337,6 +330,14 @@
             }
         },
         // Strings
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/BigCraftables.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
         {
             "Action": "Include",
             "FromFile": "assets/Strings/Buildings.en-GB.json",
