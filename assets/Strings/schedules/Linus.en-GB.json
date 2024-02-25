@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Linus",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Linus",
+            "Entries": {
+                "winter_15.000": "These people are travellers, like me... I feel a connection. But I'm okay just staying here to listen and watch."
+            }
+        }
+    ]
+}

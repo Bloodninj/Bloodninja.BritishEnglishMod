@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Maru",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Maru",
+            "Entries": {
+                "marriage_Mon.000": "Hey! Mum seems to be doing okay without my help. She's a tough lady."
+            }
+        }
+    ]
+}

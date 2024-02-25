@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Sebastian",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Sebastian",
+            "Entries": {
+                "marriage_Mon.001": "Mum's face lit up when I walked in. She deserves to be happy.$7"
+            }
+        }
+    ]
+}

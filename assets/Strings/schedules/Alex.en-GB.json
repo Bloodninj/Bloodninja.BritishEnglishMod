@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Alex",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Alex",
+            "Entries": {
+                "winter_17.000": "Have you seen the mermaid show? It's my favourite..."
+            }
+        }
+    ]
+}

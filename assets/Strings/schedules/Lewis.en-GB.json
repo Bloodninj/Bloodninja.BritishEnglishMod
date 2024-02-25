@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Lewis",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Lewis",
+            "Entries": {
+                "winter_16.000": "You know, I've purchased some of my favourite items from this market..."
+            }
+        }
+    ]
+}

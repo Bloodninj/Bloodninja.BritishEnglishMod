@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Emily",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Emily",
+            "Entries": {
+                "winter_15.000": "I think this boat's my favourite. It's so unique!"
+            }
+        }
+    ]
+}

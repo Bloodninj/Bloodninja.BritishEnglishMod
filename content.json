@@ -1,5 +1,5 @@
 {
-    "Format": "1.29.0",
+    "Format": "2.0.0",
     "ConfigSchema": {
         "ModEnabled": {
            "AllowValues": "true, false",
@@ -130,31 +130,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Data/Movies.en-GB.json",
-            "When": {
-                "ModEnabled": "true",
-                "Language": "en-GB"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "assets/Data/MoviesReactions.en-GB.json",
-            "When": {
-                "ModEnabled": "true",
-                "Language": "en-GB"
-            }
-        },
-        {
-            "Action": "Include",
             "FromFile": "assets/Data/NPCGiftTastes.en-GB.json",
-            "When": {
-                "ModEnabled": "true",
-                "Language": "en-GB"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "assets/Data/ObjectInformation.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
@@ -179,14 +155,6 @@
         {
             "Action": "Include",
             "FromFile": "assets/Data/SecretNotes.en-GB.json",
-            "When": {
-                "ModEnabled": "true",
-                "Language": "en-GB"
-            }
-        },
-        {
-            "Action": "Include",
-            "FromFile": "assets/Data/Furniture.en-GB.json",
             "When": {
                 "ModEnabled": "true",
                 "Language": "en-GB"
@@ -329,6 +297,95 @@
                 "Language": "en-GB"
             }
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Railroad.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Saloon.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/SamHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/ScienceHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/SeedShop.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Sewer.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Sunroom.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Town.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Trailer.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/WizardHouse.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Events/Woods.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
         // Strings
         {
             "Action": "Include",
@@ -457,7 +514,103 @@
                 "ModEnabled": "true",
                 "Language": "en-GB"
             }
-        }
-
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Weapons.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        // Strings/schedules
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Abigail.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Alex.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Elliot.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Emily.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Lewis.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Linus.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Maru.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Robin.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Sam.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Sebastian.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Vincent.en-GB.json",
+            "When": {
+                "ModEnabled": "true",
+                "Language": "en-GB"
+            }
+        },
     ]
 }

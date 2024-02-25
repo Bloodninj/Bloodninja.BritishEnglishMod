@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Weapons spellings",
+            "Action": "EditData",
+            "Target": "Strings/Weapons",
+            "Entries": {
+                "SilverSaber_Name": "Silver Sabre",
+                "TemplarsBlade_Description": "It once belonged to an honourable knight.",
+                "SteelSmallsword_Name": "Steel Shortsword",
+                "WoodClub_Description": "A solid piece of wood, crudely chiselled into a club shape.",
+                "PennysFryer_Description": "Penny's favourite frying pan. There's some rubbery gunk stuck to the inside.",
+                "LeahsWhittler_Description": "Leah's favourite tool for shaping driftwood."
+            }
+            
+        }
+    ]
+}

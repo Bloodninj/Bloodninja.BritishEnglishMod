@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Robin",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Robin",
+            "Entries": {
+                "winter_16.000": "My favourite thing is seeing the boats. The creaking sound of the wood is strangely comforting."
+            }
+        }
+    ]
+}

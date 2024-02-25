@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Vincent",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Vincent",
+            "Entries": {
+                "spring_11.001": "*gulp*... Mummy, don't make me do it.$s",
+                "spring_11.002": "Do I get a lolly for being so brave?",
+                "spring_11.000": "*sob*... I have to get my injections today.$s"
+            }
+        }
+    ]
+}

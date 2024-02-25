@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Sam",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Sam",
+            "Entries": {
+                "marriage_Fri.000": "Don't tell my mum... but I really just came over for a free lunch.$h",
+                "marriage_Mon.000": "Mum seems okay. A little overworked, maybe."
+            }
+        }
+    ]
+}
