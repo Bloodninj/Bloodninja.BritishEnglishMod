@@ -5,7 +5,7 @@
   "Description": "Replaces usage of American English with their British English equivalents, and localises the game to some degree.",
   "UniqueID": "Bloodninja.BritishEnglishMod",
   "MinimumApiVersion": "3.13.0",
-  "UpdateKeys": [],
+  "UpdateKeys": ["Nexus:20356"],
   "ContentPackFor": {
     "UniqueID": "Pathoschild.ContentPatcher"
   }
