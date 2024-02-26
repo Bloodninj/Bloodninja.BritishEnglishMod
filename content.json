@@ -612,5 +612,46 @@
                 "Language": "en-GB"
             }
         },
+        // Maps
+        {
+            "LogName": "Replace Maps/fall_town with localised version",
+            "Action": "EditImage",
+            "Target": "Maps/fall_town",
+            "FromFile": "assets/Maps/fall_town.en-GB.png",
+            "When": {
+                "HasFile: {{FromFile}}": true,
+                "ModEnabled": "true"
+            }
+        },
+        {
+            "LogName": "Replace Maps/spring_town with localised version",
+            "Action": "EditImage",
+            "Target": "Maps/spring_town",
+            "FromFile": "assets/Maps/spring_town.en-GB.png",
+            "When": {
+                "HasFile: {{FromFile}}": true,
+                "ModEnabled": "true"
+            }
+        },
+        {
+            "LogName": "Replace Maps/summer_town with localised version",
+            "Action": "EditImage",
+            "Target": "Maps/summer_town",
+            "FromFile": "assets/Maps/summer_town.en-GB.png",
+            "When": {
+                "HasFile: {{FromFile}}": true,
+                "ModEnabled": "true"
+            }
+        },
+        {
+            "LogName": "Replace Maps/winter_town with localised version",
+            "Action": "EditImage",
+            "Target": "Maps/winter_town",
+            "FromFile": "assets/Maps/winter_town.en-GB.png",
+            "When": {
+                "HasFile: {{FromFile}}": true,
+                "ModEnabled": "true"
+            }
+        }
     ]
 }

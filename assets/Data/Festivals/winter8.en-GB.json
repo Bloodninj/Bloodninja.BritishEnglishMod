@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/Festivals/winter8",
+            "Action": "EditData",
+            "Target": "Data/Festivals/winter8",
+            "Entries": {
+                "Pierre": "This snow is so cold I can't feel my fingers any more...$s"
+            }
+        }
+    ]
+}

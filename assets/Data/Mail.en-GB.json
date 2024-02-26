@@ -1,175 +1,65 @@
 {
     "Changes": [
         {
-            "LogName": "Edit Data/Mail",
+            "LogName": "Edit Data/mail",
             "Action": "EditData",
             "Target": "Data/mail",
-            "Fields": {
-                "Lewis": {
-                    "0": "@,^I'm really glad you've become part of our community! I've enclosed a 500g cheque from the Stardew Valley Agricultural Fund to help you continue your good work. ^Maybe you can buy some more seeds with it.  ^  Sincerely, Mr. Lewis%item money 500 501 %%[#]A Gift From Lewis"
-                },
-                "Jodi": {
-                    "0": "Dear @,^I ordered too much fertiliser for the garden!! I bet you can put it to some good use. Take care!  ^   -Jodi %item id (O)368 5 (O)369 5 (O)370 5 %%[#]A Gift From Jodi"
-                },
-                "Marnie": {
-                    "0": "Dear @,^You're such a good neighbour I thought I'd send over some animal feed to make your job easier. Keep it up! ^   -Marnie %item id (O)178 30 %%[#]A Gift From Marnie"
-                },
-                "LinusCooking" : {
-                    "0": "@,^how are you doing? I've enclosed some instructions on how to make one of my favourite fish recipes. ^   -Linus%item cookingRecipe %%[#]Linus' Recipe"
-                },
-                "LewisCooking": {
-                    "0": "@,^remember to eat healthy, or you won't have enough energy to work hard! I'm including one of my favourite recipes. Make sure to use ripe tomatoes! ^   -Lewis%item cookingRecipe %%[#]Lewis's Recipe"
-                },
-                "MarnieCooking": {
-                    "0": "Dear neighbour,^when I'm not taking care of animals I like to experiment in the kitchen. Since we've become friends I want to share some recipes with you.^I hope you like this! ^   -Marnie%item cookingRecipe %%[#]Marnie's Recipe"
-                },
-                "mom1": {
-                    "0": "Dear @,^  How are you doing, sweetie? I've missed you so much since you left. I hope the farming life is everything you hoped for. ^   Love, Mum.   ^   P.S. I sent your favourite cookies < %item id (O)223 1 %%[#]From Mum"
-                },
-                "mom2": {
-                    "0": "\n        Dear @,^  It's been so long since I heard from you, dear. Things are the same as ever back home. I miss you very much. ^  Love, Mum ^ P.S. Found an envelope with some money Grandpa left for you. %item money 500 501 %%[#]From Mum #2"
-                },
-                "mom3": {
-                    "0": "Dear @,^  I saw an article about you in the local paper! It sounds like the country life is a good fit for you! I'm so proud of you. Take care, sweetie. Love, Mum[#]From Mum #3"
-                },
-                "mom4": {
-                    "0": "Dear @,^ How are things going? You must really be making a fortune on that farm. Don't forget your dear old mother when you're a millionaire! ^  Love, Mum   ^   P.S. Enjoy the cake!%item id (O)221 1 %%[#]From Mum #4"
-                },
-                "dad2": {
-                    "0": "Dear @,^  How is the country life going for you? It's been lonely here without you, but I'm proud of what you're doing.^  Love, Dad  ^  P.S. Found an envelope with some money Grandpa left for you. %item money 500 501 %%[#]From Dad #2"
-                },
-                "dad3": {
-                    "0": "Dear @,^  I read an article about you in the local paper! I'm so impressed with your progress on the farm! Keep this up and dear old Dad might be retiring in a fern islands luxury bungalow after all ;).^  Love, Dad[#]From Dad #3"
-                },
-                "pierreBackpack": {
-                    "0": "ADVERTISEMENT:^\"I keep finding cool stuff, but my backpack is full!\"^^Does this sound like you? Well, Pierre's got you covered!^^Stop by {{PierreShopName}} TODAY and check out our affordable size 24 backpack!^ See you soon![#]Backpacks From Pierre's",
-                },
-                "pierreHours": {
-                    "0": "ADVERTISEMENT:^^{{PierreShopName}} is now open 7 days a week![#]Pierre's Extended Hours"
-                },
-                "robinKitchenLetter": {
-                    "0": "Dear Farmer @,^^I'd like to apologise for joking about your granddad's old cottage when we first met. It's really a nice little house!^^However, you might need some more space someday. That's where I can help. If you bring me some raw materials and pay a fee, I can expand your house.^(Continued on next page)^^The first expansion I offer includes a kitchen. With a kitchen, you'll be able to cook any recipes you've learned!^^Anyway, I hope you're starting to feel at home in Stardew Valley!^^    Your local carpenter,^        Robin[#]Robin's Services"
-                },
-                "quest10": {
-                    "0": "@,^I've heard you've been giving some people a hand around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbour\" award (with a small cash prize). Keep it up! ^   -Mayor%item money 500 501 %%[#]Best Neighbour"
-                },
-                "quest100": {
-                    "0": "@,^I am pleased to announce that you've been chosen as \"Neighbour of the year\"! That comes with a 10,000g prize! Congratulations! Everyone in town wants to say 'thanks' for all you've done. ^   -Mayor%item money 10000 10001 %%[#]Neighbour Of The Year"
-                },
-                "fertilizers": {
-                    "0": "Dear neighbour,^I hope you are feeling settled in your new home. I am writing to let you know that Pierre's store is now selling fertilisers! Why don't you swing by and see if you can afford a few dozen boxes or so?  ^   -Pierre[#]Pierre's Fertilisers"
-                },
-                "fertilizers2": {
-                    "0": "Dear @,^I am now selling higher quality fertilisers, as well as new crop selections! See you soon. ^   -Pierre[#]Pierre's High Quality Fertilisers"
-                },
-                "marnieAutoGrabber": {
-                    "0": "@,^I've got a new item in stock... It's called the \"Auto-Grabber\".^^This thing can milk your cows and goats, shear your sheep, gather eggs, and pluck your woolly rabbits... all on its own!^^It's considered a 'luxury item', so I'm charging 25,000g.^^    -Marnie[#]Auto-Grabber Notice"
-                },
-                "fishing6": {
-                    "0": "Come by the shop and check out the new rods I'm selling.^They're the best money can buy... and you can customise them with different kinds of tackle!^Hope to see you soon! ^   -Willy[#]Willy's New Items #2"
-                },
-                "wizardJunimoNote": {
-                    "0": "My sources tell me you've been poking around inside the old community centre.^Why don't you pay me a visit?^My chambers are west of the forest lake, in the stone tower. I may have information concerning your... 'rat problem'.^   -M. Rasmodius, Wizard %item quest 1 true %%[#]Wizard's Summons"
-                },
-                "winter_18": {
-                    "0": "Dear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favourite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprises them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 09:00 to 14:00 at the town square. See you then! ^   -Mayor Lewis[#]Secret Gift-Giver"
-                },
-                "ccBulletinThankYou": {
-                    "0": "Dear @,^Everyone around town has been talking about your great generosity lately!^Apparently, packages have been appearing in people's houses containing items they posted about years ago on the community centre bulletin! And the packages are all addressed from your farm!^Thanks for going out of your way to do something like that... all of us in town are delighted! ^   -Mayor Lewis[#]Bulletin Board Thank-you"
-                },
-                "skullCave": {
-                    "0": "I see you've entered the Skull Cavern. Well done.^I've got a better challenge for you, kid. Make it at least 25 levels deep. I've got a mountain of gold to send if you can do it.^  Your friend, Mr. Qi %item quest 20 %%[#]Qi's Challenge"
-                },
-                "robinWell": {
-                    "0": "Robin here!^I know there's a lot of stone scattered around your farm.^If you have a surplus, you might consider having me build a well for you.^Wells can be placed all over your farm, and serve as convenient places to refill your watering can.^^Just swing by my shop with 75 stones and 1,000g when you're ready for it.^-Robin[#]Build A Well"
-                },
-                "landslideDone": {
-                    "0": "To our valued JojaMart customers:^Our team members have removed the landslide caused by our drilling operation near the mountain lake. I'd like to remind you that our drilling operation is entirely legal (pursuant to init. L61091, JojaCo Amendment). Responsible stewardship of the local environment is our top priority! ^^We apologise for any inconvenience this accident may have caused.^As always, we value your continued support and patronage!^^-Morris,^Joja Customer Satisfaction Representative[#]Joja Removed Landslide"
-                },
-                "spring_12": {
-                    "0": "Dear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 09:00 and 14:00 if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Mayor Lewis[#]Egg Festival Notice"
-                },
-                "spring_23": {
-                    "0": "Dear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 09:00 and 14:00 if you're interested.^  -Mayor Lewis[#]Flower Dance Notice"
-                },
-                "summer_10": {
-                    "0": "Dear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal pot luck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behaviour.^Come to the beach sometime between 09:00 and 14:00.^   -Mayor Lewis[#]Luau Notice"
-                },
-                "summer_28": {
-                    "0": "Dear @,^Tonight at around 22:00, a rare and beautiful event will take place.^^The moonlight jellies will be passing by Pelican Town on their long journey south for the winter.^^We're all gathering at the beach to watch. You don't want to miss this!^See you tonight,^ -Demetrius[#]Dance Of The Moonlight Jellies"
-                },
-                "fall_9": {
-                    "0": "Dear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 09:00... don't miss it!^   -Mayor Lewis[#]Stardew Valley Fair Notice"
-                },
-                "fall_15": {
-                    "0": "Dear @,^I just want to remind you that the Stardew Valley Fair is happening tomorrow.^Don't forget to bring your 9 items for the grange display.^Remember, the fair starts at 09:00 in the town square. See you there!^   -Mayor Lewis[#]Stardew Valley Fair Reminder"
-                },
-                "fall_26": {
-                    "0": "Dear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark spectre, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 22:00 if you'd like to participate.^  -Mayor Lewis[#]Spirit's Eve Notice"
-                },
-                "winter_7": {
-                    "0": "Dear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 09:00 and 14:00 if you'd like to participate.^  -Mayor Lewis[#]Festival Of Ice Notice"
-                },
-                "winter_14": {
-                    "0": "Starting tomorrow, a travelling merchant fleet will dock at Pelican Town for the yearly night market.^^The market starts at 17:00, and will be in port for the next three days.^^Please visit the beach after 17:00 to join the festivities. There's free coffee![#]Night Market Notice"
-                },
-                "spring_11_1": {
-                    "0": "MISSING:^I lost my favourite axe! If you find it, please return ASAP. I'm having a tough time without it. There's 250g in it for whoever finds the thing.^   -Robin%item quest 100 %%[#]Robin Lost Her Axe"
-                },
-                "summer_3_1": {
-                    "0": "@-^This is embarrassing... I lost my lucky purple shorts. I'm telling you because I think I can trust you.^If you find them, bring them back to me DISCREETLY. I'll pay well.^Thanks.^   -Mayor Lewis%item quest 102 %%[#]Lewis Asks For A Favour"
-                },
-                "fall_19_1": {
-                    "0": "@-^I'd like to buy a pumpkin from you. My daughter and I want to carve a Jack-o'-Lantern for the upcoming Spirit's Eve festival. ^   -Caroline%item quest 108 %%[#]Caroline's Request"
-                },
-                "winter_6_1": {
-                    "0": "I've got an unusual request. Could you keep this a secret?^ I want you to deliver an amethyst to Emily. It's her favourite stone. Tell her it's from me.^   -Clint %item quest 110 %%[#]Clint's Unusual Request"
-                },
-                "winter_17_1": {
-                    "0": "@,^Sorry to bother you again, but I need another favour.^I got a new hammer and I want to try it on a variety of metals.^Could you smelt an iron bar and bring it to me? ^Thanks.^ -Clint %item quest 112 %%[#]Clint's Request"
-                },
-                "winter_21_1": {
-                    "0": "@-^How are you doing? Hope the winter hasn't been too hard on you.^Anyway, I'm writing to ask you for some hardwood. I need about ten pieces, if you've got it.^If not, no worries. Take care!^  -Robin%item quest 113 %%[#]Robin's Request"
-                },
-                "spring_6_2": {
-                    "0": "@-^I'm really craving a fresh apricot. I haven't been able to find one at the shop, so I'm asking you. I'll pay you well for it!^   -Emily%item quest 115 %%[#]Emily's Request"
-                },
-                "summer_6_2": {
-                    "0": "Fisherman Wanted^I need a good pufferfish specimen. I'm conducting an experiment on the toxin created by the pufferfish.^Reward: 1,000g^ -Demetrius%item quest 118 %%[#]Demetrius' Study On Toxins"
-                },
-                "fall_6_2": {
-                    "0": "Wanted: 1 Fresh Lobster for a marvellous bisque I'm creating.^Who: Gus, proprietor of the Stardrop Saloon^Reward: 800g %item quest 121 %%[#]Gus Needs Lobster"
-                },
-                "winter_24": {
-                    "0": "Dear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 09:00 in the town square. See you then! ^   -Mayor Lewis[#]Feast Of The Winter Star Reminder"
-                },
-                "passedOut4": {
-                    "0": "@, ^^Found you face-down in the mud during my 03:00 sweep.^^You should try to make it home a little earlier next time!^^     -Marlon[#]Note From Marlon"
-                },
-                "elliottLetter6": {
-                    "0": "My dear @,^^This will be my last letter before I return home. I've had a fine trip... though nothing too exciting. It's been nice to meet people who enjoy my work, but I'm eager to return home.^^I look forward to the comfort of our little house, the satisfying farm work, a home-cooked meal, and most of all, cosying into the flannel sheets with you.^^See you soon!^-Love, Elliott %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6"
-                },
-                "KrobusCrafting": {
-                    "0": "@, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.^^I hope you are doing okay.^^I wanted to share these with you... they're notes on how my people build a certain item.^^   -Krobus%item craftingRecipe Dark_Sign %%[#]A letter from Krobus"
-                },
-                "robinResource": {
-                    "0": "Hey @,^^Congratulations on completing my little challenge. I'm impressed!^^As an added bonus, I've included the blueprints for a new type of chest. Enjoy!^^-Robin^^^^P.S. -- Now that you have all those resources lying around, why not swing by for some construction work?%item craftingRecipe Stone_Chest %%[#]Robin's Resource Rush"
-                },
-                "willyHours": {
-                    "0": "Good news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 08:00 every day, so you can get an early start.^^-Willy[#]Willy's Boat"
-                },
-                "linusTrashCleanup": {
-                    "0": "Hi @,^^Thanks for helping me clean up around the valley.^The waters are looking much cleaner. I think everyone will appreciate it. I know I will.^As a way of saying 'thanks', I wanted to teach you how to grow your own fibre. I hope it's useful.^^-Linus%item craftingRecipe Fiber_Seeds %%[#]Linus' Thank You"
-                },
-                "gusGiantOmelet": {
-                    "0": "Hi @,^^Thanks for the eggs.^The yolks look amazing... I think this will be my best omelette yet!^^Please accept this gift.^^-Gus%item id (BC)216 %%[#]Gus' Famous Omelette"
-                },
-                "pamNewChannel": {
-                    "0": "Hey kid,^^Thanks for the 'juice'. It definitely had a... one-of-a-kind... flavour.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.^^Take care,^-Pam[#]Pam's Tip"
-                },
-                "passedOutIsland": {
-                    "0": "@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater prawns...^-Willy"
-                }
+            "Entries": {
+                "Lewis": "@,^I'm really glad you've become part of our community! I've enclosed a 500g cheque from the Stardew Valley Agricultural Fund to help you continue your good work. ^Maybe you can buy some more seeds with it.  ^  Sincerely, Mr. Lewis%item money 500 501 %%[#]A Gift From Lewis",
+                "Jodi": "Dear @,^I ordered too much fertiliser for the garden!! I bet you can put it to some good use. Take care!  ^   -Jodi %item id (O)368 5 (O)369 5 (O)370 5 %%[#]A Gift From Jodi",
+                "Marnie": "Dear @,^You're such a good neighbour I thought I'd send over some animal feed to make your job easier. Keep it up! ^   -Marnie %item id (O)178 30 %%[#]A Gift From Marnie",
+                "LinusCooking" : "@,^how are you doing? I've enclosed some instructions on how to make one of my favourite fish recipes. ^   -Linus%item cookingRecipe %%[#]Linus' Recipe",
+                "LewisCooking": "@,^remember to eat healthy, or you won't have enough energy to work hard! I'm including one of my favourite recipes. Make sure to use ripe tomatoes! ^   -Lewis%item cookingRecipe %%[#]Lewis's Recipe",
+                "MarnieCooking": "Dear neighbour,^when I'm not taking care of animals I like to experiment in the kitchen. Since we've become friends I want to share some recipes with you.^I hope you like this! ^   -Marnie%item cookingRecipe %%[#]Marnie's Recipe",
+                "mom1": "Dear @,^  How are you doing, sweetie? I've missed you so much since you left. I hope the farming life is everything you hoped for. ^   Love, Mum.   ^   P.S. I sent your favourite cookies < %item id (O)223 1 %%[#]From Mum",
+                "mom2": "\n        Dear @,^  It's been so long since I heard from you, dear. Things are the same as ever back home. I miss you very much. ^  Love, Mum ^ P.S. Found an envelope with some money Grandpa left for you. %item money 500 501 %%[#]From Mum #2",
+                "mom3": "Dear @,^  I saw an article about you in the local paper! It sounds like the country life is a good fit for you! I'm so proud of you. Take care, sweetie. Love, Mum[#]From Mum #3",
+                "mom4": "Dear @,^ How are things going? You must really be making a fortune on that farm. Don't forget your dear old mother when you're a millionaire! ^  Love, Mum   ^   P.S. Enjoy the cake!%item id (O)221 1 %%[#]From Mum #4",
+                "dad2": "Dear @,^  How is the country life going for you? It's been lonely here without you, but I'm proud of what you're doing.^  Love, Dad  ^  P.S. Found an envelope with some money Grandpa left for you. %item money 500 501 %%[#]From Dad #2",
+                "dad3": "Dear @,^  I read an article about you in the local paper! I'm so impressed with your progress on the farm! Keep this up and dear old Dad might be retiring in a fern islands luxury bungalow after all ;).^  Love, Dad[#]From Dad #3",
+                "pierreBackpack": "ADVERTISEMENT:^\"I keep finding cool stuff, but my backpack is full!\"^^Does this sound like you? Well, Pierre's got you covered!^^Stop by {{PierreShopName}} TODAY and check out our affordable size 24 backpack!^ See you soon![#]Backpacks From Pierre's",
+                "pierreHours": "ADVERTISEMENT:^^{{PierreShopName}} is now open 7 days a week![#]Pierre's Extended Hours",
+                "robinKitchenLetter": "Dear Farmer @,^^I'd like to apologise for joking about your granddad's old cottage when we first met. It's really a nice little house!^^However, you might need some more space someday. That's where I can help. If you bring me some raw materials and pay a fee, I can expand your house.^(Continued on next page)^^The first expansion I offer includes a kitchen. With a kitchen, you'll be able to cook any recipes you've learned!^^Anyway, I hope you're starting to feel at home in Stardew Valley!^^    Your local carpenter,^        Robin[#]Robin's Services",
+                "quest10": "@,^I've heard you've been giving some people a hand around town! Everyone seems really thankful. I'm awarding you this month's \"Best Neighbour\" award (with a small cash prize). Keep it up! ^   -Mayor%item money 500 501 %%[#]Best Neighbour",
+                "quest100": "@,^I am pleased to announce that you've been chosen as \"Neighbour of the year\"! That comes with a 10,000g prize! Congratulations! Everyone in town wants to say 'thanks' for all you've done. ^   -Mayor%item money 10000 10001 %%[#]Neighbour Of The Year",
+                "fertilizers": "Dear neighbour,^I hope you are feeling settled in your new home. I am writing to let you know that Pierre's store is now selling fertilisers! Why don't you swing by and see if you can afford a few dozen boxes or so?  ^   -Pierre[#]Pierre's Fertilisers",
+                "fertilizers2": "Dear @,^I am now selling higher quality fertilisers, as well as new crop selections! See you soon. ^   -Pierre[#]Pierre's High Quality Fertilisers",
+                "marnieAutoGrabber": "@,^I've got a new item in stock... It's called the \"Auto-Grabber\".^^This thing can milk your cows and goats, shear your sheep, gather eggs, and pluck your woolly rabbits... all on its own!^^It's considered a 'luxury item', so I'm charging 25,000g.^^    -Marnie[#]Auto-Grabber Notice",
+                "fishing6": "Come by the shop and check out the new rods I'm selling.^They're the best money can buy... and you can customise them with different kinds of tackle!^Hope to see you soon! ^   -Willy[#]Willy's New Items #2",
+                "wizardJunimoNote": "My sources tell me you've been poking around inside the old community centre.^Why don't you pay me a visit?^My chambers are west of the forest lake, in the stone tower. I may have information concerning your... 'rat problem'.^   -M. Rasmodius, Wizard %item quest 1 true %%[#]Wizard's Summons",
+                "winter_18": "Dear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favourite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprises them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 09:00 to 14:00 at the town square. See you then! ^   -Mayor Lewis[#]Secret Gift-Giver",
+                "ccBulletinThankYou": "Dear @,^Everyone around town has been talking about your great generosity lately!^Apparently, packages have been appearing in people's houses containing items they posted about years ago on the community centre bulletin! And the packages are all addressed from your farm!^Thanks for going out of your way to do something like that... all of us in town are delighted! ^   -Mayor Lewis[#]Bulletin Board Thank-you",
+                "skullCave": "I see you've entered the Skull Cavern. Well done.^I've got a better challenge for you, kid. Make it at least 25 levels deep. I've got a mountain of gold to send if you can do it.^  Your friend, Mr. Qi %item quest 20 %%[#]Qi's Challenge",
+                "robinWell": "Robin here!^I know there's a lot of stone scattered around your farm.^If you have a surplus, you might consider having me build a well for you.^Wells can be placed all over your farm, and serve as convenient places to refill your watering can.^^Just swing by my shop with 75 stones and 1,000g when you're ready for it.^-Robin[#]Build A Well",
+                "landslideDone": "To our valued JojaMart customers:^Our team members have removed the landslide caused by our drilling operation near the mountain lake. I'd like to remind you that our drilling operation is entirely legal (pursuant to init. L61091, JojaCo Amendment). Responsible stewardship of the local environment is our top priority! ^^We apologise for any inconvenience this accident may have caused.^As always, we value your continued support and patronage!^^-Morris,^Joja Customer Satisfaction Representative[#]Joja Removed Landslide",
+                "spring_12": "Dear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 09:00 and 14:00 if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Mayor Lewis[#]Egg Festival Notice",
+                "spring_23": "Dear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 09:00 and 14:00 if you're interested.^  -Mayor Lewis[#]Flower Dance Notice",
+                "summer_10": "Dear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal pot luck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behaviour.^Come to the beach sometime between 09:00 and 14:00.^   -Mayor Lewis[#]Luau Notice",
+                "summer_28": "Dear @,^Tonight at around 22:00, a rare and beautiful event will take place.^^The moonlight jellies will be passing by Pelican Town on their long journey south for the winter.^^We're all gathering at the beach to watch. You don't want to miss this!^See you tonight,^ -Demetrius[#]Dance Of The Moonlight Jellies",
+                "fall_9": "Dear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 09:00... don't miss it!^   -Mayor Lewis[#]Stardew Valley Fair Notice",
+                "fall_15": "Dear @,^I just want to remind you that the Stardew Valley Fair is happening tomorrow.^Don't forget to bring your 9 items for the grange display.^Remember, the fair starts at 09:00 in the town square. See you there!^   -Mayor Lewis[#]Stardew Valley Fair Reminder",
+                "fall_26": "Dear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark spectre, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 22:00 if you'd like to participate.^  -Mayor Lewis[#]Spirit's Eve Notice",
+                "winter_7": "Dear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 09:00 and 14:00 if you'd like to participate.^  -Mayor Lewis[#]Festival Of Ice Notice",
+                "winter_14": "Starting tomorrow, a travelling merchant fleet will dock at Pelican Town for the yearly night market.^^The market starts at 17:00, and will be in port for the next three days.^^Please visit the beach after 17:00 to join the festivities. There's free coffee![#]Night Market Notice",
+                "spring_11_1": "MISSING:^I lost my favourite axe! If you find it, please return ASAP. I'm having a tough time without it. There's 250g in it for whoever finds the thing.^   -Robin%item quest 100 %%[#]Robin Lost Her Axe",
+                "summer_3_1": "@-^This is embarrassing... I lost my lucky purple shorts. I'm telling you because I think I can trust you.^If you find them, bring them back to me DISCREETLY. I'll pay well.^Thanks.^   -Mayor Lewis%item quest 102 %%[#]Lewis Asks For A Favour",
+                "fall_19_1": "@-^I'd like to buy a pumpkin from you. My daughter and I want to carve a Jack-o'-Lantern for the upcoming Spirit's Eve festival. ^   -Caroline%item quest 108 %%[#]Caroline's Request",
+                "winter_6_1": "I've got an unusual request. Could you keep this a secret?^ I want you to deliver an amethyst to Emily. It's her favourite stone. Tell her it's from me.^   -Clint %item quest 110 %%[#]Clint's Unusual Request",
+                "winter_17_1": "@,^Sorry to bother you again, but I need another favour.^I got a new hammer and I want to try it on a variety of metals.^Could you smelt an iron bar and bring it to me? ^Thanks.^ -Clint %item quest 112 %%[#]Clint's Request",
+                "winter_21_1": "@-^How are you doing? Hope the winter hasn't been too hard on you.^Anyway, I'm writing to ask you for some hardwood. I need about ten pieces, if you've got it.^If not, no worries. Take care!^  -Robin%item quest 113 %%[#]Robin's Request",
+                "spring_6_2": "@-^I'm really craving a fresh apricot. I haven't been able to find one at the shop, so I'm asking you. I'll pay you well for it!^   -Emily%item quest 115 %%[#]Emily's Request",
+                "summer_6_2": "Fisherman Wanted^I need a good pufferfish specimen. I'm conducting an experiment on the toxin created by the pufferfish.^Reward: 1,000g^ -Demetrius%item quest 118 %%[#]Demetrius' Study On Toxins",
+                "fall_6_2": "Wanted: 1 Fresh Lobster for a marvellous bisque I'm creating.^Who: Gus, proprietor of the Stardrop Saloon^Reward: 800g %item quest 121 %%[#]Gus Needs Lobster",
+                "winter_24": "Dear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 09:00 in the town square. See you then! ^   -Mayor Lewis[#]Feast Of The Winter Star Reminder",
+                "passedOut4": "@, ^^Found you face-down in the mud during my 03:00 sweep.^^You should try to make it home a little earlier next time!^^     -Marlon[#]Note From Marlon",
+                "elliottLetter6": "My dear @,^^This will be my last letter before I return home. I've had a fine trip... though nothing too exciting. It's been nice to meet people who enjoy my work, but I'm eager to return home.^^I look forward to the comfort of our little house, the satisfying farm work, a home-cooked meal, and most of all, cosying into the flannel sheets with you.^^See you soon!^-Love, Elliott %item conversationTopic ElliottGone7 0 %%[#]Letter From My Husband 6",
+                "KrobusCrafting": "@, I'm not sure how the human message system works, so I asked Wizard to help me write this letter.^^I hope you are doing okay.^^I wanted to share these with you... they're notes on how my people build a certain item.^^   -Krobus%item craftingRecipe Dark_Sign %%[#]A letter from Krobus",
+                "robinResource": "Hey @,^^Congratulations on completing my little challenge. I'm impressed!^^As an added bonus, I've included the blueprints for a new type of chest. Enjoy!^^-Robin^^^^P.S. -- Now that you have all those resources lying around, why not swing by for some construction work?%item craftingRecipe Stone_Chest %%[#]Robin's Resource Rush",
+                "willyHours": "Good news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 08:00 every day, so you can get an early start.^^-Willy[#]Willy's Boat",
+                "linusTrashCleanup": "Hi @,^^Thanks for helping me clean up around the valley.^The waters are looking much cleaner. I think everyone will appreciate it. I know I will.^As a way of saying 'thanks', I wanted to teach you how to grow your own fibre. I hope it's useful.^^-Linus%item craftingRecipe Fiber_Seeds %%[#]Linus' Thank You",
+                "gusGiantOmelet": "Hi @,^^Thanks for the eggs.^The yolks look amazing... I think this will be my best omelette yet!^^Please accept this gift.^^-Gus%item id (BC)216 %%[#]Gus' Famous Omelette",
+                "pamNewChannel": "Hey kid,^^Thanks for the 'juice'. It definitely had a... one-of-a-kind... flavour.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.^^Take care,^-Pam[#]Pam's Tip",
+                "passedOutIsland": "@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater prawns...^-Willy"
             }
         }
     ]

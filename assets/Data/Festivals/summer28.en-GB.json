@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/Festivals/summer28",
+            "Action": "EditData",
+            "Target": "Data/Festivals/summer28",
+            "Entries": {
+                "Elliott": "If we keep polluting the oceans, the jellies will surely go extinct. It's already in the process of happening.#$e#What a shame... we have no respect for nature any more.",
+                "Harvey": "Well, summer's over. To be honest, I'll be happy to say goodbye to these blasted mosquitoes!"
+            }
+        }
+    ]
+}

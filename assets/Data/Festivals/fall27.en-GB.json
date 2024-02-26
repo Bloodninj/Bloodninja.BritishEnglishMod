@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/Festivals/fall27",
+            "Action": "EditData",
+            "Target": "Data/Festivals/fall27",
+            "Entries": {
+                "Penny_spouse": "Oh... These vapours... Hmmm... You look nice tonight.$l",
+                "Evelyn": "I wish Gus would include a vegetarian option. Some courgette skewers, maybe?",
+                "Penny": "The vapour from this cauldron... it's making my head spin, but I can't seem to leave...$u"
+            }
+        }
+    ]
+}

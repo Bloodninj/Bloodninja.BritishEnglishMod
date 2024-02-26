@@ -1,0 +1,27 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Data/TV/TipChannel",
+            "Action": "EditData",
+            "Target": "Data/TV/TipChannel",
+            "Entries": {
+                "36": "Let's talk corn. It's an unusual crop because it lasts for two seasons! That's right, while most crops die when the season changes, corn lives on. You can grow it in both summer and autumn. Now, get out there and plant some corn!",
+                "50": "Most towns have a seasonal calendar in front of the general shop. It's a good idea to check on that now and then to get a feel for what's going on in the community. Make sure to check for any job postings as well!",
+                "53": "Autumn's almost here! It's arguably the most lucrative season for farmers, so make sure you're saving some money to buy new seeds. If you haven't upgraded your watering can by now, it's probably a good idea.",
+                "67": "Fish Focus: Salmon. Salmon return to their spawning ground in autumn to lay eggs. That means the rivers are chock-full of them! You can only find them in autumn, so get out there and cast your pole.",
+                "74": "Winter's almost here. Make sure you have enough hay stored up to feed your animals over the winter, when all the grass dies out. Each silo can hold 240 pieces of hay, so make sure to do some maths and figure out if you need to build any more!",
+                "78": "Fish Focus: Walleye. You can find this fish on rainy evenings during the autumn and winter. It can be found in any freshwater location.",
+                "95": "There's a couple fish you can only find in winter... Squid and Lingcod. Squid can be caught from the ocean in the evening. Lingcod can be found in fresh water all day. Of course, there's rumours of extremely rare and unique fish that can only be found in particular seasons, but I don't have any information on them.",
+                "102": "If you really want to make someone happy, give them their favourite gift on their birthday! Trust me.",
+                "109": "Ever had the urge to dig around in your neighbour's bins? Ew! Hey, if that's your thing, just don't do it when anyone's around. If they notice you, they'll be seriously grossed out, and it'll harm your friendship. Well, unless they're into the same thing.",
+                "113": "Well, a new year has arrived. Keep your eyes peeled for any new kinds of seeds being stocked in your local general shop. Hopefully you upgraded your tools during the winter and you're ready for a productive year!",
+                "130": "Let's talk honey. No, not you, silly. I'm talking about the sweet product made by our friends, the bees. Here's the thing... if you've got some flowers blooming near your bee house your bees can produce flavoured honey. Otherwise you'll only get 'wild honey'. Pretty sweet, huh?",
+                "144": "Animal Spotlight: Pig.^^In these parts, pigs are trained to sniff out valuable truffles. You've got to let the porkers outside and be patient... they'll work their magic when they're good and ready. Make oil out of the truffles to maximise your profit.",
+                "169": "If you managed to get your hands on a 'rare seed', now's the time to plant it. Although it's said to take all season to grow, reliable sources have told me it actually takes just 24 days. The end result is rumoured to be the sweetest fruit in the entire world.",
+                "183": "Item Spotlight: Recycling Machine. Have you been catching a lot of junk while fishing? It's all too common in this day and age. Well, with a recycling machine you can turn those items into something useful. Just place your rubbish into the machine and let it do its thing. Each type of rubbish produces different kinds of items.",
+                "186": "Fish Focus: Albacore. This fish can be found either early in the morning or at night. Look for it in the ocean in autumn or winter.",
+                "221": "Folks, I've got an announcement to make. This is the last new episode of Livin' Off The Land before my retirement. I've had a good time, and I'll miss you folks. Oh, and I've been told the station's going to start playing repeats next year. ^^Take care!"
+            }
+        }
+    ]
+}
