@@ -1,6 +1,7 @@
 {
     "Changes": [
         {
+            "LogAction": "Edit Data/Quests",
             "Action": "EditData",
             "Target": "Data/Quests",
             "Fields": {
@@ -60,6 +61,22 @@
                 "128": {
                     "9": "That necklace! Where did you find it?$7#$b#Well, thanks for bringing it to me, @. My mum will never know...$h"
                 }
+            }
+        },
+        {
+            "LogAction": "Edit Data/Quests (24-hour clock disabled)",
+            "Action": "EditData",
+            "Target": "Data/Quests",
+            "Fields": {
+                "13": {
+                    "3": "Visit the beach south of town before 5pm."
+                },
+                "22": {
+                    "2": "Jodi swung by the farm to ask you to dinner at 7pm. Her only request was that you bring a largemouth bass for her fish casserole."
+                }
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
             }
         }
     ]

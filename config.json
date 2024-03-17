@@ -1,4 +1,5 @@
 {
-  "GrandparentName": "Grandpa",
-  "PierreShopName": "Pierre's General Store"
+  "UseTwentyFourHourClock": "true",
+  "GrandparentName": "Grandad",
+  "PierreShopName": "Pierre's Corner Shop"
 }
