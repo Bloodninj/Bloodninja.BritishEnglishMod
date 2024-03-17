@@ -61,6 +61,29 @@
                 "pamNewChannel": "Hey kid,^^Thanks for the 'juice'. It definitely had a... one-of-a-kind... flavour.^^By the way, have you ever tuned in to channel 736? It's a seasonal fishing program that you might find interesting.^^Take care,^-Pam[#]Pam's Tip",
                 "passedOutIsland": "@,^^You never showed up at the boat, so I went lookin' for ya.^^Found you sprawled out in the dirt, with a couple o' parrots pulling gold out of your pockets!^^Had to drag you all the way down to the boat. Me legs feel like two freshwater prawns...^-Willy"
             }
+        },
+        {
+            "LogName": "Edit Data/mail (24-hour clock disabled)",
+            "Action": "EditData",
+            "Target":"Data/mail",
+            "Entries":{
+                "winter_18": "Dear @,^I would like to give you some information about an upcoming event: the Feast of the Winter Star. It's a time for the community to come together and think back on all the good fortune we've had this year.^A favourite tradition is the \"secret gift exchange\", where everyone in town is randomly assigned to someone else. On the day of the festival, everyone brings a gift for their secret friend and surprises them with something special!^This year, your secret friend is:^    %secretsanta ^Don't tell anyone! The feast will take place on the 25th from 9am to 2pm at the town square. See you then! ^   -Mayor Lewis[#]Secret Gift-Giver",
+                "spring_12": "Dear @,^Tomorrow we're holding the Egg Festival in the town square. ^^You should arrive between 9am and 2pm if you'd like to attend.^You wouldn't want to miss the annual egg hunt!^  -Mayor Lewis[#]Egg Festival Notice",
+                "spring_23": "Dear @,^Tomorrow we're all getting together for the Flower Dance.^^If you can find a partner, you might even want to participate in the dance yourself!^There's a little clearing beyond the forest west of town where we hold the dance. Arrive between 9am and 2pm if you're interested.^  -Mayor Lewis[#]Flower Dance Notice",
+                "summer_10": "Dear @,^Tomorrow we're all gathering at the beach for the annual Pelican Town Luau.^^The highlight of the event is the communal pot luck. Make sure you bring something good to contribute!^The governor himself is attending the event, so make sure you're on your best behaviour.^Come to the beach sometime between 9am and 2pm.^   -Mayor Lewis[#]Luau Notice",
+                "summer_28": "Dear @,^Tonight at around 10pm, a rare and beautiful event will take place.^^The moonlight jellies will be passing by Pelican Town on their long journey south for the winter.^^We're all gathering at the beach to watch. You don't want to miss this!^See you tonight,^ -Demetrius[#]Dance Of The Moonlight Jellies",
+                "fall_9": "Dear @,^One week from today, we are holding the Stardew Valley Fair in the town square!^It's the biggest event of the year, drawing people from all across the country to our humble town.^If you'd like, you can set up a grange display for the event. Just bring up to 9 items that best showcase your talents. You'll be judged on the quality and diversity of your display.^The fair starts at 9am... don't miss it!^   -Mayor Lewis[#]Stardew Valley Fair Notice",
+                "fall_15": "Dear @,^I just want to remind you that the Stardew Valley Fair is happening tomorrow.^Don't forget to bring your 9 items for the grange display.^Remember, the fair starts at 9am in the town square. See you there!^   -Mayor Lewis[#]Stardew Valley Fair Reminder",
+                "fall_26": "Dear @,^Notice a chill in the air? It could just be the approach of winter...^Or it could be the tingle of a dark spectre, here to help us celebrate tomorrow's festival... the Spirit's Eve.^Come to town at 10pm if you'd like to participate.^  -Mayor Lewis[#]Spirit's Eve Notice",
+                "winter_7": "Dear @,^Tomorrow we're all gathering in front of Marnie's house for the Festival of Ice.^^It's a celebration of winter... there'll be snowmen, ice sculptures, and an ice fishing competition!^Arrive between 9am and 2pm if you'd like to participate.^  -Mayor Lewis[#]Festival Of Ice Notice",
+                "winter_14": "Starting tomorrow, a travelling merchant fleet will dock at Pelican Town for the yearly night market.^^The market starts at 5pm, and will be in port for the next three days.^^Please visit the beach after 5pm to join the festivities. There's free coffee![#]Night Market Notice",
+                "winter_24": "Dear @,^Tomorrow is the Feast of the Winter Star.^Did you get a gift for your 'secret friend'... %secretsanta?^The feast starts at 9am in the town square. See you then! ^   -Mayor Lewis[#]Feast Of The Winter Star Reminder",
+                "passedOut4": "@, ^^Found you face-down in the mud during my 3am sweep.^^You should try to make it home a little earlier next time!^^     -Marlon[#]Note From Marlon",
+                "willyHours": "Good news!^^The ol' boat is seaworthy once again, thanks to you!^^Stop by the back room whenever you want a ride.^^My shop is now open at 8am every day, so you can get an early start.^^-Willy[#]Willy's Boat"
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
+            }
         }
     ]
 }

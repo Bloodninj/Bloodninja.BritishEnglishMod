@@ -1,6 +1,11 @@
 {
     "Format": "2.0.0",
     "ConfigSchema": {
+        "UseTwentyFourHourClock": {
+            "AllowValues": "true,false",
+            "Default": "true",
+            "Section": "Interface"
+        },
         "GrandparentName": {
             "AllowValues": "Grandpa, Grandad, Grandfather",
             "Default": "Grandpa",
@@ -27,6 +32,19 @@
                     "ClockTimeFormat": "[HOURS_24_00]:[MINUTES]",
                     "ClockDateFormat": "[DAY_OF_WEEK] [DAY_OF_MONTH]"
                 }
+            }
+        },
+        {
+            "Action": "EditData",
+            "Target": "Data/AdditionalLanguages",
+            "Fields": {
+                "Bloodninja.BritishEnglishMod": {
+                    "TimeFormat": "[HOURS_12]:[MINUTES][AM_PM]",
+                    "ClockTimeFormat": "[HOURS_12]:[MINUTES][AM_PM]"
+                }
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
             }
         },
          // load button texture
