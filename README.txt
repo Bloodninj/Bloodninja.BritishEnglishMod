@@ -23,7 +23,7 @@ This is a mod which changes various bits of text in the base game using Content 
 
 Various other small bits have been changed that aren't strictly matters of spelling:
 
-* The game clock is now 24-hour (e.g. `18:00`) as opposed to 12-hour (`6:00pm`)
+* The game clock is now 24-hour (e.g. `18:00`) as opposed to 12-hour (`6:00pm`) - this is configurable via GMCM
 * References to the "movies" (the place) now mostly refer to the cinema instead (with the exception of Evelyn, who is old enough to remember when it was still called the pictures)
     * Most references to "movies" as the motion pictures themselves are called "films" now
 * Pierre's General Store can be renamed via the [Generic Mod Config Menu](https://www.nexusmods.com/stardewvalley/mods/5098) if you have it installed (or by manually editing the `config.json` file in the mod directory). Defaults to the regular name.

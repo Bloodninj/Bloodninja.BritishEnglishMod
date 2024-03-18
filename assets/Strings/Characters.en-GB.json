@@ -1,6 +1,7 @@
 {
     "Changes": [
         {
+            "LogName": "Edit Strings/Characters",
             "Action": "EditData",
             "Target": "Strings/Characters",
             "Entries": {
@@ -56,6 +57,28 @@
                 "Phone_Ring_RoboCaller": "You hear a robotic voice on the other end. # Congratulations. . . You. Have. A. 10,000g. JOJA. Rebate. Waiting. For. You. . . Please. Post. Your. Credit. Card. Number. To. 133. N. Gunger St. Zuzu. City. To. Receive. Your. Rebate. . . *CLICK*",
                 "Phone_Ring_Pierre": "Hey, @. It's me, Pierre. #$b#How are you doing? Good? That's good.#$b#Well, I just wanted to say that I appreciate your business. And I'd like to remind you that {{PierreShopName}} carries *the finest* seeds and produce anywhere.#$b#I hope to see you in the store very soon. Bye! *click* ",
                 "Phone_Ring_Lewis": "Hey, @. #$b#I just wanted to check up on you and see if %farm Farm is doing well.#$b#$y 'How's everything going?_Good! I really feel at home here._Good to hear. *I think I can speak for everyone in saying that we really value your presence in the community.*Your {{GrandparentName}} would be really proud of what you've accomplished. *Well, I'll let you get back to your work. Goodbye!_Good! The farm is very productive._Good to hear! *Your farm has really boosted the local economy, which is good for everyone. We all appreciate your hard work! *I think it's safe to say that your {{GrandparentName}} would be really proud of what you've accomplished.*Well, I'll let you get back to your work. Goodbye!_Not so good..._Oh... I'm sorry to hear that. $s*Uh... Keep working hard and I'm sure things will improve... *Well... I'll let you get back to it, then... Okay? Talk to you later. Bye. $s_I know your secret, Lewis._What's that? I think the line cut out... I can't hear a thing. Alright, well I guess I'll hang up then. Bye.$3'"
+            }
+        },
+        {
+            "LogName": "Edit Strings/Characters (12-hour specific)",
+            "Action": "EditData",
+            "Target": "Strings/Characters",
+            "Entries": {
+                "Phone_Robin_Open": "Hello? Hey! Yes, I'm currently open for business... please swing by before 5pm if you need anything! *click* $h",
+                "Phone_Robin_Open_Rare": "Hello? Oh, hi @! *BANG*... Um, one sec... (Muffled Voice: Honey, could you close the door? I'm trying to run a business here.)... Sorry! Yes, I'm open until 5pm today. See you later! *click* ",
+                "Phone_Robin_Closed": "Hey, it's Robin. My business hours are from 9am to 5pm. Please come by then if you need anything! *beep*",
+                "Phone_Clint_Open": "Hello? Oh, hey, @. Yup, I'm open for business until 4pm. Er... Okay. Goodbye. *click*",
+                "Phone_Clint_Open_Rare": "Hello? Yes, yes, I'm open until 4pm. Gotta go. *click*^Hello? Oh... @... Your voice sounds really nice over the phone... Uh... Okay. Understood. I'm open until 4pm. *slam*$4",
+                "Phone_Clint_Closed": "You've reached Clint's answering machine. I'm not available right now... My business hours are from 9am to 4pm. *beep*",
+                "Phone_Pierre_Open": "{{PierreShopName}}! Oh, hello, @! Yes, I'm open until 5pm today. Please come by for great deals on seeds and produce! Goodbye. *click*",
+                "Phone_Pierre_Open_Rare": "Abigail! Your guinea pig is loose again! Come here *right now* and take care of this! $3#$b#Oh! Uh... Hello? Thank you for calling. Y... Yes, we're open until 5pm. Goodbye. *click*$4",
+                "Phone_Pierre_Closed": "Thank you for calling {{PierreShopName}}. We're closed at the moment, but our hours are 9am to 5pm. See you then! *beep*",
+                "Phone_Gus_Closed_NoDishOfTheDay": "Hello, this is Gus from the Stardrop Saloon. We're currently closed. Please stop in between 12pm and 12am if you'd like some of our delicious food and drink. *beep*",
+                "Phone_Marnie_Open": "Hello? Oh, hi @! Yes, my shop is open until 4pm today. Hope to see you soon! *click*",
+                "Phone_Marnie_Closed": "Hello, you've reached Marnie's Ranch. My business hours are from 9am to 4pm. Please come visit me then. *beep*"
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
             }
         }
     ]

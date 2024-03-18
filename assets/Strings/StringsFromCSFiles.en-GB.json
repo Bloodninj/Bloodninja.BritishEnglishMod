@@ -89,6 +89,31 @@
                 "MapPage.cs.11108_newHours": "Open 08:00 to 17:00"
 
             }
+        },
+        {
+            "LogName": "Edit Strings/StringsFromCSFiles spellings (12-hour specific)",
+            "Action": "EditData",
+            "Target": "Strings/StringsFromCSFiles",
+            "Entries": {
+                "MapPage.cs.11069": "Open 9am to 4pm most days",
+                "MapPage.cs.11077": "Open 9am to 3pm",
+                "MapPage.cs.11078": "{{PierreShopName}}",
+                "MapPage.cs.11080": "Open 9am to 5pm (Closed Wednesday)",
+                "MapPage.cs.11080_ExtendedHours": "Open 9am to 5pm",
+                "MapPage.cs.11082": "Open 9am to 4pm",
+                "MapPage.cs.11084": "Open 12pm To 12am",
+                "MapPage.cs.11087": "Open 8am to 6pm",
+                "MapPage.cs.11096": "Shop open 9am to 5pm most days",
+                "MapPage.cs.11100": "Open 2pm to 10pm",
+                "MovieTheater_Map": "Cinema",
+                "MovieTheater_Hours": "(Open 9am to 9pm)",
+                "MapPage.cs.11106": "Open 9am to 11pm",
+                "MapPage.cs.11108": "Open 9am to5pm",
+                "MapPage.cs.11108_newHours": "Open 8am to 5pm"
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
+            }
         }
     ]
 }
