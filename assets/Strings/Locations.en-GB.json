@@ -19,6 +19,19 @@
                 "Town_SeedShopSign": "- {{PierreShopName}} -\nNow open 7 days a week From 09:00 - 17:00!",
                 "SamHouse_Sam_Trash": "Looks like Sam cleans his bin regularly.",
             }
+        },
+        {
+            "LogName": "Edit Strings/Locations (12-hour specific)",
+            "Action": "EditData",
+            "Target": "Strings/Locations",
+            "Entries": {
+                "BeachNightMarket_Closed": "Opens at 5pm.",
+                "BeachNightMarket_GiftGiverClosed": "Merchant: The night market starts at 5pm... visit me then for a free cup of coffee! ",
+                "Town_SeedShopSign": "- {{PierreShopName}} -\nNow open 7 days a week From 9am - 5pm!"
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
+            }
         }
     ]
 }

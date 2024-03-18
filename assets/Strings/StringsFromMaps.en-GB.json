@@ -1,6 +1,7 @@
 {
     "Changes": [
         {
+            "LogName": "Edit Strings/StringsFromMaps",
             "Action": "EditData",
             "Target": "Strings/StringsFromMaps",
             "Entries": {
@@ -65,6 +66,27 @@
                 "MovieTheater_Marlon": "Gil slept through the whole film... typical.",
                 "MovieTheater_Morris": "As you can see, the cinema is a major success!$h#$b#Whaa...? A return on your investment? Well, it's difficult, you know... might take a while, you understand... *mumble*$2",
                 "Pirates1": "GREEN: You were always Momma's favourite! WaaaAaAa"
+            }
+        },
+        {
+            "LogName": "Edit Strings/StringsFromMaps (12-hour specific)",
+            "Action": "EditData",
+            "Target": "Strings/StringsFromMaps",
+            "Entries": {
+                "Town-Christmas.1": "Clinic - Hours 9am - 3pm",
+                "Town-Christmas.4": " Archaeology Office - Open 8am to 6pm",
+                "Town-EggFestival.1": "Clinic - Hours 9am - 3pm",
+                "Town-EggFestival.4": " Archaeology Office - Open 8am to 6pm",
+                "Town-Fair.3": "Clinic - Hours 9am - 3pm",
+                "Town-Fair.8": " Archaeology Office - Open 8am to 6pm",
+                "Town-Halloween.1": "Clinic - Hours 9am - 3pm",
+                "Town-Halloween.4": " Archaeology Office - Open 8am to 6pm",
+                "Town.1": "Clinic - Hours 9am - 3pm",
+                "Town.2": "{{PierreShopName}} is open 9am to 5pm. Closed Wednesdays",
+                "Town.5": " Archaeology Office - Open 8am to 6pm",
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
             }
         }
     ]
