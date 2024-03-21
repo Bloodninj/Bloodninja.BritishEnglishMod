@@ -1,0 +1,35 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Abigail",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Abigail",
+            "Entries": {
+                "AcceptGift_(O)StardropTea": "Wow... the colour is so beautiful, like an amethyst. Thanks!",
+                "AcceptGift_(O)SkillBook_4": "Hey, this is my favourite magazine! My Dad won't let me have a subscription, so I have to get it on the black market like this...$h",
+                "AcceptGift_(O)66": "$c 0.5#Wow... it's just my colour! Thanks, @!$h#Thank you! This is my favourite stone. It's so pretty.",
+                "GreenRain": "I want to go exploring, but I can tell my mum is kind of worried. I don't want to add to her stress.",
+                "cc_Begin": "Don't tell anyone, but I sneaked into the old community centre last night... I think it's haunted!",
+                "wonEggHunt_memory_oneyear": "I'm still mad that you beat me at the egg hunt last year. You'd better start practising...",
+                "dating_Sebastian_memory_oneday": "I heard you and Sebastian started dating... I didn't realise you guys had a thing...$6",
+                "movieTheater": "Did you hear about the new cinema in town? I'm excited to check it out!$h",
+                "Resort_Shore_2": "Hmm, you think I could sneak my guinea pig onto the island?#$e#Nah, David's probably not much of a swimmer anyway.$h",
+                "secondChance_Girls": "*sigh*... I can't stay mad at you any more, @. Let's just move on with our lives.$s",
+                "Fri": "Wow, I just realised it's Friday. $u#$e#Sometimes I totally lose track of time.",
+                "Event_Rain_2": "Yea... I guess you would be one to appreciate this sombre ambience.",
+                "summer_1": "Summer's here. It's not really my favourite season.#$e#The air is so muggy I feel like I'm floating in soup.",
+                "summer_6": "I went to the beach last night, after dark... Sometimes you can see strange lights bobbing over the sea.#$e#Or maybe that was just a dream I had... It doesn't feel real any more.",
+                "summer_Sat": "I'm looking forward to autumn... the cool mountain breeze, the swirling red petals, the smell of mushrooms... *sigh*",
+                "summer_Sun": "Do you ever get an urge to go exploring, @?#$q 25/26 summer_Sun_old#Okay... pretend you just won a free holiday. Where would you go?#$r 25 0 Sun_25#The beach#$r 26 30 Sun_26#In a dark cave#$r 26 30 Sun_26#The old, gnarled forest#$r 25 0 Sun_25#Joja Mega-Mall",
+                "summer_Sun_old": "$p 25#I do... but you probably wouldn't like the places I'm thinking about...|Maybe we'll be neighbours someday. I think we both have similar, weird tastes.$h",
+                "fall_1": "Ah... Autumn's here!$h#$e#I was getting so tired of summer.",
+                "fall_Wed": "I can't wait to see some pumpkins this year.$h#$e#The Spirit's Eve festival happens at the end of the season. It's pretty low-key compared to what you'd see in Zuzu City, but for a small town like this it's a lot of fun.",
+                "fall_Sat": "$d cc#I can't believe you fixed up that old Community Centre all by yourself. I'm really impressed.|Do you have any scarecrows on your farm?",
+                "fall_Fri10": "I usually feel lonely this time of year, but not any more.$l#$e#@, what are your plans for the future?",
+                "winter_Tue": "Doesn't a steaming cup of hot chocolate sound good right now?",
+                "winter_Fri": "One thing I've learnt living here... everyone stares at you if you look different.",
+                "winter_Tue4": "It's so cold, I wish we had a cup of hot chocolate to share.$h"
+            }
+        }
+    ]
+}

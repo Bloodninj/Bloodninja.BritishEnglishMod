@@ -1,0 +1,23 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Haley",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Haley",
+            "Entries": {
+                "AcceptGift_(O)421": "Wow, they're beautiful! These are my absolute favourite.$h",
+                "GreenRain": "I don't think I've ever set foot in this place. It's actually kind of cosy!$h#$e#Oh, I'm not worried about the rain. I'm sure it'll pass.",
+                "eventSeen_12_memory_twoweeks": "My parents sent another postcard... I guess they're in the middle of a cruise down the Gem Sea Coast.#$e#They said me and Emily could join them at any point, but let's be honest... who wants to go on holiday with their parents?",
+                "Thu": "#$1 HaleyClothes#I've decided I am going to organise my clothes today. I'll have to throw out all of last year's styles to make room for the new ones!#$e#*sigh* I could really go for a cupcake right now.#$e#Do you need something?",
+                "Sat": "I'm feeling an urge to go shopping. Ugh! I wish there were a boutique here.",
+                "Event_jar2": "Oh... you aren't? Hmmm...$s#$b#Well could you try opening this jar for me anyway?",
+                "Event_room1": "Him? No!#$b#...Well, I guess I used to like Alex. But not any more! He's immature.",
+                "summer_Sat_old": "#$p 43#Hey, you better not be snooping around in my room any more!$a|But I guess it could get you in pretty good shape.",
+                "summer_Tue4": "$p 47#Hey I found this new tool to open jars with. So you won't need to help me any more.$h|There's not a cloud in the sky today.$h",
+                "summer_Fri4": "I spent 3 hours practising my signature today.#$e#I guess that's pretty silly, huh?",
+                "fall_Sat": "It's too cold to go to the beach any more.#$q 44 fall_Sat_old#*sigh*...what do you think I should do today?#$r 44 10 fall_Sat_12#Watercolor painting#$r 44 20 fall_Sat_12#Relax and read a magazine#$r 44 -30 fall_Sat_13#Stop being a selfish crybaby",
+                "winter_Wed6": "I think I'm starting to realise that clothes aren't the most important thing. Right?#$e#I still like clothes, though. I mean, what's wrong with expressing yourself a little?"
+            }
+        }
+    ]
+}

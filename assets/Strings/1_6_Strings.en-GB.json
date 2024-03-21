@@ -1,0 +1,47 @@
+{
+        "Changes": [
+        {
+            "LogName": "Edit Strings/1_6_Strings",
+            "Action": "EditData",
+            "Target": "Strings/1_6_Strings",
+            "Entries": {
+                "SquidFest_Willy": "After a while, you get a feel for the squid's behaviour. You can tell when one's on the line before you even see it.",
+                "DesertFestival_Shane_marriage": "Remind me to brush my teeth tonight... there's twelve unique cola flavours, and I'm on track to try them all.#$e#Mmm... cave carrot cola... *slurp*",
+                "DesertFestival_Harvey": "Going into the caves can be really dangerous. I hope there are no accidents, but still... I'll be here all day just in case.#$e#As a doctor, I'd recommend minimising your exposure to serpent-infested caverns! But ultimately, it's your choice.",
+                "DesertFestival_Linus": "I hitched a ride underneath the bus.#$e#You can't find this Calico Desert flavour anywhere else. Heheh...$h",
+                "DesertFestival_Penny": "Thousands of years ago, this place was the homeland of an ancient civilisation. I wonder what they were like?",
+                "DesertFestival_Vincent": "Mum, I'm bored!",
+                "DesertFestival_Willy": "Ah, nothing like the smell o' grilled prawns on a warm day.",
+                "Willy_Challenge_Return_3": "Well, if it isn't me favourite golden bobber!#$b#And it only smells mild o' fish... Heh heh.$h#$b#Here's 30 Calico Eggs for your reward.",
+                "Scholar_Question_1_1_Answers": "Spring,Summer,Autumn",
+                "Scholar_Question_1_2": "Question 2: When is {{PierreShopName}} normally closed?",
+                "Scholar_Question_2_0_Answers": "Any Season,Summer,Autumn,Winter",
+                "Scholar_Question_3_2": "Question 4: How many rubbish bins are there in Pelican Town?",
+                "Cook_DishNames_1_0": "Mountain Chilli",
+                "Cook_DishNames_4_2": "Prawn Doughnut",
+                "Cook_DishNames_4_1": "Rainforest Prawn",
+                "Gil_Rating_1000": "You hear a voice in your head: 'It would be dishonourable to submit an egg rating acquired through the use of cheat code software!'",
+                "DF_Mine_CalicoStatue_Name_6": "Meagre Meals",
+                "SquidFestBooth_NoRewards": "You haven't earnt any rewards yet. Better start catching some squid!",
+                "MagicHairDye_Description": "Your hair shimmers with all the colours of a prismatic shard.",
+                "Fizz_Intro_1": "So... you got my letter, huh? Nice to meet ya.#$b#I'm Fizz. Joja Special Services Division.$h#$b#You haven't heard of us? That's okay, most people haven't...#$b#We're not really advertised like other Joja products. We're more of a 'speciality service' for elite clients.#$b#What do we do? Heh... well, let's just say... we specialise in 'legally complex' matters... catch my drift?#$b#But enough chit chat. Let's get to business.#$b#I've heard you're trying to achieve 'perfection'. A noble goal! ... but difficult. Very difficult.#$b#All that cooking, crafting, monster slaying, all those complicated friendships... *groan*. I can see how stressed you are.$s#$b#But here's the thing... you don't need to stress another minute! We've got you covered.$h#$b#See these papers here? They're called 'perfection waivers'.#$b#Each one of these beautiful pages are worth 1% toward perfection. They've even got Mr. Qi's signature on it... completely legit!#$b#Do I look like someone who would lie to you??$u#$b#...$u#$b#Don't answer that.#$b#...Anyway, I'm selling these for a sweet, sweet price... just 500,000g a pop. A steal!#$b#Well, no pressure. Just think about it! I'll be waiting...$h",
+                "Fizz_Intro_2": "So... what do you say? 500,000g for a bona fide 'Perfection Waiver'?",
+                "Book_Defense_Description": "Gain +1 Defence.",
+                "Book_Bombs_Name": "Dwarfish Safety Manual",
+                "Book_Trash_Description": "You have a greater chance to find items in rubbish bins.",
+                "MiniForge_Description": "Now, you can use a dwarfish forge from the convenience of your home.",
+                "GrandpaMasteryNote": "My dear {0},^^If you're reading this note, you've found the secret room I've prepared for you.^^Within these walls are tips, recipes, and even some of my most cherished tools... all the very best from the many happy years I spent in the valley.^^By coming this far, you'll have proven that you possess the skill and wisdom to make good use of these powerful secrets.^^I hope my discoveries help you in your journey to making {1} Farm a shining star of the whole world!^^Make me proud!^-{{GrandparentName}}",
+                "MasteryCompleteToast": "You feel {{GrandparentName}}'s hand patting your shoulder...",
+                "Pam_busSign_resort": "I'm on holiday today! You'll have to drive yourself.       -Pam",
+                "Farm_Perfection_Description": "Waterfall Farm_{{GrandparentName}} you a magic lamp that grants a powerful bonus. However, you've also inherited his 1,000,000g debt to JojaBank, and must pay it off in seasonal instalments...",
+                "DefenseEnchantment": "+{0} Defence",
+                "RaccoonFinal": "Your new neighbours seem to be thriving!",
+                "Book_Artifact_Description": "You will fetch a better price when selling artefacts.",
+                "PowdermelonSoda_Name": "Powdermelon Cola",
+                "TrashCatalogueDescription": "Access a free supply of rubbish for decorations. Wash hands after use.",
+                "LearnedANewPower": "You've learnt a new power!"
+
+              }
+        }
+    ]
+}

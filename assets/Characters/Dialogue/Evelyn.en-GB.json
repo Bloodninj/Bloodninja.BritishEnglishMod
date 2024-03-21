@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Evelyn",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Evelyn",
+            "Entries": {
+                "cc_Complete": "It's lovely to have the old community centre back. We have so many memories from the old days... It's a special place.",
+                "married": "I'm very happy for you, dear.$h#$e#Seeing young people in love is heart-warming for old grannies like me.",
+                "MovieInvitation": "Oh my! That's so kind of you, dear. Why yes... I'd love to see a film!$h#$b#You go on ahead, and I'll meet you at the pictures.",
+                "Thu": "I'll be baking biscuits today. I like to make flower shapes in the spring.$h#$e#Maybe I'll tell you my recipe one of these days.",
+                "Fri": "George spends the whole day in front of that bloomin' television set.#$e#I wish he'd go outside more. Some fresh air would do him good.",
+                "summer_Thu": "I'm going to bake biscuits today. They're coconut wonders shaped like little palm trees! Heehee.$h#$e#Maybe I'll tell you my recipe one of these days.",
+                "summer_Thu4": "It seems like we always have more visitors when I start baking biscuits.#$e#My mother taught me the recipe.",
+                "fall_Thu": "Today I'm baking biscuits. They're shaped like little pumpkins.$h#$e#Maybe I'll tell you my recipe one of these days.",
+                "winter_Thu": "Today I'm baking biscuits. They're shaped like little winter stars.$h#$e#Maybe I'll tell you my recipe one of these days."
+            }
+        }
+    ]
+}

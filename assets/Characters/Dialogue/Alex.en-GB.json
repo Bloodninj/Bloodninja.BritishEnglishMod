@@ -1,0 +1,31 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Alex",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Alex",
+            "Entries": {
+                "AcceptBirthdayGift_Negative": "What the...? Uh, I dunno what it's like where you grew up, but to me, this is rubbish.$a",
+                "AcceptGift_(O)Book_Defense": "Aw, yeah... I've been looking for this one. It's supposed to be full of tips for bulking up. Rule number one... Eat a tonne of eggs! Hah, no problem! Thanks!$h",
+                "AcceptGift_(O)107": "Now that's what I call an egg! Imagine the size of the omelette...",
+                "Resort_Towel": "With this island open, there's no excuse to be pasty any more!",
+                "Resort_Towel_3": "When I go pro, I'll holiday on islands all around the world.#$e#But for now, this place will do just fine!$h",
+                "Resort_Bar": "I'm ordering a banana milkshake with two scoops of protein powder.",
+                "secondChance_Guys": "I don't know if I can trust you any more, but I'm willing to give you a chance.$9",
+                "Fri4": "Hey, @. I'm glad you stopped by.#$e#I'm not ashamed to say that I love my grandma!#$e#Now {{Lowercase:{{GrandparentName}}}}, on the other hand...#$e#Just kidding.$h",
+                "event_box2": "Wow... It's the anniversary of my mum's death! Have a heart...$a",
+                "summer_Mon": "Hey, farmer guy. You look a little burnt.^Hey Farmer girl. You've got a nice tan going.$h#$e#The more I practise this summer, the easier it'll be for me to go pro.#$e#Then you'd be able to say you knew me once. Cool, huh?",
+                "summer_Tue": "If my hair weren't so popular with the ladies, I swear I'd shave it all off in a second.#$e#*sigh*... Life can be tough.",
+                "summer_Wed": "Hey farm guy, I've got a question for you.^Hey Farm girl, I've got a question for you.#$b#$q 52/53 summer_Wed_01_old#Do you think I'll ever turn pro?#$r 52 30 summer_Wed_01_01#You're destined to be a sports legend#$r 52 0 summer_Wed_01_02#Maybe, if you practise a lot#$r 53 -50 summer_Wed_01_03#No, you'll most likely fail and become a salesman",
+                "summer_Wed_01_old": "$p 52#Hey, when I turn pro you can say you were my first \"fan\". Not bad, huh?|Hey, I've been practising twice as hard so I can turn pro and prove you wrong. You just wait.$a",
+                "summer_Wed_01_02": "Yeah, well I'm so good I'm not going to have to practise all that much.$u",
+                "summer_Sat": "Mmmm... I smell a barbecue.#$e#Damn I could go for a burger.",
+                "summer_Sun": "I got these new shoes yesterday 'cuz my old pair had a brown smudge.#$b#I just threw them in the bin. I would've donated them but I don't like the idea of some weirdo wearing my shoes, ya know?#$e#...What?$a",
+                "fall_Sun": "Hey, the gridball match is on today!#$e#Sundays are pretty awesome in the autumn.$u",
+                "winter_Thu": "When I turn pro, I'll be so rich that I'll get a holiday home in the tropics.#$e#Then I won't have to deal with these boring winters.",
+                "winter_Sun": "Hey, the gridball match is on today!#$e#This might be my favourite day of the week.",
+                "winter_Tue4": "Hey, @. Could you do me a favour?$l#$b#If you see Haley, tell her I'm busy.$l#$e#Thanks."
+            }
+        }
+    ]
+}

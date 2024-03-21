@@ -1,0 +1,16 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Demetrius",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Demetrius",
+            "Entries": {
+                "questComplete_104_memory_oneday": "Checking up on the melon research? Yes, I... uh... 'analysed' it, and it certainly has an optimal macronutrient profile...",   
+                "Resort_Leaving": "I'll be analysing this data for months.",
+                "Event_Lab_Silence": "Well, we'd better titrate this solution before it crystallises on us.",
+                "summer_Fri_inlaw_Maru": "I hope my daughter's keeping up on her maths and science!",
+                "winter_Sat": "Let's see... if seasonal nitrogen levels could be modelled by a piecewise function...$u#$b#Oh! Sorry. I was analysing data and I didn't notice you there.#$e#Do you need anything?"
+            }
+        }
+    ]
+}

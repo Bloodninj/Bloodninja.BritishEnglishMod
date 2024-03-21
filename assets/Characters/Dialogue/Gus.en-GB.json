@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Gus",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Gus",
+            "Entries": {
+                "GreenRain": "I saw the weather forecast last night. It really gave me a scare!$s#$e#Are there monsters out there? What's happening?",
+                "eventSeen_3206194": "Hey, you really pulled through with those eggs. The omelette turned out great, thanks to you!",
+                "Sun": "Business has been pretty steady thanks to my regulars."
+            }
+        }
+    ]
+}

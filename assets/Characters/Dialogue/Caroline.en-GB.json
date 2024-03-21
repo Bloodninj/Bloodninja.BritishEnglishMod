@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Caroline",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Caroline",
+            "Entries": {
+                "AcceptGift_(O)StardropTea": "Ooohh... this is nice. I'll save it for a quiet day in the sun room.",
+                "movieTheater_memory_oneweek": "It's fun to have a cinema in town. I want to go see a western!",
+                "achievement_15": "Judging by the savoury smells wafting from your place, I can tell you've been busy in the kitchen!$h",
+                "summer_Sat_inlaw_Abigail": "How's Abigail's health? She's always been such a pale girl. Hopefully the farm lifestyle puts a little colour in her cheeks.",
+                "fall_Mon": "Autumn is Abby's favourite season, so I'm hoping she'll come out of her room more often.",
+                "winter_Sat": "Don't you think Abby would look better with her natural hair colour?#$e#She used to have light chestnut-coloured hair.",
+                "winter_Wed6": "Are you excited for the new year?#$e#I predict that you'll be very successful on your farm.$h"
+            }
+        }
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Elliott",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Elliott",
+            "Entries": {
+                "AcceptBirthdayGift_Positive": "I'm honoured that you would remember my birthday! Thank you!$h",
+                "AcceptBirthdayGift_Negative": "Another year gone by, another grey hair... I suppose this gift can commemorate my decline.$s",
+                "FlowerDance_Accept": "Of course... it would be an honour! I look forward to it.$h",
+                "Resort_Leaving_2": "Hopefully a crab hasn't sneaked onto my clothes again.$s#$b#Imagine crawling out of a pocket and finding yourself on a beach hundreds of miles from home!$h#$e#Hmmm... Perhaps this could make for an interesting novel...",
+                "Resort_Wander": "I've heard rumours of pirates coming to shore near here at night. They say it can get pretty wild!",
+                "Thu8": "#$1 elliottApol#It's a little lonely out here on the beach... so I apologise if I was ever a little too forward with you when we first met. I was just eager to have a friend.$k#$e#It feels good to have a close friend like you.",
+                "summer_Tue6": "I write in hopes of connecting with others through time and space.$u#$e#*sigh*...times are changing, though. People don't read any more.$s",
+                "fall_Mon4": "Come visit me if you need a break from your labours.$h#$e#I'm usually at my house.",
+                "fall_Sat": "It gets windy this time of year. Marvellous!$h",
+                "winter_Mon": "You've come to visit me in the cold?#$e#I could do with a respite from my lonely labours.",
+                "winter_Mon4": "@, you've trudged through the snow to visit me?#$e#I'm honoured!$h"
+            }
+        }
+    ]
+}

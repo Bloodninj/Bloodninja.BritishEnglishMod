@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/George",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/George",
+            "Entries": {
+                "MovieInvitation": "You wanna see a film with an old geezer like me? ...Well... okay. I'll meet you there.",
+                "married_Alex": "...Hmmph.^I'd like to become a great-{{Lowercase:{{GrandparentName}}}} before I croak. Think you can make that happen?",
+                "divorced_once": "Hmmph... took the easy way out, huh?#$e#People these days treat marriage like a telly... If you get bored, just change the channel! Back in my day... *grumble*",
+                "joja_Begin": "So... the old Community Centre is gone, huh? Whatever happened to small-town values? It's a shame how times have changed...",
+                "Thu": "I can't talk right now, young man.^I can't talk right now, miss.#$e#My favourite programme is on.",
+                "Sun": "Aren't you cold? They don't make jumpers like they used to.#$e#*Sigh*",
+                "Thu6": "Hello, @. Wanna watch the telly with me?",
+                "Fri4": "My grand-pap was a farmer. It's a respectable profession.#$e#If I weren't so bloody old I'd come to your farm and show you a thing or two...",
+                "Wed10": "@! Let me turn off this damn telly and we can have a little chat.$h#$e#So what are the young people doing these days?"
+            }
+        }
+    ]
+}

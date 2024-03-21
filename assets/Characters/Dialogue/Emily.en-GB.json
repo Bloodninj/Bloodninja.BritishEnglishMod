@@ -1,0 +1,19 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Emily",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Emily",
+            "Entries": {
+                "AcceptGift_(O)68": "$c 0.5#Oh, wow... Thank you! This colour perfectly captures my mood today.$h#The warm, soothing energy of this stone helps us re-centre our thoughts... It's actually just what I needed on a day like this. Thanks!",
+                "AcceptGift_(O)64": "$c 0.5#Wow, look at that colour! It matches perfectly with my outfit.$h#Oh, this is perfect... I've been feeling a little sluggish lately. Rubies are great for energising the spirit!",
+                "AcceptGift_(O)60": "$c 0.5#Oh!... Heheh... I know exactly why you gave me this stone today. Very interesting...#Wow, it's beautiful! This colour makes me think of all the spiritual power within the forest... Can you feel that wood energy?",
+                "divorced": "@... You broke my heart... I just can't talk to you any more.$s#$e#Please, let me try to heal...$s",
+                "Wed": "I've heard rumours of rare and powerful magic rings, forged long ago by forgotten civilisations. I'm not sure if it's true or just a fairy tale.",
+                "Sun4": "This house was left in our care by my parents. They've been travelling the world for the last two years.#$e#We have no idea when they'll be back.#$e#I enjoy living here, though. It's a beautiful area and the town is nice.",
+                "fall_Thu8": "I think Clint's mad at me. He never looks at me any more...$u#$e#I always thought we were friends.$u",
+                "winter_Wed": "Haley and I aren't made for such a big house. It's a hassle to keep it clean.#$e#Ah well. I really shouldn't be complaining.#$e#Your farmhouse seems nice and cosy.$h"
+            }
+        }
+    ]
+}

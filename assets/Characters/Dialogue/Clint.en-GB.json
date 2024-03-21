@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Clint",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Clint",
+            "Entries": {
+                "cc_Minecart": "Somehow, the old town minecart system started working again. It's very convenient for getting to and from the mines.#$b#Don't get too cosy, though... if it can start up so suddenly, it could just as well shut down...",
+                "Sat6": "Damn it, I'm too old to do anything exciting any more. All I have to look forward to is years and years of sweaty, hot furnace-work.",
+                "Sun8": "I don't know if people realise this, or care, but I do take a lot of pride in my work.#$e#I mean... When I was a boy I didn't really dream of becoming a blacksmith. But that's what I am. And I want to be the best blacksmith I can be."
+            }
+        }
+    ]
+}

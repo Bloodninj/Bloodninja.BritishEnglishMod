@@ -91,7 +91,92 @@
                 "HasFile: {{FromFile}}": true
             }
         },
-        
+        // Characters/Dialogue
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Abigail.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Alex.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Caroline.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Clint.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Demetrius.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Dwarf.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Elliott.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Emily.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Evelyn.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/George.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Gus.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Haley.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        // Data
         {
             "Action": "Include",
             "FromFile": "assets/Data/Blueprints.en-GB.json",
@@ -384,6 +469,13 @@
         // Strings
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/1_6_Strings.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/BigCraftables.en-GB.json",
             "When": {
                 "Language": "en-GB"
@@ -518,7 +610,7 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Strings/schedules/Elliot.en-GB.json",
+            "FromFile": "assets/Strings/schedules/Elliott.en-GB.json",
             "When": {
                 "Language": "en-GB"
             }

@@ -1,0 +1,15 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Dwarf",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Dwarf",
+            "Entries": {
+                "AcceptBirthdayGift_Negative": "Oh! I've read about this tradition... it's a 'birthday gift', isn't it?#$b#So, is it part of the tradition to give out rubbish like this?",
+                "GreenRain": "I can't see the colour green very well.#$b#I guess it's part of living underground for so long.",
+                "Tue": "Ah... cave carrot stew, cave carrot roast, cave carrot soup and cave carrots au gratin.#$e#...And a ramekin of cave carrot brûlée to sweeten the night.#$e#What?",
+                "firstVisit_Caldera": "You found the legendary Dwarfish Forge? Incredible... I've never seen it, myself.#$e#The machinery is so old, none of my people understand how it works. But it's definitely Dwarfish technology."
+            }
+        }
+    ]
+}
