@@ -42,7 +42,7 @@
                 "MovieTheater_Map": "Cinema",
                 "MovieTheater_Hours": "(Open 09:00 to 21:00)",
                 "MapPage.cs.11106": "Open 09:00 to 23:00",
-                "MapPage.cs.11108": "Open 09:00 to17:00",
+                "MapPage.cs.11108": "Open 09:00 to 17:00",
                 "MapPage.cs.11117": "Community Centre",
                 "Object.cs.12739": "{0} Jam",
                 "ShopMenu.cs.blueboat": "I specialise in outdoor decorations. Does anything catch your eye?",
@@ -108,7 +108,7 @@
                 "MovieTheater_Map": "Cinema",
                 "MovieTheater_Hours": "(Open 9am to 9pm)",
                 "MapPage.cs.11106": "Open 9am to 11pm",
-                "MapPage.cs.11108": "Open 9am to5pm",
+                "MapPage.cs.11108": "Open 9am to 5pm",
                 "MapPage.cs.11108_newHours": "Open 8am to 5pm"
             },
             "When": {
