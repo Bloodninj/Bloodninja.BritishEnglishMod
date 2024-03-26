@@ -9,15 +9,20 @@
                 "AgedRoe_Description": "Fish eggs aged in salt to bring out the flavour.",
                 "Alamite_Description": "Its distinctive fluorescence makes it a favourite among rock collectors.",
                 "Amaranth_Description": "A purple grain cultivated by an ancient civilisation.",
+                "AmaranthSeeds_Description": "Plant these in the autumn. Takes 7 days to grow. Harvest with the scythe.",
                 "AncientFruit_Description": "It's been dormant for aeons.",
                 "AppleSapling_Description": "Takes 28 days to produce a mature Apple tree. Bears fruit in the autumn. Only grows if the 8 surrounding \"tiles\" are empty.",
                 "ArtifactSpot_Name": "Artefact Spot",
+                "ArtichokeSeeds_Description": "Plant these in the autumn. Takes 8 days to mature.",
+                "ArtifactSpot_Name": "Artefact Spot",
+
                 "ArtifactSpot_Description": "Uh... how did you get this in your inventory? Ape made a booboo.",
                 "ArtifactTrove_Name": "Artefact Trove",
                 "BananaPudding_Description": "A creamy dessert with a wonderful tropical flavour.",
                 "BasicFertilizer_Name": "Basic Fertiliser",
                 "Beet_Name": "Beetroot",
                 "BeetSeeds_Name": "Beetroot Seeds",
+                "BeetSeeds_Description": "Plant these in the autumn. Takes 6 days to mature.",
                 "BerryBasket_Description": "The fibres are stained with berry juice.",
                 "Bixite_Description": "A dark metallic mineral sought after for its cubic structure.",
                 "Blackberry_Description": "An early-autumn treat.",
@@ -32,6 +37,7 @@
                 "Cookie_Name": "Biscuit",
                 "CookoutKit_Name": "Cook-out Kit",
                 "Corn_Description": "One of the most popular grains. The sweet, fresh cobs are a summer favourite.",
+                "CornSeeds_Description": "Plant these in the summer or autumn. Takes 14 days to mature, and continues to produce after first harvest.",
                 "CranberryCandy_Name": "Cranberry Sweet",
                 "CranberrySeeds_Description": "Plant these in the autumn. Takes 7 days to mature, and continues to produce after first harvest.",
                 "DeluxeFertilizer_Name": "Deluxe Fertiliser",
@@ -138,7 +144,13 @@
                 "Weeds_DryBush_Description": "A cluster of dry old bushes. Might contain fibres or mixed seeds.",
                 "Weeds_FiberOrMixedSeeds_Description": "Might contain fibres or mixed seeds.",
                 "Weeds_FiberOrMixedSeeds_Ugly_Description": "Ugly weeds. Might contain fibres or mixed seeds.",
-                "YamSeeds_Description": "Plant these in the autumn. Takes 10 days to mature."
+                "YamSeeds_Description": "Plant these in the autumn. Takes 10 days to mature.",
+
+                "GreenRainWeeds0_Description": "Might contain fibres or mixed seeds.",
+                "Raisins_Description": "It's said to be the Junimos' favourite food.",
+                "Carrot_Description": "A fast-growing, colourful tuber that makes for a great snack.",
+                "BroccoliSeeds_Description": "Plant in the autumn. Takes 8 days to mature, and continues to produce after first harvest.",
+                "Powdermelon_Description": "Named for the powdery coating that forms on the surface, this melon is crisp and sweet, with a delicate flavour.",
 
             }
         }
