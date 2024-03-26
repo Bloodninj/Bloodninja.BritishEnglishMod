@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/SimpleNonVillagerDialogues spellings",
+            "Action": "EditData",
+            "Target": "Strings/SimpleNonVillagerDialogues",
+            "Entries": {
+                "derby_contestent2": "Mariner: Of course... some guy shows up wearing the same outfit as me. How embarrassing!",
+                "derby_contestent5": "Angler: Any luck? Most of the bites I'm getting are from the mosquitoes..."
+            }
+        }
+    ]
+}
