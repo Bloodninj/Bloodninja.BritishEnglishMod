@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Marnie",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Marnie",
+            "Entries": {
+
+            }
+        }
+    ]
+}

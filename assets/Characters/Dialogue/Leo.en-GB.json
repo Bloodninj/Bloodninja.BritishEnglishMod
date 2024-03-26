@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Leo",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Leo",
+            "Entries": {
+                "Mon4": "I've learnt a lot from my parrot family...#$b#But I'm sure there's a lot more out there I don't know.$s"
+            }
+        }
+    ]
+}

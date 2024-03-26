@@ -1,0 +1,15 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Krobus",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Krobus",
+            "Entries": {
+                "AcceptGift_(O)308": "This smells delicious! I'll eat half, and use the other half to moisturise my body...$h",
+                "8_*": "A 1,000 year war between my people and the dwarfs recently ended. There's still a lot of resentment on both sides.",
+                "15_*": "Please keep my location a secret. If the dwarfs knew of me, they'd surely send an assassin.",
+                "Mon2": "Back again? I suppose it does fit into my theory of human behaviour."
+            }
+        }
+    ]
+}

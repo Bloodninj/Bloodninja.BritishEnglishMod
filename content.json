@@ -176,6 +176,69 @@
                 "Language": "en-GB"
             }
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Harvey.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Jas.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Jodi.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Kent.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Krobus.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Leah.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Leo.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Lewis.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Marnie.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
         // Data
         {
             "Action": "Include",

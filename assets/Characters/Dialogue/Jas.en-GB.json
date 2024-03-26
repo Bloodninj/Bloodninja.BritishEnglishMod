@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Jas",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Jas",
+            "Entries": {
+                "movieTheater": "Aunt Marnie says I'm not old enough to see a film by myself...$s",
+                "Wed4": "Aunt Marnie won't let me go out after 6 o'clock. It's not fair!$s#$e#I'm not afraid of the dark any more!",
+                "Fri4": "I like living on the farm... my favourite is the fresh ice cream from our cows' milk."
+            }
+        }
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Harvey",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Harvey",
+            "Entries": {
+                "AcceptGift_(O)StardropTea": "You're giving me this? I'm honoured. Thank you!",
+                "eventSeen_56_memory_twoweeks": "I tried making my own pickles one time...$s#$e#Um, let me put it this way... The frogs we dissected in high school smelt like roses in comparison...",
+                "eventSeen_571102_memory": "I've never told anyone about my aeroplane hobby before... I guess I just feel comfortable talking to you.",
+                "Resort": "I'll let you in on a little secret... I can only swim with armbands.$s",
+                "Sun": "Hmm... I'm struggling to make ends meet. I don't have enough patients.#$e#I guess I should try to get patients from the neighbouring towns..."
+            }
+        }
+    ]
+}

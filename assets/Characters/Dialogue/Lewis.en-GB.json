@@ -1,0 +1,25 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Lewis",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Lewis",
+            "Entries": {
+                "Introduction": "So, how was your first night in the old cottage?#$e#Your {{Lowercase: {{GrandparentName}}}} used to complain about the rickety old bed. But I think, deep down, he actually loved that house.",
+                "cropMatured_254": "Those melons have been looking real good over at %farm farm!$h#$b#You know, that was one of your {{GrandparentName}}'s favourite crops back in the day.",
+                "cropMatured_276": "Nothing says 'autumn' quite like a pumpkin, don't you think?",
+                "movieTheater": "All the young people seem happy about the new pictures.#$e#A thriving cinema will be good for the local economy. I just hope there's nothing objectionable in those modern pictures!",
+                "Resort_Shore": "Holiday opportunities like this could really expand the local economy!#$e#I'd better not stay in the sun too long, or my moustache will dry out.",
+                "Resort_Chair": "Hehe... look at this place! I don't know how you did it, but this little holiday spot is the talk of the town.$h",
+                "cc_Begin": "*sniff*... *sniff*... Ah, I sense you've been spending some time in the old Community Centre. It's good to know someone's taking care of the place.",
+                "joja_Begin": "So, the old Community Centre is gone... I guess times change, and good things come and go... Yet I can't help but feel a sense of loss.$s#$e#I just hope this doesn't mar my record as Mayor.$s",
+                "spring_10": "Ah... There's nothing like a proper brew in the morning.",
+                "Saloon": "Good evening! It's nice to see you socialising with the townsfolk.#$b#It's good to stop by once in a while and see what the latest news is.$h",
+                "Saloon4": "Good evening, @! I'm glad to see you relaxing at the saloon. It's good for you to take a break now and then.$h#$b#Your {{Lowercase: {{GrandparentName}}}} always worked himself too hard... I'll have an extra beer in his honour tonight.",
+                "summer_Town_57_40": "#$c .3#Ah, my flowers are growing wonderfully!$h#$c .3#Good morning! Can you smell the sweet scent of these dew-lilies?#$e#It's early but the air is already quite warm. Summer is nice for an old guy like me, hehe.",
+                "summer_Wed": "The moonlight jellies will be here soon. It's one of my favourite things about the valley.",
+                "fall_Town_57_40": "#$c .3#Hmmm... these strange little mushrooms have been popping up in my wood chips. I wonder what kind they are?#$c .3#Good morning! We're slowly entering the cold months, so I'm seeing my garden to a gentle end.#$e#Ah, you're in town early, huh? Finished with your farm work already?"
+            }
+        }
+    ]
+}

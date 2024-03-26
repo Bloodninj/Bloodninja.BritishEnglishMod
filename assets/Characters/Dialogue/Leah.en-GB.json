@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Leah",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Leah",
+            "Entries": {
+                "Resort_Shore": "The shape of the waves here is awe-inspiring.#$e#I wonder if I could ever capture that sort of formlessness in a sculpture.",
+                "divorced": "I've realised I'm happier by myself. So just leave me be.$u",
+                "Mon": "The trees look nice today, don't they?#$q 21/22/211132 Mon_old#So why did you become a farmer?#$r 21 -5 Mon_21#I want to make tonnes of money.#$r 22 5 Mon_22#It's more \"real\" than living in the city.#$r 211132 5 Mon_211132#To follow in {{Lowercase: {{GrandparentName}}}}'s footsteps.#$r 22 5 Mon_22#I wanted to escape my old life.",
+                "Mon_211132": "That's very sweet to honour your grandfather like that.",
+                "Tue": "Hello, neighbour.#$e#We both live outside of town. Does that mean something?",
+                "Thu6": "Foraging is a speciality of mine. Someday I'll make you a fresh salad.$h",
+                "fall_Tue": "I wonder if I could make a collage out of dried leaves?#$e#They're just so colourful... I can't help but think of the potential for art projects.$h"
+            }
+        }
+    ]
+}

@@ -1,0 +1,18 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Jodi",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Jodi",
+            "Entries": {
+                "pamHouseUpgradeAnonymous": "Did you see Pam's new house? Boy... I wish I had that kind of money... I'd love to get the kitchen remodelled, at least...$s",
+                "Thu6": "Where does all the time go? *sigh*#$e#I remember when Sam was a little baby wearing nappies. He was such a cute little kid.$s#$e#Don't tell him I said that.$h#$e#You must really like talking to me, huh?",
+                "Sun": "#$c .5#I'm taking a break from housework today.$h#$e#I'm taking the day off.$h#$e#If I don't spend any time outside, I'll go crazy!#$e#Plus I don't want my legs to turn soft.",
+                "Sun8": "I had a dream that I had complete freedom, no obligation to anyone but myself...#$b#...Then I woke up and realised I had a full day of housework ahead of me...$s#$e#But I don't regret having a family, @... Sam and Vincent mean everything to me!",
+                "fall_Thu": "Maybe I've spoilt the boys a bit.#They've never had to do any work around the house.#$e#I guess I want them to be able to enjoy their childhood while they still can. Well, Sam's basically a man now, though.#$b#I hope he hasn't grown up to be lazy. That won't do.$s#$e#Being a parent isn't very easy.",
+                "winter_Thu": "Sam makes a lot of noise with that music of his. I hope it doesn't disturb the neighbours.",
+                "winter_Fri": "It would be nice to go on holiday once in a while...$s"
+            }
+        }
+    ]
+}

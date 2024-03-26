@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Kent",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Kent",
+            "Entries": {
+                "AcceptGift_(O)Book_Bombs": "Well, I can't read Dwarfish, but it's an interesting collector's item. Thank you.",
+                "reject_865": "Yep... It's been tightly sealed, so the flavour should still be really potent.",
+                "Fri4": "I ought to take up fishing. It would give me something to do, keep my hands busy."
+            }
+        }
+    ]
+}
