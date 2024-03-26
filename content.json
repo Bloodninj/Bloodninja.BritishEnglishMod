@@ -560,6 +560,13 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/SimpleNonVillagerDialogues.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/SpecialOrderStrings.en-GB.json",
             "When": {
                 "Language": "en-GB"
