@@ -34,7 +34,8 @@
                 "Character_FarmBeach": "Beach Farm_Good foraging and fishing, and tonnes of open space. Sometimes, supply crates wash up on shore. However, sprinklers don't work in the sandy soil.",
                 "Chat_Eternal1": "You feel it in your heart: somewhere, somehow... {{GrandparentName}} is beaming with pride.",
                 "NameChange_EasterEgg3": "*{{GrandparentName}} is shaking his head... 'I built this farm the old fashioned way, not with unlimited {0}...'",
-                "EndCredit_Neighbors": "Neighbours"
+                "EndCredit_Neighbors": "Neighbours",
+                "Chat_RaceSabotage_1": "There's a rumour that the next race is rigged..."
             }
             
         }
