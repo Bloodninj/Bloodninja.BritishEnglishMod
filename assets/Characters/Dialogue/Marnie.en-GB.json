@@ -5,7 +5,7 @@
             "Action": "EditData",
             "Target": "Characters/Dialogue/Marnie",
             "Entries": {
-
+                "Saloon": "Now that I'm here I can finally relax and socialise a bit."
             }
         }
     ]

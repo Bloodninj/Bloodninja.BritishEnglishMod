@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Pam",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Pam",
+            "Entries": {
+                "Trailer_Entry": "Penny! Did you make dinner?/Penny! You done your jobs?/Penny! You home?/Hey! I'm home!",
+                "Fri2": "You know, I've been thinking... I wish I had a hobby. Something to do other than hanging around at that saloon every night.#$e#You got any ideas?#$e#...Ehh. Maybe I'll play draughts against myself.",
+                "winter_Sat": "I ought to take up fishin', seein' as how close the river is."
+            }
+        }
+    ]
+}

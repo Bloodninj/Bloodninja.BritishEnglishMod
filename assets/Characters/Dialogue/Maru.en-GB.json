@@ -1,0 +1,21 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Maru",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Maru",
+            "Entries": {
+                "AcceptGift_(O)337": "Oh, wow! That's a rare element. It's theorised that all the iridium in our world comes from meteorites...$h",
+                "dating_Maru": "Ummm... Don't break the news to my dad, okay? I'll handle it.",
+                "GreenRain": "I want to go collect samples with my dad, but my mum is insisting we stay here...",
+                "Resort": "I've been noticing a few different starfish species. My favourite are the big purple ones, but they're all very interesting!",
+                "Resort_Towel_2": "We're so far removed from civilisation out here.#$b#Imagine the stars you could see at night.#$e#Who knows, maybe we'd even see a flying saucer or two!$h",
+                "Sat": "Do you know my dad, Demetrius? He's a scientist. I have a lot of fun helping him out in the laboratory.",
+                "Fri6": "My dad is very logical, and my mum is very intuitive. That difference leads to conflict, sometimes...$s",
+                "event_robot1": "Thanks. That means a lot to me, @.#$b#I know gadgets aren't really your kind of thing... but I do appreciate that you're showing interest in what I do.#$b#I wish I could return the favour somehow.$l",
+                "fall_Mon8": "You should come visit me at the clinic tomorrow. I work from 10 o'clock to 4 o'clock.$h",
+                "winter_Thu": "Hey! What's up?#$e#It's a good time to explore the caves.#$e#I would go but my dad would flip."
+            }
+        }
+    ]
+}
