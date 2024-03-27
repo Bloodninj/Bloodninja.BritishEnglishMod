@@ -529,6 +529,22 @@
                 "Language": "en-GB"
             }
         },
+        // Data/TV
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/TV/CookingChannel.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        // Data/TV
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/TV/TipChannel.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
         // Strings
         {
             "Action": "Include",
