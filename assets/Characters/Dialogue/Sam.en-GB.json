@@ -1,0 +1,37 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Sam",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Sam",
+            "Entries": {
+                "GreenRain": "Whaa! Is it acid? Will it burn through the roof and sizzle us alive?$8#$b#I have to keep my little brother safe!$7",
+                "eventSeen_45": "I better lie low for a while. I wouldn't want to get on Mayor Lewis' bad side!",
+                "firstVisit_Sewer": "Heheh... So you've been to the sewer, huh? I've sneaked down there a few times myself. It's pretty creepy.#$e#How could I tell? Hmm... let's just say... 'the nose knows'.$h",
+                "eventSeen_733330_memory_oneday": "If... I mean when... my dad gets back, I wonder if he'll be the same as I remember him?$s",
+                "FlowerDance_Accept_Spouse": "Aw, I have to put on that stuffy suit again? I thought now that we're married... Well, alright.$s",
+                "Mon2": "Hey, how's it going?#$e#Last night I practised guitar for 4 hours straight. My fingers hurt like crazy.$s#$e#Bye, I've got something to do...",
+                "Wed_19": "Hey, mate... what the heck is your problem? Sorry I asked.$a",
+                "Wed10": "Hey buddy. You look like you're full of energy today!^@. Um... I just wanted to say... You look nice today.$10",
+                "Thu6_1": "I think my dad might be coming back in a year or so.#$e#I guess you might be able to meet him, then. If you're still living here.#$e#You wouldn't abandon the farm after putting so much effort into it!",
+                "Thu2": "My dad is a soldier, fighting against the Gotoro Empire. That's why he's not here...#$e#He'll come back someday.#$e#...I've heard some terrible things about the Gotoro Empire...$s",
+                "Thu_2": "Well, my dad is back. Have you met him?#$b#I'm just glad he's okay.",
+                "Thu2_2": "Well, my dad is back. Have you met him?#$b#I'm just glad he's okay.",
+                "Fri4": "Dad used to work as a bin man in the city.#$e#You don't even want to know some of the things he found in people's rubbish.",
+                "Sat4": "Oh! I just remembered I'm supposed to call my grandma. Okay, I'm going to put this elastic band on my wrist so I don't forget.#$e#I have to make little reminders for myself or else I'll totally forget to do things.$h",
+                "10": "Did you watch the footy last night?#$b#Or wait, do you even have a telly...?",
+                "summer_Tue4": "Hi, @. Do you want to hang out or something?#$e#I'm so energised during summer I hardly have to sleep!",
+                "summer_Thu6_2": "Sometimes I can hear my dad pacing down the hallway at night.$s#$b#...But he won't tell us what's troubling him.",
+                "fall_Wed": "Hey... something smells good, like pizza.#$e#Do you smell that? Maybe mum's cooking something.",
+                "fall_Thu6_1": "I think my dad might be coming back next year.#$e#I guess that's kind of soon. Weird.",
+                "fall_Thu6": "I guess I should start thinking about moving out soon...$s#$e#...But I would miss mum's fish casserole, so I dunno...$s#$e#I hate making decisions.",
+                "fall_Thu": "Have you ever noticed all the spider webs that appear during autumn?#$e#If you get up early you'll see them covered in dew... like little stars.",
+                "fall_Sun8": "The first week of autumn is already over. Man, that went by fast.$s#$e#Whatever. I'm just happy that you came to visit me!#$e#So do you have anything new to tell me?",
+                "winter_Thu6_1": "I think my dad is coming back this spring.#$e#It's been three years since I've seen him. This is going to be strange.",
+                "winter_Thu": "My dad is in the military, fighting against the Gotoro Empire. That's why he's not here.#$e#He's coming back soon, though.",
+                "winter_Thu_2": "One thing that's nice about winter... all the mosquitoes are gone.",
+                "winter_Sun": "Try not to make a mess in the house or my mum will flip."
+            }
+        }
+    ]
+}

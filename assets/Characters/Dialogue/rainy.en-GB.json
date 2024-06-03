@@ -1,0 +1,17 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/rainy",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/rainy",
+            "Entries": {
+                "George": "It's bloody cold, isn't it? What a rotten day.",
+                "Pam": "Eyup, kid. Stayin' dry?",
+                "Sam": "Rain muffles sound, so I can play my guitar louder without my mum getting mad. Hehe.$h",
+                "Elliott": "Sometimes when I lie in bed I can hear a distant foghorn cut through the rain.#$b#But when I look out the window I see only a curtain of grey.",
+                "Dwarf": "Rain... It's almost mythical to us. Some of us dwarfs live our entire lives without ever experiencing it.",
+
+            }
+        }
+    ]
+}

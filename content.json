@@ -239,6 +239,62 @@
                 "Language": "en-GB"
             }
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Maru.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Pam.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Penny.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Pierre.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/rainy.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Robin.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Sam.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Sebastian.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
         // Data
         {
             "Action": "Include",

@@ -1,0 +1,24 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Sebastian",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Sebastian",
+            "Entries": {
+                "GreenRain": "My mum's freaking out, but I'm actually kind of enjoying this. I bet the frogs are going wild out there!$h#$e#I'm gonna stay here to try and keep her calm, though.",
+                "Tue6": "Sam's really outgoing, so when we hang out he does most of the talking.#$b#That's fine with me!||Imagine if Sam were as reserved as I am... we'd hang out and never say a word.$h||Some people are talkers, others are listeners. I'm more of a listener.",
+                "Wed2_inlaw_Abigail": "Sam is probably my only friend in this town, any more...",
+                "Thu": "#$1 Sebastian1#I sneaked into the caves last night and got a nasty cut from a rock crab. Don't tell anyone, okay?#$e#Hi.#$e#...want something?",
+                "Thu4": "Why does everyone like Maru so much? Sure, she's smart and friendly, but don't they realise it's all just an attention-grabbing scam?#$e#Sorry...$s",
+                "Fri2": "*sigh*... If petrol weren't so expensive I'd ride my motorbike to the city today.#$e#$q 15/16 Fri_old#So what do you do when you aren't working?#$r 15 0 Fri_bad#More Farming#$r 16 30 Fri_good#Comic books#$r 15 -30 Fri_bad#Shopping#$r 15 -30 Fri_bad#Sports",
+                "event_city4": "Ugh... You sound like my mum.$a#$b#...*sigh*$s#$b#You're right, though. I'm addicted to these things, it's not good.$s",
+                "summer_Tue4": "I'm looking forward to the cold, damp season. Channelling my inner toad, I guess.$h",
+                "summer_Sat": "I hope we're not having mushroom casserole tonight...$s||Oh no, is it cave carrot wraps night? ...*groan*$s",
+                "fall_20": "Are you looking forward to the Spirit's Eve festival? It's probably my favourite.$h",
+                "winter_24": "It's the eve of the Winter Star today. Better make sure you've got an empty stomach for the feast tomorrow.",
+                "winter_Mon4": "Nothing surprises me any more... nothing makes me laugh.#$e#Yeah, I know... I'm being a little dramatic.",
+                "winter_Tue6": "I was so close to screaming at mum for throwing away my old comic collection... But something stopped me.#$e#Hmm... with age comes wisdom."
+            }
+        }
+    ]
+}

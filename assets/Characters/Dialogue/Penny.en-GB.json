@@ -1,0 +1,21 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Penny",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Penny",
+            "Entries": {
+                "eventSeen_34_memory_oneweek": "I've been teaching Jas and Vincent about Dwarfish Archaeology...#$b#Jas is curious about the origins of the Dwarfs... but Vincent is mainly interested in dwarfish weapons!$h",
+                "Mon8": "I'm eager to move out. It's such a burden to be worrying about mum all the time.#$e#I want her to be happy, but I can't stay here forever... you know?$s",
+                "Wed": "We don't have a school here but I'm doing my best to give Vincent and Jas a proper education.#$e#Every child deserves a chance to be successful.#$e#Jas is very good at maths and reading. Vincent is good at... well, he has an active imagination!",
+                "Fri8": "I shouldn't complain so much about housework... some people in the world are really struggling, and here I am complaining about doing dishes...$s",
+                "Sat2": "$d Joja#Things changed a lot after the JojaMart went up. It's been really bad for Pierre's shop. Mum loves JojaMart, though. The prices are cheap, so she can afford a lot more there than she ever could at Pierre's.|Mum's been complaining ever since JojaMart closed down. I think it's good for her, though. Maybe she'll drink less Joja Cola now.",
+                "event_old2": "You're right, we shouldn't ignore the reality of ageing.$u#$b#I guess the sooner we come to terms with our mortality, the more time we can spend really living in the here-and-now.$u",
+                "summer_Mon4": "$d cc#Thanks for fixing the community centre back up. I guess you're kind of a town hero.|Hello, @. It's nice to see you're doing well.",
+                "fall_Thu6": "Mum doesn't take very good care of herself...$u#$e#I worry about her.$u",
+                "winter_Thu": "Oh... hi. You want to talk?$u#$e#If you find any interesting artefacts or minerals, Gunther will gladly display them in the museum.#$e#He told me he has special gifts for people who donate.",
+                "winter_Mon": "On the 25th we'll be having the Feast of the Winter Star. It's one of my favourite events.#$e#It's supposed to be a time to show gratitude for all the good things in your life... but for most people it's just a time to relax and exchange gifts."
+            }
+        }
+    ]
+}
