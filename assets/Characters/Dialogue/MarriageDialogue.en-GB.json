@@ -1,0 +1,31 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogue",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogue",
+            "Entries": {
+                "Rainy_Day_Shane": "The roof's leaking? Ah well... a little mould never hurt anyone.",
+                "Rainy_Night_3": "The rain makes our home seem so cosy.$h^It's nights like this I'm glad we have a quality roof.",
+                "Indoor_Day_1": "Hi, honey! Smells good, doesn't it? I made you breakfast! [194 195 210 211 216]#$e#You need food to stay energised throughout the day.",
+                "Indoor_Day_2": "Did you sleep well?#$e#I've got some housework to do in here.",
+                "Indoor_Day_4": "Good morning, dear. Another day of farm work, huh?#$e#I'll be cheering for you. <$h",
+                "Indoor_Day_Maru": "If you ever want to talk about how to maximise crop yield or anything... I'm open to that!",
+                "Indoor_Day_Alex": "The sun's shining and I'm bursting with energy! You'd better watch out! Heheh.$h",
+                "Indoor_Day_Sam": "There's too much stuff I want to get done today... Maybe I'll just watch telly instead.",
+                "Indoor_Day_Shane": "There's something special in the air... *sniff*... what is that? Oh...#$b#It's just this old crisp I put in my pocket a few weeks ago. *crunch*",
+                "Indoor_Night_0": "Did you get everything done today, @?#$e#I did some housework... but now I'm so tired.#$e#I'm ready for bed whenever you are.$h",
+                "Indoor_Night_4": "*phew*! I just finished my housework. Now we can spend some time together.$h#$e#So, tell me about your day.$l#$e#...$h",
+                "Indoor_Night_Emily": "It's a very cosy house... I like it.",
+                "TwoKids_0": "I've already given %kid1 and %kid2 their breakfast. They were hungry!",
+                "Neutral_0": "I hope you'll still like me when I'm old and grey.$s",
+                "Neutral_1": "Do you think your {{Lowercase: {{GrandparentName}}}} would be proud of the work we've done?",
+                "spring_23": "I hope you've been practising your moves... tomorrow is the flower dance!",
+                "summer_Haley": "You must know by now that summer is my favourite season.$h",
+                "fall_Sebastian": "My mother used to always make this delicious pumpkin soup in autumn.",
+                "fall_Elliott": "Ah... autumn. The warm sun drifts low in the sky, casting long shadows over waving fields of gold.#$e#It's a beautiful time of year, don't you think?",
+                "spouseRoom_Sam": "#$c .5#The old guitar... I don't have as much drive to play it any more. That's fine.#$e#What's on your agenda today?"
+            }
+        }
+    ]
+}

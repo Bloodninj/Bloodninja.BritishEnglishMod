@@ -295,6 +295,42 @@
                 "Language": "en-GB"
             }
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Shane.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Vincent.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Willy.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/Wizard.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogue.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+
         // Data
         {
             "Action": "Include",

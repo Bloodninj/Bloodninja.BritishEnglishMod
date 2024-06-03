@@ -1,0 +1,16 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Shane",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Shane",
+            "Entries": {
+                "Mon10": "Do you ever feel like the whole world is scrutinising you like some disgusting insect?",
+                "Tue8": "We should go to a Tunnellers game some time. When I go by myself, I usually drink way too much beer.",
+                "Sun4": "Hmm... it's %time. Should I throw a frozen pizza in the microwave, or should I wait?$u||If the Tunnellers win, I'll knock back a cold one to celebrate.#$e#If they lose? I'll have a cold one to drown my sorrows.",
+                "Sun8": "If I watch more telly, maybe I can forget about life. That would be relaxing.$u",
+                "event_noLoan2": "Okay, dad...$s^Okay, mum...$s"
+            }
+        }
+    ]
+}

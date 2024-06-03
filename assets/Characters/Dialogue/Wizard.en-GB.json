@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Wizard",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Wizard",
+            "Entries": {
+                "Mon4": "Outside the domain of human civilisation is where nature truly reveals its secrets."
+            }
+        }
+    ]
+}

@@ -1,0 +1,35 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Willy",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Willy",
+            "Entries": {
+                "AcceptGift_(O)StardropTea": "By the stem o' me pipe...  a cup o' Stardrop Tea! And here I thought it were only the stuff of mermaid legend. Thank you kindly.",
+                "GreenRainFinished": "Well, the fish seem as healthy as ever. In fact, I swear they've been biting with extra vigour!",
+                "accept_869": "Ah... That's the perfect bait for a catfish I've been tryin' to catch!#$b#Here, let me trade you this for it. I'm not sure what it is, but it washed up on the beach not too long ago.#$b#Summat tells me you could use it, lad.^Summat tells me you could use it, miss.",
+                "fishCaught_775": "Ah, so you finally snagged the Glacierfish... That's one of the most slippery fish I've ever encountered!#$e#How many tries did it take ye?",
+                "fishCaught_682": "*sniff* *sniff*... Something tells me you've been fishin' in the sewers, lad.^*sniff* *sniff*... Something tells me you've been fishin' in the sewers, miss.#$b#It's an unconventional approach, to be sure. There's legend of gargantuan carp, twisted into monsters from the toxic sludge...",
+                "MovieInvitation": "Ah... a film. That's right kind of ye, lad.^Ah... a film. That's right kind of ye, miss.#$b#I'll just finish me pipe, and head over.",
+                "summer_19": "Tomorrow is the annual Trout Derby... Aye, it's a freshwater enthusiast's dream!#$e#Anglers from all over the world will be here to catch our beautiful Rainbow Trout...#$e#I'd better see you out there, lad!$h^I hope to see you out there!$h#$e#For the next two days, I'll only be manning the shop for one hour, starting at 09:00. So if you really need somethin', you can come by then.",
+                "Tue6": "The ol' man was a fisherman, you know. I grew up sailing between the Fern Islands, living from catch to catch.#$e#The fishing life is tough, but there's something about it that keeps you goin'.",
+                "Wed6": "I've heard a rumour that a special kind of fish can be found in the pools between waterfalls...#$b#If you can reach it with yer rod, that is...",
+                "Thu2": "There's rumours of some very rare fish in these parts... but only an experienced angler could stand a chance against them.#$e#You'll need the finest bait you can get if you want a rare fish to bite.",
+                "Fri4": "I'm a simple man... when me pipe's full, I'm happy. When my pipe's empty... well, then I just fill 'er up again.$u",
+                "Sat8": "How's the fishing life going for ye?#$e#I try to fish as often as possible, but it's not easy when you've got a shop to run."
+            }
+        },
+        {
+            "LogName": "Edit Characters/Dialogue/Willy (12-hour specific)",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Willy",
+            "Entries": {
+                "summer_19": "Tomorrow is the annual Trout Derby... Aye, it's a freshwater enthusiast's dream!#$e#Anglers from all over the world will be here to catch our beautiful Rainbow Trout...#$e#I'd better see you out there, lad!$h^I hope to see you out there!$h#$e#For the next two days, I'll only be manning the shop for one hour, starting at 9am. So if you really need somethin', you can come by then."
+            },
+            "When": {
+                "UseTwentyFourHourClock": false
+            }
+        }
+        
+    ]
+}

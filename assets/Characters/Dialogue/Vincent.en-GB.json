@@ -1,0 +1,22 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/Vincent",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/Vincent",
+            "Entries": {
+                "Introduction": "Oh, a stranger! My name's Vincent.#$b#Mummy says not to talk to strangers... But you seem okay.",
+                "GreenRain": "Mum! I wanna go outside and play!%noturn",
+                "AcceptGift_alcohol_item": "*sniff*... what is this? It smells awful... Muuummmm!!!$s",
+                "reject_869": "Oooh! Nice find!#$b#Mum wouldn't let me keep him, though...$s",
+                "Mon4": "$d kent#I'm glad dad's back... but he's different than I remember...$s|Dad's not around much... I miss playing with him.$s",
+                "Tue": "*sigh*... Mum won't let me have any more sweets today.$s",
+                "Wed": "I wanna look for bugs, but mum gets mad when I'm all dirty.$u#$b#It's a tough choice.",
+                "Thu": "I'm hungry... where's mum?$s",
+                "Fri": "#$c .3#Ew, it's boiled beet night again...$s#$e#Oh no... mum's making lentil soup tonight.$s",
+                "Sat8": "$d kent#Dad seems weird since he came back. I wonder what happened to him?$s#$b#He doesn't play with me any more.$s|I wonder if dad will ever come home...$s",
+                "Sun10": "Hi Uncle @!^Hi Auntie @!#$e#Don't tell mum... but you're my favourite grown-up.$h"
+            }
+        }
+    ]
+}
