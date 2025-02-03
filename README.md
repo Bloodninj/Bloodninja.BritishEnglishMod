@@ -3,6 +3,8 @@
 
 This is a mod which changes various bits of text in the base game using Content Patcher, to better match the spelling of English as used in the United Kingdom.
 
+This mod is mostly by me, with some fantastic contributions from CraftyFirebird for 1.6.10+ content and some that I missed.
+
 ## Requirements
 
 * [SMAPI](https://www.nexusmods.com/stardewvalley/mods/2400)
