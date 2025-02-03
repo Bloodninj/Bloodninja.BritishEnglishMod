@@ -1,7 +1,7 @@
 {
   "Name": "British English Localisation",
   "Author": "Bloodninja (ft. CraftyFirebird)",
-  "Version": "1.1.3",
+  "Version": "1.1.4",
   "Description": "Replaces usage of American English with their British English equivalents, and localises the game to some degree.",
   "UniqueID": "Bloodninja.BritishEnglishMod",
   "MinimumApiVersion": "3.13.0",
