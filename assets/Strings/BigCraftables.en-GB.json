@@ -8,7 +8,10 @@
                 "BoneMill_Description": "Turns bone items into fertilisers.",
                 "MiniJukebox_Description": "Allows you to play your favourite tunes.",
                 "SlothSkeletonL_Description": "This extinct sloth roamed the lush, prehistoric forests of Stardew Valley. Its powerful jaw tore through the toughest plant fibres.",
-                "SuitOfArmor_Name": "Suit of Armour"
+                "SuitOfArmor_Name": "Suit of Armour",
+                "Anvil_Description": "Allows you to re-forge trinkets, randomising their stats. Costs 3 iridium bars per use.",
+                "MiniForge_Description": "Now, you can use a dwarfish forge from the convenience of your home.",
+                "RecyclingMachine_Description": "Turns fishing rubbish into resources."
             }
         }
     ]

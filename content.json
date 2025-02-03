@@ -637,6 +637,63 @@
                 "Language": "en-GB"
             }
         },
+        // Data/Festivals
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals/spring13.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals/spring24.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals/summer11.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals/summer28.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },        
+		{
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals/fall16.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+		{
+            "Action": "Include",
+            "FromFile": "assets/Data/Festivals/fall27.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+		{
+		"Action": "Include",
+            "FromFile": "assets/Data/Festivals/winter8.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+		{
+		"Action": "Include",
+            "FromFile": "assets/Data/Festivals/winter25.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
         // Strings
         {
             "Action": "Include",
@@ -767,6 +824,13 @@
         {
             "Action": "Include",
             "FromFile": "assets/Strings/Weapons.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Tools.en-GB.json",
             "When": {
                 "Language": "en-GB"
             }

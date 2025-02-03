@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Tools spellings",
+            "Action": "EditData",
+            "Target": "Strings/Tools",
+            "Entries": {
+                "FishingRod_Fiberglass_Name": "Fibreglass Rod",
+				"ReturnScepter_Name": "Return Sceptre",
+				"ReturnScepter_Description": "The golden handle quivers with raw potential. Hold this sceptre to the sky and return home at will.",
+				"TrashCan_Name": "Recycle Bin",
+				"TrashCan_Description": "When tossing out an item, you reclaim {0}% of the value.",
+				"TrashCan_Copper_Name": "Copper Recycle Bin",
+				"TrashCan_Steel_Name": "Steel Recycle Bin",
+				"TrashCan_Gold_Name": "Gold Recycle Bin",
+				"TrashCan_Iridium_Name": "Iridium Recycle Bin"
+            }
+        }
+    ]
+}
