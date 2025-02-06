@@ -1,0 +1,19 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialoguePenny",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialoguePenny",
+            "Entries": { 
+                "Rainy_Night_1": "I'm sure Mum's at the saloon right now... But I don't feel so bad about it any more. It's out of my hands.",
+                "Indoor_Day_3": "I love to hear about all the artefacts you've found. Archaeology is fascinating!#$e#To think... there may have been farmers at this very spot 10,000 years ago.",
+                "Indoor_Night_1": "Hmm... skirt or trousers tomorrow? Oh, who am I kidding... I always go with the skirt.",
+                "Indoor_Night_3": "Mum's probably pretty lonely now that I'm gone. I just hope she doesn't visit the saloon more to make up for it.#$e#You shouldn't feel bad! Mum has to solve her own problems. ",
+                "spring_8": "Spring is probably my favourite season. There's a certain freshness in the air that fills me with hope.",
+                "summer_2": "In summer, the ants become very active. I could watch them for hours... they have a pretty complex civilisation from the looks of it!",
+                "fall_5": "The smell of autumn reminds me of the smell of books... weird, isn't it?",
+                "fall_1": "Autumn... It makes me think of coloured paper and glue. Maybe I'm spending too much time with the children.$h"
+            }
+        }
+    ]
+}

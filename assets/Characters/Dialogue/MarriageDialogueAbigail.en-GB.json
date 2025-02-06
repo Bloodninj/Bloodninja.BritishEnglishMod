@@ -1,0 +1,19 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueAbigail",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueAbigail",
+            "Entries": { 
+                "OneKid_3": "I can't believe I'm a \"mum\"... life is weird.$h", 
+                "TwoKids_2": "I had a dream that %kid2 will grow up to be a famous monster hunter. I've already been thinking about a little armour set.", 
+                "Good_3": "I can't even remember the last time I dyed my hair... I swear, it never fades from this colour...", 
+                "Good_4": "I'm glad I owned a heavy pair of boots before moving in. It's hard to imagine tip-toeing around the mud in trainers.$h", 
+                "Neutral_0": "I hope you'll still like me when I'm old and shrivelled. It's going to happen some day!", 
+                "fall_6": "Ah... autumn. This might be my favourite time of year. The colours really complement my hair, don't you think?", 
+                "fall_1": "The scent is unmistakable... mushroom, rotting leaves, pumpkin. It's autumn, alright. Isn't it lovely?", 
+                "winter_3": "I actually like the cold weather. It just gives me an excuse to get cosy!$h"
+            }
+        }
+    ]
+}

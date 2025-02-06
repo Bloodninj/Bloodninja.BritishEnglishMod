@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueHarvey",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHarvey",
+            "Entries": { 
+                "Indoor_Day_3": "I'm going to listen to some jazz music and finalise my medical reports today. What do you have planned?",
+                "Indoor_Night_1": "I took it easy today... spent some time reading books, fiddled with my radio, and worked on a model aeroplane.#$e#It's important to take a day off now and then to relax... stress is unhealthy.",
+                "fall_1": "Make sure and diversify your harvests this autumn, my dear.#$e#Or just grow cranberries... It's really up to you. What do I know?"
+            }
+        }
+    ]
+}

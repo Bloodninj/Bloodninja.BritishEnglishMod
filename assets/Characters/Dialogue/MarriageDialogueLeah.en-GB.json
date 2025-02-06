@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueLeah",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueLeah",
+            "Entries": { 
+                "fall_1": "I love autumn for the mushroom hunting opportunities. It comes and goes pretty fast.",
+                "winter_1": "Winter's here, and that means crystal fruit is in season. It has such a unique flavour, don't you think?"
+            }
+        }
+    ]
+}

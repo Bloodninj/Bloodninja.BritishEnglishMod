@@ -330,6 +330,97 @@
                 "Language": "en-GB"
             }
         },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueAbigail.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueAlex.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueElliott.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueEmily.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueHaley.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueHarvey.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueKrobus.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueLeah.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueMaru.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialoguePenny.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueSam.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueSebastian.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Characters/Dialogue/MarriageDialogueShane.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
 
         // Data
         {

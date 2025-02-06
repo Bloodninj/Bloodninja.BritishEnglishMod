@@ -1,0 +1,17 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueMaru",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueMaru",
+            "Entries": { 
+                "Indoor_Day_0": "Hmm? Sorry, sometimes I get so lost in thought that I don't even realise what I'm doing.",
+                "Indoor_Night_4": "I'm really starting to love this old house. It's so cosy at night.#$e#Mum's done a great job improving the place.$h",
+                "Outdoor_4": "I never realised the amount of care and planning necessary to run a farm! It's a lot like working in the laboratory.",
+                "funReturn_Maru": "Mum and Dad are doing just fine. Their routine is still the same, even with me gone. How was your day?",
+                "spring_2": "So, what's your strategy for optimising the farm this year?",
+                "fall_3": "Autumn always reminds me of going out woodcutting with my mum... it might be that smell of freshly cut wood and sap."
+            }
+        }
+    ]
+}

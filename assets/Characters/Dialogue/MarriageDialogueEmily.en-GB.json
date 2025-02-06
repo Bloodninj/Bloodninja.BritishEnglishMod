@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueEmily",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueEmily",
+            "Entries": { 
+                "patio_Emily": "This is my favourite spot for a morning meditation.#$e#I visualise the energy from this crystal garden flowing through my body.",
+                "Indoor_Day_2": "Hey, someone must've got a good night of sleep... you look fresh this morning.$h",
+                "fall_25": "Our bodies are naturally in tune with the seasons. This light and colour of autumn compels us to prepare for the barren winter.#$e#To our distant ancestors, this feeling was encompassing and vital. For us, it only barely peeks through the noise of modern life."
+            }
+        }
+    ]
+}

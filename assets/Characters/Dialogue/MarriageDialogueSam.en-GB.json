@@ -1,0 +1,19 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueSam",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueSam",
+            "Entries": { 
+                "Indoor_Day_1": "Hey, I made you some instant pancakes. Enjoy. [211]$h#$e#What? I never learned to cook... mum always did that.",
+                "Indoor_Night_3": "The only thing I miss about living at home is Mum's fish casserole",
+                "OneKid_0": "I'll change %kid1's nappy... don't worry about it. You've got enough on your plate.",
+                "TwoKids_0": "I woke up early, fed the kids and changed their nappies! We're all set. You can just focus on raking in that sweet money.$h#$e#I'm just kidding... I didn't marry you for the money.",
+                "Good_1": "Do you ever think of that night we sneaked into my room? I do, often...$l",
+                "summer_27": "Summer's great, but I'm ready for the autumn now.#$e#Should we watch the jellyfish tomorrow night? It's always kind of fun.",
+                "fall_1": "It seems like the whole valley's changed overnight... I guess autumn's finally here.",
+                "fall_26": "I wonder if Mum will let Vincent enter the haunted maze this year. Probably not...$h#$e#Poor kid. He's gonna have to grow up some day..."
+            }
+        }
+    ]
+}

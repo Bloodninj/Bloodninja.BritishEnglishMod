@@ -1,0 +1,19 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueShane",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueShane",
+            "Entries": { 
+                "Rainy_Night_2": "I guess... if I had some trousers I might've gone outside today... but, nah.",
+                "Indoor_Day_2": "Do me a favour... when I pass away, use my dust to fertilise some corn for the hens.",
+                "Outdoor_1": "Sometimes I stop and realise that I'm nothing more than a bag of juicy, squishy flesh.#$e#But hey... that's just fine... what's life, anyway?$h",
+                "TwoKids_2": "Ugh... %kid2 is being a little brat today. Must've got that from me...",
+                "Good_3": "I'm in a great mood today... The Tunnellers won big last night.$h",
+                "Good_6": "Ah... this is the life. No responsibilities, Tunnellers game tonight, fridge stocked with all the goodies a guy could need.$h",
+                "spring_12": "The egg festival is probably my favourite... you know how I am, I go crazy for anything to do with chickens.$h",
+                "summer_27": "What are your plans for the autumn? I'm going to try and incorporate more wine into my diet."
+            }
+        }
+    ]
+}

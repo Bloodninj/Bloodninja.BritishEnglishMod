@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueElliott",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueElliott",
+            "Entries": { 
+                "Indoor_Day_1": "Good morning, @! I made us a pot of coffee.[395]#$e#I find myself craving this robust flavour nearly every morning.",
+                "fall_1": "The splendour of autumn... a verdant banquet for all the senses to enjoy... has inspired some of the greatest poetry of all time.",
+                "winter_7": "I'm a little out of practise, but I plan on entering the fishing contest tomorrow! You've got some stiff competition, dear."
+            }
+        }
+    ]
+}

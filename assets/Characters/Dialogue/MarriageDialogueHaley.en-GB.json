@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueHaley",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueHaley",
+            "Entries": { 
+                "funLeave_Haley": "I'm going to socialise in town for a bit today.",
+                "fall_1": "Autumn is kind of sad for me... everything is dying.$5",
+                "fall_Haley": "Even though I prefer summer, autumn might be the best season to take pictures. Those long, low shadows..."
+            }
+        }
+    ]
+}

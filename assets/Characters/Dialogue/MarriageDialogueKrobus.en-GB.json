@@ -1,0 +1,14 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueKrobus",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueKrobus",
+            "Entries": { 
+                "Rainy_Day_4": "As much as I try to be civilised, I have the urge to be mischievous sometimes...$6#$e#They say it's a condition of my people.",
+                "Bad_5": "I've detected a change in your behaviour... what does it mean? *groan*$s",
+                "fall_Krobus": "It's been feeling a bit cooler lately, with a musty smell. You call this time of year 'autumn', correct?"
+            }
+        }
+    ]
+}

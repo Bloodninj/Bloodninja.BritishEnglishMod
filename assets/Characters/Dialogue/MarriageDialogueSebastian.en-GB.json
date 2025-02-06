@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueSebastian",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueSebastian",
+            "Entries": { 
+                "Rainy_Day_1": "Hey. I was just thinking about my old room in the basement. I felt comfortable there, but this is a lot more interesting. And I don't miss the smell...#$e#I felt kind of embarrassed living in my mum's house for so long.","Outdoor_4": "We should raise more slimes... In big quantities they can be pretty profitable. And they're so easy to raise.#$e#Also, different coloured slimes produce different items. I dunno, I think it'd be kind of a fun hobby for us.","Neutral_6": "If you need to go see your friends in town, go ahead. I like being alone, anyway.",
+                "fall_1": "It seems like the whole valley's changed overnight... I guess autumn's finally here."
+            }
+        }
+    ]
+}

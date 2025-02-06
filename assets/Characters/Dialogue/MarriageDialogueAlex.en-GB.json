@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Characters/Dialogue/MarriageDialogueAlex",
+            "Action": "EditData",
+            "Target": "Characters/Dialogue/MarriageDialogueAlex",
+            "Entries": { 
+                "Indoor_Day_3": "I'm still getting used to cooking and doing laundry... It's not exactly my favourite, but I knew what I was getting into when I married you.$h",
+                "Indoor_Day_4": "There's a couple of things around the house that I'm going to try and fix today. Don't worry about me, I'm not bored."
+            }
+        }
+    ]
+}
