@@ -1,2 +1,4 @@
 /Bloodninja.BritishEnglishMod.code-workspace
 /config.json
+*.zip
+/Content (unpacked)
