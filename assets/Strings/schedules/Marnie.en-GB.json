@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Marnie",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Marnie",
+            "Entries": {
+                "winter_18.001": "We're here for an appointment at half one.",
+                "winter_18.002": "Erm... Doctor Harvey? When you give her the jabs, can we have two lollies?"
+            }
+        }
+    ]
+}

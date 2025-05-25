@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Harvey",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Harvey",
+            "Entries": {
+                "Fri.001": "I'm just putting away this shopping.",
+                "Sat.000": "I'm just putting away this shopping."
+            }
+        }
+    ]
+}

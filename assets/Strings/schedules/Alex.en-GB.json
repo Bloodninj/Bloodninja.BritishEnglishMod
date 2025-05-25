@@ -5,7 +5,11 @@
             "Action": "EditData",
             "Target": "Strings/schedules/Alex",
             "Entries": {
-                "winter_17.000": "Have you seen the mermaid show? It's my favourite..."
+                "winter_17.000": "Have you seen the mermaid show? It's my favourite...",
+                "summer_16.000": "Hi. Eh, I just twisted my ankle. Seeing if I can get it wrapped up.",
+                "summer_16.001": "Yeah, yeah... I'm good, doc. Just wrap it up, okay?",
+                "Sun.000": "%Alex is completely engrossed in the match. He doesn't notice your presence.",
+                "Sun.000_married": "Hey, @! You can watch the match with us if you want, but no pressure if you're busy."
             }
         }
     ]

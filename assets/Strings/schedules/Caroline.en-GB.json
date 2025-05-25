@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Caroline",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Caroline",
+            "Entries": {
+                "Tue.002": "Mmff... I think I've earned some biscuits today. *crunch*.",
+                "winter_16.000": "I'm getting all my Winter Star shopping done tonight! Let me know if you see Pierre coming..."
+            }
+        }
+    ]
+}

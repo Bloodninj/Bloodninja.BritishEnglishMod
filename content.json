@@ -943,6 +943,13 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Caroline.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/schedules/Elliott.en-GB.json",
             "When": {
                 "Language": "en-GB"
@@ -951,6 +958,20 @@
         {
             "Action": "Include",
             "FromFile": "assets/Strings/schedules/Emily.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Harvey.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Jodi.en-GB.json",
             "When": {
                 "Language": "en-GB"
             }
@@ -978,6 +999,13 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Marnie.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/schedules/Robin.en-GB.json",
             "When": {
                 "Language": "en-GB"
@@ -993,6 +1021,13 @@
         {
             "Action": "Include",
             "FromFile": "assets/Strings/schedules/Sebastian.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/schedules/Shane.en-GB.json",
             "When": {
                 "Language": "en-GB"
             }

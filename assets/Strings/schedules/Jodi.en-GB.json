@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/schedules/Jodi",
+            "Action": "EditData",
+            "Target": "Strings/schedules/Jodi",
+            "Entries": {
+                "Tue.000": "Ohhh... My arms feel like jelly... $s"
+            }
+        }
+    ]
+}
