@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/EnchantmentNames",
+            "Action": "EditData",
+            "Target": "Strings/EnchantmentNames",
+            "Entries": {
+                "Defense": "+{0} Defence"
+            }
+        }
+    ]
+}
