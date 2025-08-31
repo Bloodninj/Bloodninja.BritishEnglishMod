@@ -1,0 +1,13 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Boots",
+            "Action": "EditData",
+            "Target": "Strings/Boots",
+            "Entries": {
+                "Sneakers_Name": "Trainers",
+                "CinderclownShoes_Name": "These magic shoes belonged to a famous Dwarfish jester."
+            }
+        }
+    ]
+}
