@@ -432,13 +432,6 @@
         },
         {
             "Action": "Include",
-            "FromFile": "assets/Data/Boots.en-GB.json",
-            "When": {
-                "Language": "en-GB"
-            }
-        },
-        {
-            "Action": "Include",
             "FromFile": "assets/Data/Bundles.en-GB.json",
             "When": {
                 "Language": "en-GB"
@@ -802,6 +795,13 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/Boots.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/Buildings.en-GB.json",
             "When": {
                 "Language": "en-GB"
@@ -810,6 +810,20 @@
         {
             "Action": "Include",
             "FromFile": "assets/Strings/Characters.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/EnchantmentNames.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
+            "FromFile": "assets/Strings/Events.en-GB.json",
             "When": {
                 "Language": "en-GB"
             }
