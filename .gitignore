@@ -2,3 +2,5 @@
 /config.json
 *.zip
 /Content (unpacked)
+/*.webp
+/*.png
