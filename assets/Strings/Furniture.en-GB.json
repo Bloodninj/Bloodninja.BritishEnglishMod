@@ -5,8 +5,19 @@
             "Action": "EditData",
             "Target": "Strings/Furniture",
             "Entries": {
+                "1000YearsFromNow": "'1,000 Years From Now'",
                 "DecorativeTrashCan": "Decorative Rubbish Bin",
-                "ColorfulSet": "Colourful Set"
+                "ColorfulSet": "Colourful Set",
+                "CashRegister": "Till",
+                "CommunityCenter": "'Community Centre'",
+                "Clothesline": "Washing Line",
+                "TrashCatalogue": "Rubbish Catalogue",
+                "TrashCatalogue_Description": "Access a free supply of decorations made from rubbish. Wash hands after use.",
+                "AluminumCan": "Aluminium Can",
+                "BuriedTire": "Buried Tyre",
+                "Tire": "Tyre",
+                "SpilledBeverage": "Spilt Drink",
+                "MoldyCouch": "Mouldy Sofa"
             }
         }
     ]
