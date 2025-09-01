@@ -1,0 +1,20 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/hats",
+            "Action": "EditData",
+            "Target": "Strings/hats",
+            "Fields": {
+                "GarbageHat_Name": "Garbage Hat",
+                "GarbageHat_Description": "It's a metal bin lid 'upcycled' into a hat...",
+                "GoblinMask_Description": "Freak out the neighbourhood with this creepy mask. Rubber ear joints for effect.",
+                "JunimoHat_Description": "To honour our little buddies...",
+                "SantaHat_Name": "Father Christmas Hat",
+                "WatermelonBand_Description": "The colour scheme was inspired by the beloved summer melon.",
+                "MouseEars_Description": "Made from synthetic fibres.",
+                "WearableDwarfHelm_Description": "A slightly larger, human sized version of the helmets worn by dwarfs.",
+                "BluebirdMask_Description": "Wear this to look just like your favourite island trader."
+            }
+        }
+    ]
+}
