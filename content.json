@@ -816,6 +816,13 @@
         },
         {
             "Action": "Include",
+            "FromFile": "assets/Strings/Events.en-GB.json",
+            "When": {
+                "Language": "en-GB"
+            }
+        },
+        {
+            "Action": "Include",
             "FromFile": "assets/Strings/Furniture.en-GB.json",
             "When": {
                 "Language": "en-GB"
