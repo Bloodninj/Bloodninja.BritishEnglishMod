@@ -1,0 +1,12 @@
+{
+    "Changes": [
+        {
+            "LogName": "Edit Strings/Monsters",
+            "Action": "EditData",
+            "Target": "Strings/Monsters",
+            "Entries": {
+                "DwarvishSentry_Name": "Dwarfish Sentry"
+            }
+        }
+    ]
+}
